@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="TunnelBear/Code/Controllers/Base.lproj/TBPromoViewController.xib" source-language="en" datatype="plaintext">
+  <file original="TunnelBear/Code/Controllers/Base.lproj/TBPromoViewController.xib" source-language="en" datatype="plaintext" target-language="tr">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
     </header>
     <body>
-      <trans-unit id="03z-jr-kYk.normalTitle">
+      <trans-unit id="03z-jr-kYk.normalTitle" approved="yes">
         <source>Sure!</source>
-        <note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYk";</note>
+        <target state="translated">Tabi!</target><note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYk";</note>
       </trans-unit>
-      <trans-unit id="58M-PZ-Xk3.normalTitle">
+      <trans-unit id="58M-PZ-Xk3.normalTitle" approved="yes">
         <source>Go Tunneling!</source>
-        <note>Class = "UIButton"; normalTitle = "Go Tunneling!"; ObjectID = "58M-PZ-Xk3";</note>
+        <target state="translated">Tünele gidelim!</target><note>Class = "UIButton"; normalTitle = "Go Tunneling!"; ObjectID = "58M-PZ-Xk3";</note>
       </trans-unit>
-      <trans-unit id="ajY-lA-uqt.normalTitle">
+      <trans-unit id="ajY-lA-uqt.normalTitle" approved="yes">
         <source>Nah</source>
-        <note>Class = "UIButton"; normalTitle = "Nah"; ObjectID = "ajY-lA-uqt";</note>
+        <target state="translated">Meh</target><note>Class = "UIButton"; normalTitle = "Nah"; ObjectID = "ajY-lA-uqt";</note>
       </trans-unit>
     </body>
   </file>
@@ -24,9 +24,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
     </header>
     <body>
-      <trans-unit id="5c0-Hm-8NY.title">
+      <trans-unit id="5c0-Hm-8NY.title" approved="yes">
         <source>Select a Country</source>
-        <note>Class = "UINavigationItem"; title = "Select a Country"; ObjectID = "5c0-Hm-8NY";</note>
+        <target state="translated">Bir ülke seçiniz</target><note>Class = "UINavigationItem"; title = "Select a Country"; ObjectID = "5c0-Hm-8NY";</note>
       </trans-unit>
     </body>
   </file>
@@ -35,45 +35,45 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
     </header>
     <body>
-      <trans-unit id="13.normalTitle">
+      <trans-unit id="13.normalTitle" approved="yes">
         <source>Create a Free Account</source>
-        <note>Class = "UIButton"; normalTitle = "Create a Free Account"; ObjectID = "13";</note>
+        <target state="translated">Ücretsiz hesap oluştur</target><note>Class = "UIButton"; normalTitle = "Create a Free Account"; ObjectID = "13";</note>
       </trans-unit>
-      <trans-unit id="21.normalTitle">
+      <trans-unit id="21.normalTitle" approved="yes">
         <source>Log in</source>
-        <note>Class = "UIButton"; normalTitle = "Log in"; ObjectID = "21";</note>
+        <target state="translated">Giriş yap</target><note>Class = "UIButton"; normalTitle = "Log in"; ObjectID = "21";</note>
       </trans-unit>
-      <trans-unit id="54.accessibilityLabel">
+      <trans-unit id="54.accessibilityLabel" approved="yes">
         <source>Email</source>
-        <note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "54";</note>
+        <target state="translated">Eposta</target><note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "54";</note>
       </trans-unit>
-      <trans-unit id="54.placeholder">
+      <trans-unit id="54.placeholder" approved="yes">
         <source>example@gmail.com</source>
-        <note>Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "54";</note>
+        <target state="translated">ornek@gmail.com</target><note>Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "54";</note>
       </trans-unit>
-      <trans-unit id="55.accessibilityLabel">
+      <trans-unit id="55.accessibilityLabel" approved="yes">
         <source>Email</source>
-        <note>Class = "UILabel"; accessibilityLabel = "Email"; ObjectID = "55";</note>
+        <target state="translated">Eposta</target><note>Class = "UILabel"; accessibilityLabel = "Email"; ObjectID = "55";</note>
       </trans-unit>
-      <trans-unit id="55.text">
+      <trans-unit id="55.text" approved="yes">
         <source>Email</source>
-        <note>Class = "UILabel"; text = "Email"; ObjectID = "55";</note>
+        <target state="translated">Eposta</target><note>Class = "UILabel"; text = "Email"; ObjectID = "55";</note>
       </trans-unit>
-      <trans-unit id="57.accessibilityLabel">
+      <trans-unit id="57.accessibilityLabel" approved="yes">
         <source>First name</source>
-        <note>Class = "UITextField"; accessibilityLabel = "First name"; ObjectID = "57";</note>
+        <target state="translated">İsim</target><note>Class = "UITextField"; accessibilityLabel = "First name"; ObjectID = "57";</note>
       </trans-unit>
-      <trans-unit id="58.accessibilityLabel">
+      <trans-unit id="58.accessibilityLabel" approved="yes">
         <source>First Name</source>
-        <note>Class = "UILabel"; accessibilityLabel = "First Name"; ObjectID = "58";</note>
+        <target state="translated">İsim</target><note>Class = "UILabel"; accessibilityLabel = "First Name"; ObjectID = "58";</note>
       </trans-unit>
-      <trans-unit id="58.text">
+      <trans-unit id="58.text" approved="yes">
         <source>First Name</source>
-        <note>Class = "UILabel"; text = "First Name"; ObjectID = "58";</note>
+        <target state="translated">isim</target><note>Class = "UILabel"; text = "First Name"; ObjectID = "58";</note>
       </trans-unit>
-      <trans-unit id="63.accessibilityLabel">
+      <trans-unit id="63.accessibilityLabel" approved="yes">
         <source>Password</source>
-        <note>Class = "UILabel"; accessibilityLabel = "Password"; ObjectID = "63";</note>
+        <target state="translated">Şifre</target><note>Class = "UILabel"; accessibilityLabel = "Password"; ObjectID = "63";</note>
       </trans-unit>
       <trans-unit id="63.text">
         <source>Password</source>
@@ -108,25 +108,25 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
     </header>
     <body>
-      <trans-unit id="46.text">
+      <trans-unit id="46.text" approved="yes">
         <source>Password</source>
-        <note>Class = "UILabel"; text = "Password"; ObjectID = "46";</note>
+        <target state="translated">Şifre</target><note>Class = "UILabel"; text = "Password"; ObjectID = "46";</note>
       </trans-unit>
-      <trans-unit id="47.accessibilityHint">
+      <trans-unit id="47.accessibilityHint" approved="yes">
         <source>Please enter your TunnelBear password</source>
-        <note>Class = "UITextField"; accessibilityHint = "Please enter your TunnelBear password"; ObjectID = "47";</note>
+        <target state="translated">Lütfen şifrenizi giriniz</target><note>Class = "UITextField"; accessibilityHint = "Please enter your TunnelBear password"; ObjectID = "47";</note>
       </trans-unit>
-      <trans-unit id="47.accessibilityLabel">
+      <trans-unit id="47.accessibilityLabel" approved="yes">
         <source>Password</source>
-        <note>Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "47";</note>
+        <target state="translated">Şifre</target><note>Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "47";</note>
       </trans-unit>
-      <trans-unit id="47.placeholder">
+      <trans-unit id="47.placeholder" approved="yes">
         <source>required</source>
-        <note>Class = "UITextField"; placeholder = "required"; ObjectID = "47";</note>
+        <target state="translated">gerekli</target><note>Class = "UITextField"; placeholder = "required"; ObjectID = "47";</note>
       </trans-unit>
-      <trans-unit id="48.accessibilityLabel">
+      <trans-unit id="48.accessibilityLabel" approved="yes">
         <source>Email</source>
-        <note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "48";</note>
+        <target state="translated">Eposta</target><note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "48";</note>
       </trans-unit>
       <trans-unit id="48.placeholder">
         <source>example@gmail.com</source>
