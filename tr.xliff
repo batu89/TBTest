@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="58M-PZ-Xk3.normalTitle" approved="yes">
         <source>Go Tunneling!</source>
-        <target state="translated">Tünele gidelim!</target><note>Class = "UIButton"; normalTitle = "Go Tunneling!"; ObjectID = "58M-PZ-Xk3";</note>
+        
       </trans-unit>
       <trans-unit id="ajY-lA-uqt.normalTitle" approved="yes">
         <source>Nah</source>
