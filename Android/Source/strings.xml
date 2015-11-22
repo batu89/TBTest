@@ -26,7 +26,8 @@
     <string name="login">Log In</string>
     <string name="submit">Submit</string>
     <string name="connecting">Connecting...</string>
-    <string name="connected">Connected</string>
+    <string name="connected">Connected to where?</string>
+    <string name="connected_not">Maybe not?</string>
     <string name="disconnected">Disconnected</string>
     <string name="first_name">First Name</string>
     <string name="is_this_your_twitter_id">Is this your Twitter ID?</string>
