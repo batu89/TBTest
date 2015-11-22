@@ -24,7 +24,8 @@
     <string name="gigabytes">GB</string>
     <string name="update_status_error">Error digging tunnel</string>
     <string name="login">Log In</string>
-    <string name="submit">Submit</string>
+    <string name="submit">Submit what?</string>
+    <string name="submit_then">Submit no, I am not submitting</string>
     <string name="connecting">Connecting...</string>
     <string name="connected">Connected to where?</string>
     <string name="connected_not">Maybe not?</string>
