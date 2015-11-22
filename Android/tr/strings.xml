@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+  Copyright (C) 2011 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+--><resources>
+
+    <string name="registration_error">İnternet bağlantısında hata</string>
+    <string name="server_connection_error">Sunucu bağlantısında hata...</string>
+    <string name="ok">Tamam</string>
+    <string name="megabytes">MB</string>
+    <string name="gigabytes">GB</string>
+    <string name="update_status_error">Tünel açmada hata</string>
+    <string name="login">Giriş</string>
+    <string name="connecting">Bağlanıyor...</string>
+    <string name="connected">Bağlandı</string>
+    <string name="disconnected">Bağlantı kesildi</string>
+    <string name="first_name">Ad</string>
+    <string name="is_this_your_twitter_id">Twitter kullanıcı adın bu mu?</string>
+    <string name="twitter_id_prompt">Lütfen Twitter kullanıcı adını gir</string>
+    <string name="select_twitter_app">Tweet atacağın uygulamayı seç</string>
+    <string name="email_address">E-posta</string>
+    <string name="unlimited">Sınırsız</string>
+    <string name="free">Ücretsiz</string>
+    <string name="check_inbox_message">E-posta adresi doğrulanamadı, gelen kutusunu kontrol et</string>
+    <string name="email_resent">E-posta şuraya tekrar gönderildi: %1$s</string>
+    <string name="debug_report_title">TunnelBear Hata Ayıklama Raporu</string>
+    <string name="debug_report_prompt">Aşağıdakini TunnelBear Destek\'e göndermek ister misin?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="debug_bug_report">Hata Raporu</string>
+    <string name="relaxed_no">Yok</string>
+    <string name="app_rating_prompt">TunnelBear\'e Play Store\'da puan vermek ister misin?</string>
+    <string name="google_play_error">Hata: Google Play\'e erişilemedi</string>
+    <string name="on">AÇIK</string>
+    <string name="off">KAPALI</string>
+    <string name="on_description">TunnelBear açık. Kapatmak için bas.</string>
+    <string name="off_description">TunnelBear kapalı. Açmak için bas.</string>
+    <string name="start_bubble_text">Konumunu ve verilerini\ngizli hâle getirmek için TunnelBear\'i aç!\nKonum: %1$s</string>
+    <string name="downgrade_error">Alt sürüme geçmede hata... Lütfen tekrar dene.</string>
+    <string name="downgrade_success">Alt sürüme geçme başarılı</string>
+    <string name="australia_aint_free_son">Selam dostum! Avustralya sadece üst sürümdeki ayılara\naçıktır.</string>
+    <string name="already_connected_to_tunnel">&lt;b>Zaten\nbu tünele bağlısın!&lt;/b>&lt;br&gt;&lt;br&gt;%1$s</string>
+    <string name="out_of_data">Gırr...\nTunnelBear\'inin bu aylık\nverisi bitti!</string>
+    <string name="trying_another_way">Gırrr! Bağlanılamıyor, başka bir yol deneniyor...</string>
+    <string name="out_of_data_short">TunnelBear\'inin verisi bitti!</string>
+    <string name="upgrade_prompt_short">Sınırsız veri için üst sürüme geç</string>
+    <string name="low_data_short">TunnelBear\'inin verisi bitiyor!</string>
+    <string name="closest_tunnel_unknown">En yakın tünel belirlenemedi.</string>
+    <string name="credentials_prompt">Lütfen e-posta ve şifre gir</string>
+    <string name="invalid_email">Lütfen geçerli bir e-posta adresi gir</string>
+    <string name="complete_form_prompt">Lütfen formu doldur</string>
+
+    <!-- Billing strings -->
+    <string name="billing_not_supported_title">Satın alma işlemi yapılamadı</string>
+    <string name="billing_not_supported_message">Şu anda Market fatura\nhizmetine erişilemiyor. Uygulama kullanılabilir ama\nsatın alma işlemi yapılamaz.</string>
+    <string name="billing_setup_error">Uygulama içi fatura kurulumunda sorun: </string>
+    <string name="billing_setup_success">Kurulum başarılı. Envanter sorgulanıyor.</string>
+    <string name="billing_query_failed">Envanter sorgulaması başarısız: </string>
+    <string name="billing_query_finished">Envanter sorgulaması bitti.</string>
+    <string name="purchase_error_message">Satın almada hata: </string>
+    <string name="purchase_complete">Satın alma tamamlandı</string>
+    <string name="purchase_in_progress">Satın alma tamamlanıyor...</string>
+
+    <!-- Billing String end -->
+    <string name="app">TunnelBear</string>
+    <string name="address">Sunucu Adresi:</string>
+    <string name="port">Sunucu Bağlantı Noktası:</string>
+    <string name="select">Seç</string>
+    <string name="cancel">İptal</string>
+    <string name="no_data">Veri Yok</string>
+    <string name="useLZO">LZO Sıkıştırma</string>
+    <string name="client_certificate_title">İstemci Sertifikası</string>
+    <string name="select_certificate">Seç</string>
+    <string name="no_certificate">Hiçbir şey seçilmedi</string>
+    <string name="opevpn_copyright">Telif hakkı © 2002–2010 OpenVPN Technologies, Inc. &lt;sales@openvpn.net>\n"OpenVPN", OpenVPN Technologies, Inc\'in ticari markasıdır.\n</string>
+    <string name="copyright_blinktgui">Telif hakkı 2012\nArne Schwabe &lt;arne@rfc2549.org></string>
+    <string name="copyright_guicode">Kaynak kodu ve sorun takip edici http://code.google.com/p/ics-openvpn/ adresindedir </string>
+    <string name="copyright_others">Program aşağıdaki bileşenleri kullanır. Lisansların bütün ayrıntıları için kaynağa bak</string>
+    <string name="copyright_file_dialog">Dosya İletişimi, Alexander Ponomarev\'in çalışmasına dayanmaktadır</string>
+    <string name="lzo_copyright">Telif hakkı © 1996 – 2011 Markus Franz Xaver Johannes Oberhumer</string>
+    <string name="copyright_openssl">Bu ürün The OpenSSL Project\'in OpenSSL Toolkit\'te kullanılmak üzere geliştirdiği yazılımı içerir\nTelif hakkı © 1998-2008 The OpenSSL Project. Tüm hakları saklıdır.\n\nBu ürün Eric Young\'ın (eay@cryptsoft.com) yazdığı kriptografik yazılımı içerir\nTelif hakkı © 1995-1998 Eric Young (eay@cryptsoft.com) Tüm hakları saklıdır.</string>
+    <string name="openvpn">OpenVPN</string>
+    <string name="file_dialog">Dosya İletişimi</string>
+    <string name="lzo">LZO</string>
+    <string name="openssl">OpenSSL</string>
+    <string name="vpn_type">Tip</string>
+    <string name="pkcs12pwquery">PKCS12 Şifresi</string>
+    <string name="file_select">Seç…</string>
+    <string name="file_nothing_selected">Hiçbir şey seçilmedi</string>
+    <string name="auth_username">Kullanıcı adı</string>
+    <string name="auth_pwquery">Şifre</string>
+    <string name="static_keys_info">Statik yapılandırma için TLS Auth Anahtarları statik anahtar olarak kullanılacaktır.</string>
+    <string name="menu_add_profile">Profil Ekle</string>
+    <string name="profilename">Profil Adı</string>
+    <string name="no_keystore_cert_selected">Kullanıcı sertifikası seçilmedi.</string>
+    <string name="no_error_found">Hata bulunmadı</string>
+    <string name="ipv4_format_error">IPv4 adresi ayrıştırılamadı</string>
+    <string name="custom_route_format_error">Özel rotalar ayrıştırılamadı</string>
+    <string name="pw_query_hint">İstendiğinde sorgulanması için boş bırak</string>
+    <string name="vpn_launch_title">VPN\'e bağlan</string>
+    <string name="route_rejected">Android rotayı reddetti</string>
+    <string name="cancel_connection">Bağlantıyı kes</string>
+    <string name="clear_log">günlüğü sil</string>
+    <string name="remove_vpn">VPN\'i sil</string>
+    <string name="ignored_pushed_routes">Önerilen rotaları yoksay</string>
+    <string name="ignore_routes_summary">Sunucunun önerdiği rotaları yoksay.</string>
+    <string name="default_route_summary">Bütün Trafik, VPN\'e yönlendirilir</string>
+    <string name="use_default_title">Varsayılan Rotayı kullan</string>
+    <string name="custom_route_message">Özel rota gir. Hedefi CIDR biçiminde gir. "10.0.0.0/8 2002::/16", 10.0.0.0/8 ve 2002::/16 ağlarını VPN\'e yönlendirir.</string>
+    <string name="custom_routes_title">Özel Rotalar</string>
+    <string name="edit_vpn">VPN Ayarlarını Düzenle</string>
+    <string name="tun_error_helpful">Bazı özel ICS görüntülerinde /dev/tun izni yanlış olabilir veya tun modülü eksik olabilir.</string>
+    <string name="tun_open_error">Tun arayüzü açılışı başarısız oldu.</string>
+    <string name="error">Hata: </string>
+    <string name="clear">Sil</string>
+    <string name="info">bilgi</string>
+    <string name="show_connection_details">Bağlantı ayrıntılarını göster</string>
+    <string name="last_openvpn_tun_config">OpenVPN\'in son arayüz yapılandırması:</string>
+    <string name="local_ip_info">Yerel IPv4: %1$s/%2$d IPv6: %3$s MTU: %4$d</string>
+    <string name="dns_server_info">DNS Sunucusu: %s</string>
+    <string name="dns_domain_info">DNS Etki Alanı: %s</string>
+    <string name="routes_info">Rotalar: %s</string>
+    <string name="routes_info6">Ipv6 Rotaları: %s</string>
+    <string name="ip_not_cidr">%1$s ve %2$s arayüz bilgileri alındı, ikinci adresin uzak adresin eşi olduğu varsayılıyor. Yerel IP için /32 ağ maskesi kullanılıyor. OpenVPN\'in verdiği mod \"%3$s\".</string>
+    <string name="route_not_cidr">CIDR ağ maskeli IP rotası olarak %1$s ve %2$s anlaşılamıyor, ağ maskesi olarak /32 kullanılıyor.</string>
+    <string name="keychain_access">Android KeyChain sertifikalarına erişilemiyor. Uygulamayı/uygulama ayarlarını yedeklediysen sertifikaya tekrar erişim izni almak için sertifikayı seç.</string>
+    <string name="send_logfile">Günlük Dosyasını Gönder</string>
+    <string name="send">Gönder</string>
+    <string name="no_vpn_support_image">Görüntün VPNService API\'ı desteklemiyor, üzgünüm :(</string>
+    <string name="settings_auth">Kimlik doğrulama/Şifreleme</string>
+    <string name="import_file">İçeri aktar</string>
+    <string name="opentun_no_ipaddr">IP bilgisi olmadan tun cihazı açılamıyor</string>
+    <string name="add_profile">Profil ekle</string>
+    <string name="import_vpn">İçeri aktar</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv6">IPv6</string>
+    <string name="error_empty_username">Kullanıcı adı boş bırakılamaz.</string>
+    <string name="pkcs12_file_encryption_key">PKCS12 Dosya Şifreleme Anahtarı</string>
+    <string name="private_key_password">Özel Anahtar Şifresi</string>
+    <string name="password">Şifre</string>
+    <string name="send_log_text">Uygulama izin verirsen TunnelBear ekibine cihazın temel bilgilerini ve günlüğünü gönderecek. Ziyaret ettiğin siteler gibi sapıkça şeyler gönderilmeyecek.\n\nAşağıdan göndereceğin geri bildirim de çok makbule geçer:</string>
+    <string name="send_log_title">TunnelBear Hata Raporu</string>
+    <string name="send_log_button">Tamam</string>
+    <string name="cancel_send_log_button">İptal</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Çıkış</item>
+        <item>Alt sürüme geçmek mi istersin?</item>
+        <item>Ücretsiz Veri!</item>
+        <item>Yardım</item>
+        <item>Hizmet Şartları</item>
+        <item>Play Store\'da Değerlendir</item>
+        <item>Seçenekler</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Ürün Simgesi</string>
+
+
+    <!-- Bear facts -->
+    <array name="bear_facts">
+        <item><string>Amerikan kara ayısı genelde yaprak, filiz, budak, yumuşak meyve ve kabuklu meyve gibi bitkisel yiyeceklerle beslenir.</string></item>
+        <item><string>Amerikan kara ayısının alt türlerinden bazıları tarçın ayısı, buzul ayısı, Meksika kara ayısı, Kermode ayısı, Louisiana kara ayısıdır.</string></item>
+        <item><string>Asya kara ayılarının göğüslerinin bir kısmı sarımsı beyaz, gövdeleri siyahtır.</string></item>
+        <item><string>Boz ayılar en büyük ayı türüdür ve karada yaşayan en büyük etçiller olarak bilinirler.</string></item>
+        <item><string>Dev pandalar neredeyse sadece bambu filizi ve yaprağı yiyen küçük ayılardır.</string></item>
+        <item><string>Kutup ayıları en büyük ikinci ayı türüdür.</string></item>
+        <item><string>Kutup ayıları yüzmede en yetenekli ayılardır.</string></item>
+        <item><string>Bir ayının yaşını belirlemenin en doğru yolu mikroskop altında enine kesilen diş kökündeki halkaları saymaktır.</string></item>
+        <item><string>Ayıların kürkleri iki kattır. Kısa kürk katmanı ayıyı sıcak tutar. Uzun katman da deri ve kısa kürkü sudan korur.</string></item>
+        <item><string>Ayılar yaban hayatta 30 yıla kadar yaşar. Kapalı tutulan bir boz ayı 47 yaşına kadar yaşamıştır.</string></item>
+        <item><string>Ayılar çarpık bacaklıdır. Bu sayede yere daha iyi tutunur ve denge kurarlar.</string></item>
+        <item><string>Sadece kutup ayısı tamamen etçildir. Diğer bütün ayılar hepçildir.</string></item>
+        <item><string>Malaya ayılarının pençeleri diğer ayılarınkinden daha uzundur. 25 santime kadar ulaşan dilleri de diğerlerinden uzundur.</string></item>
+        <item><string>Ayılar saatte 60 kilometre hızla koşabilir ve atları yakalayabilir.</string></item>
+        <item><string>Gri ayı gibi toprak kazan ayıların düz ve uzun pençeleri olur.</string></item>
+        <item><string>Normalde ayıların kalbi dakikada 40 kere atar. Kış uykusundaki ayıların kalbi dakikada 8 kere atar.</string></item>
+        <item><string>Çoğu memelinin aksine ayılar renkleri görebilir.</string></item>
+        <item><string>Yüzen bir kutup ayısı sudan 2,4 metre yüksekliğe sıçrayıp fokları şaşırtabilir.</string></item>
+        <item><string>ABD\'deki gri ayıların %98\'i Alaska\'da yaşar.</string></item>
+        <item><string>Ayının koku alma duyusu insanınkinden 100 kat güçlüdür.</string></item>
+        <item><string>Birleşik Rusya Partisi\'nin sembolü ayıdır.</string></item>
+        <item><string>Gri ayı adı, boz ayının gümüş uçlu veya grileşmiş kürkünden gelir.</string></item>
+        <item><string>Sekiz ayı türünden dördü güney, dördü kuzey yarım kürede yaşar.</string></item>
+        <item><string>Ayılar kış uykusu sırasında dışkılamaz.</string></item>
+        <item><string>Kuzey Amerika\'da yaklaşık 1000 gri ayı kalmıştır.</string></item>
+        <item><string>Ortalama bir ayı 350 kilodan ağırdır.</string></item>
+    </array>
+    <string name="bear_fact_number_title">AYILAR HAKKINDA BİLGİLER NO </string>
+
+    <!-- Accessibility -->
+    <string name="login_logo_accessibility_signup">Aşağıdaki formu doldurarak yeni bir TunnelBear hesabı oluşturun. Var olan bir hesaba girmek için sayfanın altındaki giriş düğmesine basın.</string>
+    <string name="login_logo_accessibility_signin">Aşağıdaki formu doldurarak TunnelBear\'e giriş yapın. Yeni hesap açmak için sayfanın altındaki hesap açma düğmesine basın.</string>
+
+
+    <string name="default_status_text_country">Kanada</string>
+    <string name="country_switcher_content_description">Ülke değiştir</string>
+    <string name="remaining_data_default_text">Bu ay kalan veri</string>
+    <string name="select_country">Ülke seç</string>
+    <string name="downgrade_question">Alt sürüme geçmek mi istersin?</string>
+    <string name="friends">Arkadaşız sanıyordum</string>
+    <string name="downgrade">Alt sürüme geç</string>
+    <string name="work_it_out">Hadi konuşup anlaşalım</string>
+    <string name="on_off_button_description">Açma/kapama düğmesi</string>
+    <string name="hamburger_description">Yan menü düğmesi</string>
+    <string name="upgrade_button">ÜST SÜRÜME GEÇ</string>
+    <string name="upgrade">Üst sürüme geç</string>
+    <string name="map_loading">Harita yükleniyor...</string>
+    <string name="choose_your_bear">Sınırsız Veri Al</string>
+    <string name="free_desc">%1$s MB Veri Kaldı</string>
+    <string name="free_desc_nodata">Bu aylık Veri bitti</string>
+    <string name="monthly">Aylık</string>
+    <string name="yearly">Yıllık</string>
+    <string name="version">versiyon</string>
+
+    <string name="new_user">TunnelBear\'e yeni mi katıldın?</string>
+    <string name="new_user_content_description">TunnelBear\'e yeni mi katıldın? Hesap açmak için aşağıdaki düğmeye bas.</string>
+    <string name="create_account">Hesap aç</string>
+    <string name="create_account_content_description">Düğme. Hesap Aç ekranına geç</string>
+    <string name="create_free_account">Ücretsiz hesap aç</string>
+    <string name="already_have_account">Hesabın var mı?</string>
+    <string name="already_have_account_content_description">Hesabın var mı? Giriş yapmak için aşağıdaki düğmeye bas.</string>
+    <string name="switch_to_login_screen_content_description">Düğme. Giriş ekranına geç</string>
+    <string name="done">Tamam</string>
+    <string name="missing_driver">Eksik sürücü</string>
+    <string name="missing_driver_detail">Gırr... Görünüşe göre cihazında TunnelBear\'in ihtiyacı olan bir sürücü yok. Root işlemi yapılmış bir cihazın varsa aşağıdan sürücüyü indirebilirsin.</string>
+    <string name="download_third_party_app">Üçüncü Parti Uygulaması İndir</string>
+    <string name="requires_rooted_device">Rorr! Root işlemi yapılmış bir cihazın yoksa sürücüyü indiremezsin ve TunnelBear çalışamaz. Güncellemeler için daha sonra tekrar gel!</string>
+
+    <string name="what_is_your_twitter_id">Twitter kullanıcı adın ne?</string>
+    <string name="twitter_hint">\@TwitterKullanıcıAdı</string>
+    <string name="twitter_right_person">Ücretsiz 1 GB\'ı doğru kişiye yollamak istiyoruz da</string>
+    <string name="launch_twitter">Twitter\'ı aç</string>
+    <string name="tweet_for_data">ÜCRETSİZ 1 GB için tweet at!</string>
+    <string name="tweet_instructions">\@theTunnelBear\'e tweet atıp ücretsiz 1 GB verini iste.</string>
+    <string name="tweet_instructions2">Her zaman tetikte olan TunnelBear ekibi tweet attığını görecek.</string>
+    <string name="tweet_instructions3">Bir saat içinde TunnelBear hesabına bu aylık ekstra 1 GB ücretsiz veri aktarılacak.</string>
+    <string name="leddoit">Hadi bakalım!</string>
+    <string name="rawr_thanks">Rorr! Sağ ol!</string>
+    <string name="twitter_data_should_appear">1 GB ücretsiz verin\nbir saat içinde gelecek.\n\nGelecek ay ücretsiz 1 GB kazanmak\niçin tekrar tweet atabilirsin!</string>
+    <string name="tweet_prompt"><b>ÜCRETSİZ 1 GB</b> için tweet atar mısın?</string>
+    <string name="sure">Evet</string>
+    <string name="twitter_delivered">Ücretsiz 1 GB\'ın\naktarıldı!</string>
+    <string name="rawr">Rorr!</string>
+    <string name="bear_upgraded">Ayın üst sürüme\ngeçti! Rorr!</string>
+    <string name="get_tunneling">Tünel Açmaya Başla</string>
+    <string name="noob_bear_title"><b>Bağlantı güvenli!</b></string>
+    <string name="noob_bear">Bağlantı varken &lt;b>diğer uygulamaları&lt;/b> şu ülkedeymiş gibi kullanabilirsin: %1$s</string>
+    <string name="got_it">Tamamdır</string>
+    <string name="not_logged_in">Rorr! Giriş yapmadın!</string>
+    <string name="open_app">Uygulamayı Aç</string>
+
+    <string name="wiz_4_header">Sana bir ayı gönderdik!</string>
+    <string name="wiz_4_paragraph">Ayını doğru adrese gönderip göndermediğimizi kontrol etmek için lütfen e-postana bak:</string>
+    <string name="dummy_email">email@emailbear.com</string>
+    <string name="change_email">E-posta Değiştir</string>
+    <string name="resend_email">E-postayı Tekrar Gönder</string>
+    <string name="proceed">Devam</string>
+    <string name="wiz_5_header">Ayın başlamaya hazır!</string>
+    <string name="get_tunneling_hype">Tünel açmaya başla!</string>
+    <string name="wiz_5_confirm_content_description">Tünel açmayı başlat</string>
+
+    <string name="tunnel_to_request">Şu ülkeye tünel açılsın mı: &lt;b>%1$s?&lt;/b></string>
+
+    <string name="privately_browsing_from">Şu ülkeden gizli olarak internete bağlanıyorsun: %1$s</string>
+    <string name="privately_browsing">Şimdi gizli olarak internete bağlanıyorsun</string>
+    <string name="connecting_to">Bağlanılan ülke: %1$s...</string>
+    <string name="remaining_data_notif">Kalan veri: %1$d%2$s</string>
+    <string name="only_x_data_left">Sadece %1$d%2$s kaldı!</string>
+
+    <string name="fully_formatted_remaining_data">Bu Aylık &lt;font color="%3$s">%1$s %2$s&lt;/font> Kaldı</string>
+    <string name="widget_remaining">%1$d%2$s Kaldı</string>
+
+    <string name="closest_tunnel">En Yakın Tünel</string>
+    <string name="review_prompt">Rorr! TunnelBear\'den memnun musun?</string>
+    <string name="review_prompt_no">Amanın!Ayından neden memnun olmadığını söyler misin peki?</string>
+    <string name="review_prompt_yes">Play Store\'da çabucak puan vermeye ne dersin?</string>
+
+    <string name="basic_howto1">Buradan TunnelBear\'i aç.</string>
+    <string name="basic_howto2">Buradan ülke değiştir.</string>
+    <string name="tunnelbear_help_url">https://help.tunnelbear.com/customer/portal/articles/1660656</string>
+    <string name="bearmuda">Bearmuda Üçgeni</string>
+
+    <string name="android_only_plans">ANDROID\'E ÖZEL</string>
+    <string name="full_plans">TAM PLANLAR</string>
+
+    <string name="android_only_plans_subtitle">Android cihazları için sınırsız veri</string>
+    <string name="full_plans_subtitle">Herhangi 5 cihaz için sınırsız veri</string>
+    <string name="savings_text">%%%1$d kâr et</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+
+    <string name="unknown">Bilinmeyen</string>
+
+    <string name="options_title">Seçenekler</string>
+    <string name="options_haptic_feedback">Titreşimli geri bildirim</string>
+    <string name="options_clouds">Bulutlar</string>
+    <string name="options_audio">Ayı Sesleri</string>    
+
+    <string name="contact_support_url" translatable="false">https://www.tunnelbear.com/support/contact.html</string>
+    <string name="downgrade_paragraph">Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.</string>
+</resources>

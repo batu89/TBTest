@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+  Copyright (C) 2011 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+--><resources>
+
+    <string name="registration_error">خطأ في الاتصال بالإنترنت</string>
+    <string name="server_connection_error">خطأ في الاتصال بالإنترنت...</string>
+    <string name="ok">موافق</string>
+    <string name="megabytes">ميغابايت</string>
+    <string name="gigabytes">غيغابايت</string>
+    <string name="update_status_error">خطأ في حفر النفق</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="connecting">جارٍ الاتصال...</string>
+    <string name="connected">متصل</string>
+    <string name="disconnected">غير متصل</string>
+    <string name="first_name">الاسم الأول</string>
+    <string name="is_this_your_twitter_id">هل هذا هو معرفك على Twitter؟</string>
+    <string name="twitter_id_prompt">يرجى إدخال معرفك على Twitter</string>
+    <string name="select_twitter_app">حدِّد تطبيق للتغريد معه</string>
+    <string name="email_address">الإيميل</string>
+    <string name="unlimited">غير محدود</string>
+    <string name="free">مجاني</string>
+    <string name="check_inbox_message">لم يتم تأكيد البريد الإلكتروني - يرجى إلقاء نظرة على صندوق الوارد الخاص بك</string>
+    <string name="email_resent">تم إعادة إرسال البريد الإلكتروني إلى %1$s</string>
+    <string name="debug_report_title">إبلاغ عن الأخطاء في TunnelBear</string>
+    <string name="debug_report_prompt">هل تريد إرسال التالي إلى دعم TunnelBear؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="debug_bug_report">إبلاغ عن خطأ</string>
+    <string name="relaxed_no">لا</string>
+    <string name="app_rating_prompt">هل تريد تقييم TunnelBear في Play Store؟</string>
+    <string name="google_play_error">خطأ: تعذَّر الوصول إلى Google Play</string>
+    <string name="on">تشغيل</string>
+    <string name="off">إيقاف</string>
+    <string name="on_description">تطبيق TunnelBear قيد التشغيل. انقر للإيقاف.</string>
+    <string name="off_description">تطبيق TunnelBear متوقف. انقر للتشغيل.</string>
+    <string name="start_bubble_text">شغِّل TunnelBear للحفاظ على \nموقعك وبياناتك في سرية!\n\nالموقع: %1$s</string>
+    <string name="downgrade_error">خطأ خلال الرجوع إلى الإصدار المجاني... يرجى المحاولة مرة أخرى.</string>
+    <string name="downgrade_success">تم الرجوع إلى الإصدار المجاني بنجاح</string>
+    <string name="australia_aint_free_son">يا رفيق! أستراليا متاحة\n في \'الدببة\' التي قامت بالترقية فقط.</string>
+    <string name="already_connected_to_tunnel">&lt;b>أنت بالفعل متصل بهذا النفق!&lt;/b>&lt;br&gt;&lt;br&gt;%1$s</string>
+    <string name="out_of_data">جررر...\nنفدت مساحة البيانات المخصصة\nلتطبيق TunnelBear هذا الشهر!</string>
+    <string name="trying_another_way">جررر! تعذَّر الاتصال، جارٍ تجربة طريقة أخرى...</string>
+    <string name="out_of_data_short">نفدت مساحة البيانات المخصصة لتطبيق TunnelBear!</string>
+    <string name="upgrade_prompt_short">يمكنك الترقية للحصول على بيانات غير محدودة</string>
+    <string name="low_data_short">بيانات TunnelBear على وشك النفاد!</string>
+    <string name="closest_tunnel_unknown">تعذَّر تحديد أقرب نفق.</string>
+    <string name="credentials_prompt">يرجى إدخال بريدك الإلكتروني وكلمة المرور</string>
+    <string name="invalid_email">يرجى إدخال بريد إلكتروني صحيح</string>
+    <string name="complete_form_prompt">يرجى استكمال النموذج</string>
+
+    <!-- Billing strings -->
+    <string name="billing_not_supported_title">تعذَّر الشراء</string>
+    <string name="billing_not_supported_message">خدمة الدفع ضمن التطبيق\nغير متوفرة في هذا الوقت. يمكنك متابعة استخدام هذا التطبيق لكن\nلن يمكنك إجراء عمليات الشراء.</string>
+    <string name="billing_setup_error">حدثت مشكلة في إعداد خدمة الدفع ضمن التطبيق: </string>
+    <string name="billing_setup_success">تم الإعداد بنجاح. جارٍ الاستعلام عن المخزون.</string>
+    <string name="billing_query_failed">تعذَّر الاستعلام عن المخزون: </string>
+    <string name="billing_query_finished">تم الاستعلام عن المخزون.</string>
+    <string name="purchase_error_message">خطأ في محاولة الشراء: </string>
+    <string name="purchase_complete">تم الشراء</string>
+    <string name="purchase_in_progress">جارٍ إتمام عملية الشراء...</string>
+
+    <!-- Billing String end -->
+    <string name="app">TunnelBear</string>
+    <string name="address">عنوان الملقم:</string>
+    <string name="port">منفذ الملقم:</string>
+    <string name="select">حدِّد</string>
+    <string name="cancel">إلغاء</string>
+    <string name="no_data">لا توجد بيانات</string>
+    <string name="useLZO">ضغط LZO</string>
+    <string name="client_certificate_title">شهادة العميل</string>
+    <string name="select_certificate">حدِّد</string>
+    <string name="no_certificate">لم يتم تحديد شيء</string>
+    <string name="opevpn_copyright">حقوق النشر © 2002–2010 OpenVPN Technologies, Inc. &lt;sales@openvpn.net>\n"OpenVPN" هي علامة تجارية لشركة OpenVPN Technologies, Inc.\n</string>
+    <string name="copyright_blinktgui">حقوق النشر 2012\nArne Schwabe &lt;arne@rfc2549.org></string>
+    <string name="copyright_guicode">الكود المصدري ومتتبع المشاكل متوفران تحت http://code.google.com/p/ics-openvpn/ </string>
+    <string name="copyright_others">يستخدم البرنامج المكونات التالية. انظر المصدر للتفاصيل الكاملة عن التراخيص</string>
+    <string name="copyright_file_dialog">File Dialog استنادًا إلى العمل بواسطة ألكساندر بونوماريف</string>
+    <string name="lzo_copyright">حقوق النشر © 1996 – 2011 Markus Franz Xaver Johannes Oberhumer</string>
+    <string name="copyright_openssl">يحتوي هذا المنتج على برمجيات تم تطويرها بواسطة مشروع OpenSSL للاستخدام في OpenSSL Toolkit\n حقوق النشر © 1998-2008 مشروع OpenSSL. جميع الحقوق محفوظة.\n\nهذا المنتج يحتوي على برمجيات تشفيرية مكتوبة بواسطة إيريك يونغ (eay@cryptsoft.com)\n حقوق النشر © 1995-1998 إيريك يونغ (eay@cryptsoft.com) جميع الحقوق محفوظة.</string>
+    <string name="openvpn">OpenVPN</string>
+    <string name="file_dialog">File Dialog</string>
+    <string name="lzo">LZO</string>
+    <string name="openssl">OpenSSL</string>
+    <string name="vpn_type">النوع</string>
+    <string name="pkcs12pwquery">كلمة مرور PKCS12</string>
+    <string name="file_select">حدِّد...</string>
+    <string name="file_nothing_selected">لم يتم تحديد شيء</string>
+    <string name="auth_username">اسم المستخدم</string>
+    <string name="auth_pwquery">كلمة المرور</string>
+    <string name="static_keys_info">للتكوين الثابت سيتم استخدام مفاتيح مصادقة TLS كمفاتيح ثابتة.</string>
+    <string name="menu_add_profile">إضافة تشكيل جانبي</string>
+    <string name="profilename">اسم التشكيل الجانبي</string>
+    <string name="no_keystore_cert_selected">لم يتم تحديد شهادة مستخدم.</string>
+    <string name="no_error_found">لم يتم العثور على أخطاء</string>
+    <string name="ipv4_format_error">تعذَّر تحليل عنوان IPv4</string>
+    <string name="custom_route_format_error">تعذَّر تحليل المسارات المخصَّصة</string>
+    <string name="pw_query_hint">اتركه فارغًا للاستعلام عند الطلب</string>
+    <string name="vpn_launch_title">اتصال بـ VPN</string>
+    <string name="route_rejected">تم رفض المسار من قبل أندرويد</string>
+    <string name="cancel_connection">قطع الاتصال</string>
+    <string name="clear_log">مسح السجل</string>
+    <string name="remove_vpn">إزالة VPN</string>
+    <string name="ignored_pushed_routes">تجاهل المسارات المدفوعة</string>
+    <string name="ignore_routes_summary">تجاهل المسارات المدفوعة من قِبل الملقم.</string>
+    <string name="default_route_summary">يعيد توجيه كل المرور عبر VPN</string>
+    <string name="use_default_title">استخدم المسار الافتراضي</string>
+    <string name="custom_route_message">أدخل مسارات مخصّصة. أدخل الوجهة فقط في صيغة CIDR. سيقوم "10.0.0.0/8 2002::/16" بتوجيه الشبكات 10.0.0.0/8 و2002::/16 عبر VPN.</string>
+    <string name="custom_routes_title">المسارات المخصَّصة</string>
+    <string name="edit_vpn">تعديل إعدادات VPN</string>
+    <string name="tun_error_helpful">في بعض صور ICS المخصصة قد يكون الإذن في /dev/tun خطأ، أو قد تكون وحدة tun مفقودة بالكامل</string>
+    <string name="tun_open_error">تعّذَّر فتح واجهة tun.</string>
+    <string name="error">خطأ: </string>
+    <string name="clear">مسح</string>
+    <string name="info">معلومات</string>
+    <string name="show_connection_details">إظهار تفاصيل الاتصال</string>
+    <string name="last_openvpn_tun_config">آخر تكوين للواجهة من OpenVPN:</string>
+    <string name="local_ip_info">IPv4 المحلية: %1$s/%2$d IPv6: %3$s MTU: %4$d</string>
+    <string name="dns_server_info">ملقم DNS: %s</string>
+    <string name="dns_domain_info">نطاق DNS: %s</string>
+    <string name="routes_info">المسارات: %s</string>
+    <string name="routes_info6">مسارات IPV6: %s</string>
+    <string name="ip_not_cidr">احصل على معلومات الواجهة %1$s و%2$s على افتراض أن العنوان الثاني هو عنوان النظير للجهاز البعيد. استخدام /32 قناع الشبكة للـ IP المحلي. الوضع الذي أطلقه OPENVPN هو "\%3$s\".</string>
+    <string name="route_not_cidr">تعذَّر استخلاص معنى من %1$s و%2$s كمسار للـ IP مع قناع الشبكة CIDR، باستخدام /32 كقناع للشبكة.</string>
+    <string name="keychain_access">تعذَّر الوصول إلى شهادات سلسلة مفاتيح أندرويد. إذا كنت قمت باسترداد نسخ احتياطي من التطبيق/إعدادات التطبيق أعد اختيار الشهادة لإعادة إنشاء الإذن للوصول إلى الشهادة.</string>
+    <string name="send_logfile">إرسال ملف السجل</string>
+    <string name="send">إرسال</string>
+    <string name="no_vpn_support_image">صورتك لا تدعم خدمة VPN API، معذرةً :(</string>
+    <string name="settings_auth">المصادقة/التشفير</string>
+    <string name="import_file">استيراد</string>
+    <string name="opentun_no_ipaddr">رفض فتح جهاز tun بدون معلومات عن الـ IP</string>
+    <string name="add_profile">إضافة تشكيل جانبي</string>
+    <string name="import_vpn">استيراد</string>
+    <string name="ipv4">IPv4</string>
+    <string name="ipv6">IPv6</string>
+    <string name="error_empty_username">يجب ألا يكون اسم المستخدم فارغًا.</string>
+    <string name="pkcs12_file_encryption_key">مفتاح ملف التشفير PKCS12</string>
+    <string name="private_key_password">كلمة مرور المفتاح السري</string>
+    <string name="password">كلمة المرور</string>
+    <string name="send_log_text">نستأذنك في أن يقوم التطبيق بإرسال معلومات الجهاز الأساسية والسجل إلى فريق TunnelBear. هذا لا يشمل أي شيء عن المواقع التي زرتها أو أي شيء مريب من هذا القبيل.\n\nنحن أيضًا نرحب بأي ملاحظات أدناه:</string>
+    <string name="send_log_title">إبلاغ عن الأخطاء في TunnelBear</string>
+    <string name="send_log_button">موافق</string>
+    <string name="cancel_send_log_button">إلغاء</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>تسجيل الخروج</item>
+        <item>هل تريد الرجوع إلى الإصدار المجاني؟</item>
+        <item>بيانات مجانية!</item>
+        <item>المساعدة</item>
+        <item>شروط الخدمة</item>
+        <item>مراجعة على Play Store</item>
+        <item>خيارات</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">أيقونة العنصر</string>
+
+
+    <!-- Bear facts -->
+    <array name="bear_facts">
+        <item><string>يتكون النظام الغذائي للدببة الأمريكية السوداء بشكل رئيسي من المواد النباتية مثل الأوراق والبراعم والفروع الصغيرة والتوت والجوز.</string></item>
+        <item><string>تضم فصائل الدببة الأمريكية السوداء، دب القرفة والدب الأزرق والدب الأسود المكسيكي ودب الكيرمود ودب لويزيانا الأسود والعديد من الأنواع الأخرى.</string></item>
+        <item><string>الدببة الآسيوية السوداء لديها رقعة من الفراء صفراء اللون مائلة إلى اللون الأبيض على صدورها وجسمها أسود اللون.</string></item>
+        <item><string>الدببة البنية هي الأكبر من بين جميع أنواع الدببة وتعتبر أكبر آكلات اللحوم التي تعيش في الوقت الحالي.</string></item>
+        <item><string>الباندا العملاقة هي دببة صغيرة تتغذى بشكل حصري تقريبًا على براعم الخيزران والأوراق.</string></item>
+        <item><string>الدببة القطبية هي ثاني أكبر فصائل الدببة جميعها.</string></item>
+        <item><string>الدببة القطبية هي أمهر السباحين بين فصائل الدببة جميعها.</string></item>
+        <item><string>الطريقة الأكثر دقة لتحديد عمر الدب هي عدّ الحلقات الموجودة في المقطع العرضي لجذور أسنانها تحت المجهر.</string></item>
+        <item><string>الدببة لها طبقتين من الفراء. طبقة من الفراء القصير يبقيها دافئة. وطبقة أخرى طويلة تمنع وصول المياه إلى الجلد والفراء القصير.</string></item>
+        <item><string>تعيش الدببة ما يقرب من 30 عامًا في البرية. أحد الدببة البنية عاش في الأسر حتى سن 47 عامًا.</string></item>
+        <item><string>الدببة لديها أقدام متقوسة. وهذا يمنحها التشبث والتوازن بشكل أفضل.</string></item>
+        <item><string>الدب القطبي هو الحيوان اللاحم الحقيقي. جميع الدببة الأخرى تتغذى على النباتات والحيوانات.</string></item>
+        <item><string>دببة الشمس لديها مخالب أطول من أي دب آخر. ولديها كذلك أطول لسان والذي قد يصل طوله إلى 25 سم.</string></item>
+        <item><string>يمكن أن تصل سرعة الدب إلى 40 ميلًا في الساعة، وهي سرعة كافية للإمساك بحصان يعدو.</string></item>
+        <item><string>أما الدببة التي تحفر مثل الدب الأشيب، فلديها مخالب طويلة ومستقيمة.</string></item>
+        <item><string>معدل عدد ضربات قلب الدب الطبيعي هو 40 ضربة في الدقيقة. وينخفض معدل ضربات قلب الدب في فترة السبات إلى 8 ضربات في الدقيقة.</string></item>
+        <item><string>وعلى العكس من العديد من الثدييات، يمكن للدببة رؤية الألوان.</string></item>
+        <item><string>يمكن أن يقفز الدب القطبي السباح إلى مسافة 8 أقدام (2.4 أمتار) إلى خارج المياه لمهاجمة الفقمات.</string></item>
+        <item><string>وتعيش نسبة 98% من أعداد الدب الأشيَب الموجودة في الولايات المتحدة في ألاسكا.</string></item>
+        <item><string>وتفوق حاسة الشم عند الدببة حاسة الشم لدى الإنسان بحوالي 100 مرة.</string></item>
+        <item><string>شعار حزب روسيا الموحَّدة هو الدب.</string></item>
+        <item><string>يشير اسم "الدب الأشيب أو الأشهب" إلى الشعر ذو الأطراف فضية أو "رمادية" اللون لدى الدببة البنية.</string></item>
+        <item><string>من بين فصائل الدببة الثمانية الموجودة حاليًا، تعيش أربع فصائل منها في نصف الكرة الجنوبي والأربع فصائل الأخرى تعيش في نصف الكرة الشمالي.</string></item>
+        <item><string>خلال فترة السبات، لا تُخرج الدببة فضلاتها.</string></item>
+        <item><string>ولم يتبقى سوى حوالي 1000 دبٍ أشيب فقط في أمريكا الشمالية.</string></item>
+        <item><string>ويزن الدب المتوسط أكثر من 800 رطلًا (363 كجم تقريبًا).</string></item>
+    </array>
+    <string name="bear_fact_number_title">حقيقة عن الدب رقم </string>
+
+    <!-- Accessibility -->
+    <string name="login_logo_accessibility_signup">قم بإنشاء حساب TunnelBear من خلال تعبئة النموذج أدناه. لتسجيل الدخول بحساب موجود، اضغط زر تسجيل الدخول الموجود في نهاية الصفحة.</string>
+    <string name="login_logo_accessibility_signin">يرجى تسجيل الدخول إلى حساب TunnelBear من خلال تعبئة النموذج أدناه. لإنشاء حساب جديد، اضغط زر إنشاء حساب الموجود في نهاية الصفحة.</string>
+
+
+    <string name="default_status_text_country">كندا</string>
+    <string name="country_switcher_content_description">تغيير الدولة</string>
+    <string name="remaining_data_default_text">البيانات المتبقية لهذا الشهر</string>
+    <string name="select_country">حدِّد الدولة</string>
+    <string name="downgrade_question">هل تريد الرجوع إلى الإصدار المجاني؟</string>
+    <string name="friends">اعتقدت أننا أصبحنا أصدقاء</string>
+    <string name="downgrade">رجوع إلى الإصدار المجاني</string>
+    <string name="work_it_out">دعنا نناقش هذا الأمر</string>
+    <string name="on_off_button_description">زر التشغيل/الإيقاف</string>
+    <string name="hamburger_description">زر قائمة الشريط الجانبي</string>
+    <string name="upgrade_button">ترقية</string>
+    <string name="upgrade">ترقية</string>
+    <string name="map_loading">جارٍ تحميل الخريطة...</string>
+    <string name="choose_your_bear">احصل على بيانات غير محدودة</string>
+    <string name="free_desc">البيانات المتبقية %1$s ميغابايت</string>
+    <string name="free_desc_nodata">نفدت بياناتك لهذا الشهر</string>
+    <string name="monthly">شهري</string>
+    <string name="yearly">سنوي</string>
+    <string name="version">الإصدار</string>
+
+    <string name="new_user">هل أنت جديد على TunnelBear؟</string>
+    <string name="new_user_content_description">هل أنت جديد على TunnelBear؟ اضغط الزر الموجود أدناه لإنشاء حساب بدلًا من ذلك.</string>
+    <string name="create_account">إنشاء حساب</string>
+    <string name="create_account_content_description">الزر. انتقال إلى شاشة إنشاء حساب</string>
+    <string name="create_free_account">إنشاء حساب مجاني</string>
+    <string name="already_have_account">هل لديك حساب؟</string>
+    <string name="already_have_account_content_description">هل لديك حساب؟ اضغط الزر الموجود أدناه لتسجيل الدخول بدلًا من ذلك.</string>
+    <string name="switch_to_login_screen_content_description">الزر. انتقال إلى شاشة إنشاء حساب</string>
+    <string name="done">تم</string>
+    <string name="missing_driver">برنامج التشغيل غير موجود</string>
+    <string name="missing_driver_detail">جررر.. يبدو أن جهازك ينقصه برنامج تشغيل يحتاجه TunnelBear لكي يعمل. إذا كان لديك جهاز تمتلك به صلاحيات الجذر، يمكنك محاولة تثبيت برنامج التشغيل الموجود أناده.</string>
+    <string name="download_third_party_app">تنزيل تطبيق من طرف ثالث</string>
+    <string name="requires_rooted_device">رووور! إذا لم تكن لديك صلاحيات مستخدم جذر على الجهاز، لن يكون بمقدورك تثبيت برنامج التشغيل ولن يعمل TunnelBear. ألقِ نظرة لاحقًا للبحث عن التحديثات!</string>
+
+    <string name="what_is_your_twitter_id">ما هو معرفك على Twitter؟</string>
+    <string name="twitter_hint">\@TwitterID</string>
+    <string name="twitter_right_person">نريد أن نتأكد من إرسال الغيغابايت المجانية إلى الشخص الصحيح</string>
+    <string name="launch_twitter">تشغيل Twitter</string>
+    <string name="tweet_for_data">غرِّد للحصول على غيغابايت واحد مجاني!</string>
+    <string name="tweet_instructions">غرِّد على @theTunnelBear واطلب 1 غيغابايت من البيانات مجانًا.</string>
+    <string name="tweet_instructions2">سيرى تغريداتك فريق TunnelBear المتيقظ دائمًا.</string>
+    <string name="tweet_instructions3">خلال ساعة، سيتم إضافة 1 غيغابايت من البيانات مجانًا إلى حسابك في TunnelBear لهذا الشهر.</string>
+    <string name="leddoit">هيا نقوم بذلك!</string>
+    <string name="rawr_thanks">رووور! شكرًا لك!</string>
+    <string name="twitter_data_should_appear">يجب أن تظهر الـ 1 غيغابايت المجانية من البيانات\nفي حسابك خلال ساعة.\n\nيمكنك التغريد مرة أخرى الشهر\nالقادم للحصول على غيغابايت أخرى مجانًا!</string>
+    <string name="tweet_prompt">غرِّد للحصول على <b>1 غيغابايت مجانًا</b>؟</string>
+    <string name="sure">نعم</string>
+    <string name="twitter_delivered">تم تسليم الـ 1 غيغابايت المجانية\nالخاصة بك!</string>
+    <string name="rawr">رووور!</string>
+    <string name="bear_upgraded">تمت ترقية\nدبك! رووور!</string>
+    <string name="get_tunneling">استعد لحفر الأنفاق</string>
+    <string name="noob_bear_title"><b>الاتصال آمن!</b></string>
+    <string name="noob_bear">خلال الاتصال، يمكنك استخدام &lt;b>تطبيقاتك الأخرى&lt;/b> كما لو أنك في %1$s</string>
+    <string name="got_it">فهمت</string>
+    <string name="not_logged_in">رووور! لم تسجِّل دخولك!</string>
+    <string name="open_app">فتح التطبيق</string>
+
+    <string name="wiz_4_header">لقد أرسلنا إليك دبًا!</string>
+    <string name="wiz_4_paragraph">يرجى التحقق من بريدك الإلكتروني للتأكد من أننا أرسلنا الدب إلى العنوان الصحيح:</string>
+    <string name="dummy_email">email@emailbear.com</string>
+    <string name="change_email">تغيير الايميل</string>
+    <string name="resend_email">إعادة إرسال الايميل</string>
+    <string name="proceed">متابعة</string>
+    <string name="wiz_5_header">دبُّك الآن جاهز للانطلاق!</string>
+    <string name="get_tunneling_hype">استعد لحفر الأنفاق!</string>
+    <string name="wiz_5_confirm_content_description">ابدأ حفر الأنفاق</string>
+
+    <string name="tunnel_to_request">احفر نفقًا إلى &lt;b>%1$s؟&lt;/b></string>
+
+    <string name="privately_browsing_from">أنت الآن تتصفح الإنترنت في سرية من %1$s</string>
+    <string name="privately_browsing">أنت الآن تتصفح الإنترنت في سرية</string>
+    <string name="connecting_to">جارٍ الاتصال بـ %1$s...</string>
+    <string name="remaining_data_notif">البيانات المتبقية: %1$d%2$s</string>
+    <string name="only_x_data_left">متبقي %1$d%2$s فقط!</string>
+
+    <string name="fully_formatted_remaining_data">البيانات المتبقية لهذا الشهر &lt;font color="%3$s">%1$s %2$s&lt;/font></string>
+    <string name="widget_remaining">متبقي %1$d%2$s</string>
+
+    <string name="closest_tunnel">أقرب نفق</string>
+    <string name="review_prompt">رووور! هل تستمتع بـ TunnelBear؟</string>
+    <string name="review_prompt_no">نعم! حسنًا، هل لديك مانع في إبلاغنا بما لا تحبه في دبك؟</string>
+    <string name="review_prompt_yes">ما رأيك في تقييم سريع على Play Store؟</string>
+
+    <string name="basic_howto1">شغِّل TunnelBear من هنا.</string>
+    <string name="basic_howto2">تغيير الدول هنا.</string>
+    <string name="tunnelbear_help_url">https://help.tunnelbear.com/customer/portal/articles/1660656</string>
+    <string name="bearmuda">مثلث برمودا</string>
+
+    <string name="android_only_plans">لأجهزة أندرويد فقط</string>
+    <string name="full_plans">الخطط الكاملة</string>
+
+    <string name="android_only_plans_subtitle">بيانات غير محدودة لأجهزة أندرويد</string>
+    <string name="full_plans_subtitle">بيانات غير محدودة لأي 5 أجهزة</string>
+    <string name="savings_text">وفِّر %1$d%%</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+
+    <string name="unknown">غير معروف</string>
+
+    <string name="options_title">خيارات</string>
+    <string name="options_haptic_feedback">استجابة لمسية</string>
+    <string name="options_clouds">سحاب</string>
+    <string name="options_audio">أصوات الدببة</string>
+
+    <string name="contact_support_url" translatable="false">https://www.tunnelbear.com/support/contact.html</string>
+    <string name="downgrade_paragraph">رووور! هل تواجه مشاكل مع TunnelBear؟ يرجى الاتصال بالدعم وسيصلك الرد في غضون 24 ساعة.</string>
+</resources>

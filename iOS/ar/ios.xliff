@@ -1,1156 +1,1392 @@
-<?xml version='1.0' encoding='utf-8'?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="TunnelBear/Code/Controllers/Base.lproj/TBPromoViewController.xib" source-language="en" datatype="plaintext" target-language="tr">
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="TunnelBear/Code/Controllers/Base.lproj/TBPromoViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
-      <trans-unit id="03z-jr-kYk.normalTitle" approved="yes">
+      <trans-unit id="03z-jr-kYk.normalTitle">
         <source>Sure!</source>
-        <target state="translated">Tabi!</target><note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYk";</note>
+				<target>نعم</target>
+        <note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYk";</note>
       </trans-unit>
-      <trans-unit id="58M-PZ-Xk3.normalTitle" approved="yes">
+      <trans-unit id="58M-PZ-Xk3.normalTitle">
         <source>Go Tunneling!</source>
-        
+				<target>اذهب لحفر الأنفاق!</target>
+        <note>Class = "UIButton"; normalTitle = "Go Tunneling!"; ObjectID = "58M-PZ-Xk3";</note>
       </trans-unit>
-      <trans-unit id="ajY-lA-uqt.normalTitle" approved="yes">
+      <trans-unit id="ajY-lA-uqt.normalTitle">
         <source>Nah</source>
-        <target state="translated">Meh</target><note>Class = "UIButton"; normalTitle = "Nah"; ObjectID = "ajY-lA-uqt";</note>
+				<target>لا</target>
+        <note>Class = "UIButton"; normalTitle = "Nah"; ObjectID = "ajY-lA-uqt";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBCountryViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBCountryViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
-      <trans-unit id="5c0-Hm-8NY.title" approved="yes">
+      <trans-unit id="5c0-Hm-8NY.title">
         <source>Select a Country</source>
-        <target state="translated">Bir ülke seçiniz</target><note>Class = "UINavigationItem"; title = "Select a Country"; ObjectID = "5c0-Hm-8NY";</note>
+				<target>حدِّد الدولة</target>
+        <note>Class = "UINavigationItem"; title = "Select a Country"; ObjectID = "5c0-Hm-8NY";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBCreateAccountViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBCreateAccountViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
-      <trans-unit id="13.normalTitle" approved="yes">
+      <trans-unit id="13.normalTitle">
         <source>Create a Free Account</source>
-        <target state="translated">Ücretsiz hesap oluştur</target><note>Class = "UIButton"; normalTitle = "Create a Free Account"; ObjectID = "13";</note>
+				<target>إنشاء حساب مجاني</target>
+        <note>Class = "UIButton"; normalTitle = "Create a Free Account"; ObjectID = "13";</note>
       </trans-unit>
-      <trans-unit id="21.normalTitle" approved="yes">
+      <trans-unit id="21.normalTitle">
         <source>Log in</source>
-        <target state="translated">Giriş yap</target><note>Class = "UIButton"; normalTitle = "Log in"; ObjectID = "21";</note>
+				<target>تسجيل الدخول</target>
+        <note>Class = "UIButton"; normalTitle = "Log in"; ObjectID = "21";</note>
       </trans-unit>
-      <trans-unit id="54.accessibilityLabel" approved="yes">
+      <trans-unit id="54.accessibilityLabel">
         <source>Email</source>
-        <target state="translated">Eposta</target><note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "54";</note>
+        <target>الإيميل</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "54";</note>
       </trans-unit>
-      <trans-unit id="54.placeholder" approved="yes">
+      <trans-unit id="54.placeholder">
         <source>example@gmail.com</source>
-        <target state="translated">ornek@gmail.com</target><note>Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "54";</note>
+				<target>example@email.com</target>
+        <note>Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "54";</note>
       </trans-unit>
-      <trans-unit id="55.accessibilityLabel" approved="yes">
+      <trans-unit id="55.accessibilityLabel">
         <source>Email</source>
-        <target state="translated">Eposta</target><note>Class = "UILabel"; accessibilityLabel = "Email"; ObjectID = "55";</note>
+        <target>الإيميل</target>
+        <note>Class = "UILabel"; accessibilityLabel = "Email"; ObjectID = "55";</note>
       </trans-unit>
-      <trans-unit id="55.text" approved="yes">
+      <trans-unit id="55.text">
         <source>Email</source>
-        <target state="translated">Eposta</target><note>Class = "UILabel"; text = "Email"; ObjectID = "55";</note>
+        <target>الإيميل</target>
+        <note>Class = "UILabel"; text = "Email"; ObjectID = "55";</note>
       </trans-unit>
-      <trans-unit id="57.accessibilityLabel" approved="yes">
+      <trans-unit id="57.accessibilityLabel">
         <source>First name</source>
-        <target state="translated">İsim</target><note>Class = "UITextField"; accessibilityLabel = "First name"; ObjectID = "57";</note>
+				<target>الاسم الأول</target>
+        <note>Class = "UITextField"; accessibilityLabel = "First name"; ObjectID = "57";</note>
       </trans-unit>
-      <trans-unit id="58.accessibilityLabel" approved="yes">
+      <trans-unit id="58.accessibilityLabel">
         <source>First Name</source>
-        <target state="translated">İsim</target><note>Class = "UILabel"; accessibilityLabel = "First Name"; ObjectID = "58";</note>
+				<target>الاسم الأول</target>
+        <note>Class = "UILabel"; accessibilityLabel = "First Name"; ObjectID = "58";</note>
       </trans-unit>
-      <trans-unit id="58.text" approved="yes">
+      <trans-unit id="58.text">
         <source>First Name</source>
-        <target state="translated">isim</target><note>Class = "UILabel"; text = "First Name"; ObjectID = "58";</note>
+				<target>الاسم الأول</target>
+        <note>Class = "UILabel"; text = "First Name"; ObjectID = "58";</note>
       </trans-unit>
-      <trans-unit id="63.accessibilityLabel" approved="yes">
+      <trans-unit id="63.accessibilityLabel">
         <source>Password</source>
-        <target state="translated">Şifre</target><note>Class = "UILabel"; accessibilityLabel = "Password"; ObjectID = "63";</note>
+				<target>كلمة المرور</target>
+        <note>Class = "UILabel"; accessibilityLabel = "Password"; ObjectID = "63";</note>
       </trans-unit>
       <trans-unit id="63.text">
         <source>Password</source>
+				<target>كلمة المرور</target>
         <note>Class = "UILabel"; text = "Password"; ObjectID = "63";</note>
       </trans-unit>
       <trans-unit id="64.accessibilityHint">
         <source>Please choose a password you'd like to use with TunnelBear</source>
+				<target>يرجى اختيار كلمة المرور التي ترغب في استخدامها مع TunnelBear</target>
         <note>Class = "UITextField"; accessibilityHint = "Please choose a password you'd like to use with TunnelBear"; ObjectID = "64";</note>
       </trans-unit>
       <trans-unit id="64.accessibilityLabel">
         <source>Password</source>
+				<target>كلمة المرور</target>
         <note>Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "64";</note>
       </trans-unit>
       <trans-unit id="64.placeholder">
         <source>required</source>
+				<target>مطلوب</target>
         <note>Class = "UITextField"; placeholder = "required"; ObjectID = "64";</note>
       </trans-unit>
       <trans-unit id="69.text">
         <source>Have an account?</source>
+				<target>هل لديك حساب؟</target>
         <note>Class = "UILabel"; text = "Have an account?"; ObjectID = "69";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBLaunchViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBLaunchViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
-    <body/>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBLoginViewController.xib" source-language="en" datatype="plaintext">
+    <body></body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBLoginViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
-      <trans-unit id="46.text" approved="yes">
+      <trans-unit id="46.text">
         <source>Password</source>
-        <target state="translated">Şifre</target><note>Class = "UILabel"; text = "Password"; ObjectID = "46";</note>
+				<target>كلمة المرور</target>
+        <note>Class = "UILabel"; text = "Password"; ObjectID = "46";</note>
       </trans-unit>
-      <trans-unit id="47.accessibilityHint" approved="yes">
+      <trans-unit id="47.accessibilityHint">
         <source>Please enter your TunnelBear password</source>
-        <target state="translated">Lütfen şifrenizi giriniz</target><note>Class = "UITextField"; accessibilityHint = "Please enter your TunnelBear password"; ObjectID = "47";</note>
+				<target>يرجى إدخال كلمة المرور الخاصة بك على TunnelBear</target>
+        <note>Class = "UITextField"; accessibilityHint = "Please enter your TunnelBear password"; ObjectID = "47";</note>
       </trans-unit>
-      <trans-unit id="47.accessibilityLabel" approved="yes">
+      <trans-unit id="47.accessibilityLabel">
         <source>Password</source>
-        <target state="translated">Şifre</target><note>Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "47";</note>
+				<target>كلمة المرور</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "47";</note>
       </trans-unit>
-      <trans-unit id="47.placeholder" approved="yes">
+      <trans-unit id="47.placeholder">
         <source>required</source>
-        <target state="translated">gerekli</target><note>Class = "UITextField"; placeholder = "required"; ObjectID = "47";</note>
+				<target>مطلوب</target>
+        <note>Class = "UITextField"; placeholder = "required"; ObjectID = "47";</note>
       </trans-unit>
-      <trans-unit id="48.accessibilityLabel" approved="yes">
+      <trans-unit id="48.accessibilityLabel">
         <source>Email</source>
-        <target state="translated">Eposta</target><note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "48";</note>
+        <target>الإيميل</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "48";</note>
       </trans-unit>
       <trans-unit id="48.placeholder">
         <source>example@gmail.com</source>
+				<target>example@email.com</target>
         <note>Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "48";</note>
       </trans-unit>
       <trans-unit id="49.text">
         <source>Email</source>
+        <target>الإيميل</target>
         <note>Class = "UILabel"; text = "Email"; ObjectID = "49";</note>
       </trans-unit>
       <trans-unit id="55.text">
         <source>New to TunnelBear?</source>
+				<target>هل أنت جديد على TunnelBear؟</target>
         <note>Class = "UILabel"; text = "New to TunnelBear?"; ObjectID = "55";</note>
       </trans-unit>
       <trans-unit id="57.normalTitle">
         <source>Create an account</source>
+				<target>إنشاء حساب</target>
         <note>Class = "UIButton"; normalTitle = "Create an account"; ObjectID = "57";</note>
       </trans-unit>
       <trans-unit id="58.normalTitle">
         <source>Log In</source>
+				<target>تسجيل الدخول</target>
         <note>Class = "UIButton"; normalTitle = "Log In"; ObjectID = "58";</note>
       </trans-unit>
       <trans-unit id="77.accessibilityHint">
         <source>Opens password reset form in Safari</source>
+				<target>يفتح نموذج إعادة تعيين كلمة المرور في Safari</target>
         <note>Class = "UIButton"; accessibilityHint = "Opens password reset form in Safari"; ObjectID = "77";</note>
       </trans-unit>
       <trans-unit id="77.normalTitle">
         <source>Forgot Password?</source>
+				<target>هل نسيت كلمة المرور؟</target>
         <note>Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "77";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBMainViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBMainViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="3Bl-5R-ae6.accessibilityLabel">
-        <source>You're currently not connected to TunnelBear</source>
-        <note>Class = "UILabel"; accessibilityLabel = "You're currently not connected to TunnelBear"; ObjectID = "3Bl-5R-ae6";</note>
+        <source>Current status</source>
+				<target>الوضع الحالي</target>
+        <note>Class = "UILabel"; accessibilityLabel = "Current status"; ObjectID = "3Bl-5R-ae6";</note>
       </trans-unit>
       <trans-unit id="3Bl-5R-ae6.text">
         <source>Disconnected</source>
+				<target>غير متصل</target>
         <note>Class = "UILabel"; text = "Disconnected"; ObjectID = "3Bl-5R-ae6";</note>
       </trans-unit>
       <trans-unit id="AH2-0Z-KnF.accessibilityHint">
         <source>Got it</source>
+				<target>فهمت</target>
         <note>Class = "UIButton"; accessibilityHint = "Got it"; ObjectID = "AH2-0Z-KnF";</note>
       </trans-unit>
       <trans-unit id="AH2-0Z-KnF.accessibilityLabel">
         <source>Got it</source>
+				<target>فهمت</target>
         <note>Class = "UIButton"; accessibilityLabel = "Got it"; ObjectID = "AH2-0Z-KnF";</note>
       </trans-unit>
       <trans-unit id="AH2-0Z-KnF.normalTitle">
         <source>Got it</source>
+				<target>فهمت</target>
         <note>Class = "UIButton"; normalTitle = "Got it"; ObjectID = "AH2-0Z-KnF";</note>
       </trans-unit>
       <trans-unit id="G8d-yD-fXp.text">
         <source>Change countries here.</source>
+				<target>تغيير الدول هنا.</target>
         <note>Class = "UILabel"; text = "Change countries here."; ObjectID = "G8d-yD-fXp";</note>
       </trans-unit>
       <trans-unit id="IN1-Dq-51U.accessibilityHint">
         <source>Change connection countries</source>
+				<target>تغيير الدول التي تتصل بها</target>
         <note>Class = "UIButton"; accessibilityHint = "Change connection countries"; ObjectID = "IN1-Dq-51U";</note>
       </trans-unit>
       <trans-unit id="IN1-Dq-51U.accessibilityLabel">
         <source>Change countries</source>
+				<target>تغيير الدول</target>
         <note>Class = "UIButton"; accessibilityLabel = "Change countries"; ObjectID = "IN1-Dq-51U";</note>
       </trans-unit>
       <trans-unit id="IN1-Dq-51U.normalTitle">
         <source> Germany</source>
+				<target> ألمانيا</target>
         <note>Class = "UIButton"; normalTitle = " Germany"; ObjectID = "IN1-Dq-51U";</note>
       </trans-unit>
       <trans-unit id="WN0-Nv-lk5.text">
         <source>Turn TunnelBear ON here.</source>
+				<target>شغِّل TunnelBear من هنا.</target>
         <note>Class = "UILabel"; text = "Turn TunnelBear ON here."; ObjectID = "WN0-Nv-lk5";</note>
       </trans-unit>
       <trans-unit id="nH8-qR-TXv.accessibilityHint">
         <source>Open menu</source>
+				<target>فتح القائمة</target>
         <note>Class = "UIButton"; accessibilityHint = "Open menu"; ObjectID = "nH8-qR-TXv";</note>
       </trans-unit>
       <trans-unit id="nH8-qR-TXv.accessibilityLabel">
         <source>Menu</source>
+				<target>القائمة</target>
         <note>Class = "UIButton"; accessibilityLabel = "Menu"; ObjectID = "nH8-qR-TXv";</note>
       </trans-unit>
       <trans-unit id="s6f-ak-6To.accessibilityHint">
         <source>Upgrade your bear</source>
+				<target>قم بترقية دبك</target>
         <note>Class = "UIButton"; accessibilityHint = "Upgrade your bear"; ObjectID = "s6f-ak-6To";</note>
       </trans-unit>
       <trans-unit id="s6f-ak-6To.accessibilityLabel">
         <source>Upgrade</source>
+				<target>ترقية</target>
         <note>Class = "UIButton"; accessibilityLabel = "Upgrade"; ObjectID = "s6f-ak-6To";</note>
       </trans-unit>
       <trans-unit id="s6f-ak-6To.normalTitle">
         <source>Upgrade</source>
+				<target>ترقية</target>
         <note>Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "s6f-ak-6To";</note>
       </trans-unit>
-      <trans-unit id="x71-gq-8Bu.accessibilityLabel">
+      <trans-unit id="x71-gq-8Bu.accessibilityHint">
         <source>Connect to TunnelBear</source>
-        <note>Class = "UIView"; accessibilityLabel = "Connect to TunnelBear"; ObjectID = "x71-gq-8Bu";</note>
+				<target>اتصال بـ TunnelBear</target>
+        <note>Class = "UIView"; accessibilityHint = "Connect to TunnelBear"; ObjectID = "x71-gq-8Bu";</note>
+      </trans-unit>
+      <trans-unit id="x71-gq-8Bu.accessibilityLabel">
+        <source>Toggle Connection</source>
+				<target>تبديل الاتصال</target>
+        <note>Class = "UIView"; accessibilityLabel = "Toggle Connection"; ObjectID = "x71-gq-8Bu";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBManageSubscriptionViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBManageSubscriptionViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="FS5-2o-nej.normalTitle">
         <source>Manage Subscription Settings</source>
+				<target>إعدادات إدارة الاشتراك</target>
         <note>Class = "UIButton"; normalTitle = "Manage Subscription Settings"; ObjectID = "FS5-2o-nej";</note>
       </trans-unit>
       <trans-unit id="d5Q-6h-6Nb.text">
         <source>Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours.</source>
+				<target>رووور! هل تواجه مشاكل مع TunnelBear؟ يرجى الاتصال بالدعم وسيصلك الرد في غضون 24 ساعة.</target>
         <note>Class = "UITextView"; text = "Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours."; ObjectID = "d5Q-6h-6Nb";</note>
       </trans-unit>
       <trans-unit id="gDF-Lc-s5O.normalTitle">
         <source>Need Instructions?</source>
+				<target>هل تحتاج إلى إرشادات؟</target>
         <note>Class = "UIButton"; normalTitle = "Need Instructions?"; ObjectID = "gDF-Lc-s5O";</note>
       </trans-unit>
       <trans-unit id="ucj-Mr-yLq.title">
         <source>Manage Subscription</source>
+				<target>إدارة الاشتراك</target>
         <note>Class = "UINavigationItem"; title = "Manage Subscription"; ObjectID = "ucj-Mr-yLq";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBManualVPNSettingsViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBManualVPNSettingsViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="0Gj-sl-JBI.text">
         <source>Go to “Settings” to choose your country and turn VPN on and off.</source>
+				<target>انتقل إلى “إعدادات” لتختار دولتك وتقوم بتشغيل وإيقاف تشغيل الـ VPN</target>
         <note>Class = "UILabel"; text = "Go to “Settings” to choose your country and turn VPN on and off."; ObjectID = "0Gj-sl-JBI";</note>
       </trans-unit>
       <trans-unit id="JU5-Dk-53I.text">
         <source>You're currently using manual controls.</source>
+				<target>أنت تستخدم حاليًا إعدادات التحكم اليدوية.</target>
         <note>Class = "UILabel"; text = "You're currently using manual controls."; ObjectID = "JU5-Dk-53I";</note>
       </trans-unit>
       <trans-unit id="Scc-ra-AR5.normalTitle">
         <source>Switch to In-App Controls?</source>
+				<target>هل تريد التبديل إلى إعدادات التحكم من داخل التطبيق؟</target>
         <note>Class = "UIButton"; normalTitle = "Switch to In-App Controls?"; ObjectID = "Scc-ra-AR5";</note>
       </trans-unit>
       <trans-unit id="Xas-B4-C4d.title">
         <source>VPN Settings</source>
+				<target>إعدادات VPN</target>
         <note>Class = "UINavigationItem"; title = "VPN Settings"; ObjectID = "Xas-B4-C4d";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBMenuViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBMenuViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="3Pc-kZ-ZSJ.text">
         <source>ibear@tunnelbear.com</source>
+				<target>ibear@tunnelbear.com</target>
         <note>Class = "UILabel"; text = "ibear@tunnelbear.com"; ObjectID = "3Pc-kZ-ZSJ";</note>
       </trans-unit>
       <trans-unit id="7XZ-hx-yE5.text">
         <source>Free TunnelBear</source>
+				<target>المجاني TunnelBear</target>
         <note>Class = "UILabel"; text = "Free TunnelBear"; ObjectID = "7XZ-hx-yE5";</note>
       </trans-unit>
       <trans-unit id="67w-wE-FRz.text">
         <source>v2.0</source>
+				<target>الإصدار 2.0</target>
         <note>Class = "UILabel"; text = "v2.0"; ObjectID = "67w-wE-FRz";</note>
       </trans-unit>
       <trans-unit id="Izg-3I-HtI.normalTitle">
         <source>Bug Report</source>
+				<target>إبلاغ عن خطأ</target>
         <note>Class = "UIButton"; normalTitle = "Bug Report"; ObjectID = "Izg-3I-HtI";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBPrivacyInfoViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPrivacyInfoViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="fpX-y1-jyN.normalTitle">
         <source>OK</source>
+				<target>موافق</target>
         <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "fpX-y1-jyN";</note>
       </trans-unit>
       <trans-unit id="jlR-rX-XRe.title">
         <source>We don't collect your data!</source>
+				<target>نحن لا نجمع بياناتك!</target>
         <note>Class = "UINavigationItem"; title = "We don't collect your data!"; ObjectID = "jlR-rX-XRe";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBProfileInstallViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBProfileInstallViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="Bui-2t-tC6.normalTitle">
         <source>I'm Ready</source>
+				<target>أنا مستعد</target>
         <note>Class = "UIButton"; normalTitle = "I'm Ready"; ObjectID = "Bui-2t-tC6";</note>
       </trans-unit>
       <trans-unit id="VB8-wO-0Di.text">
         <source>TunnelBear needs to install “VPN” settings on your iPhone. Tap Install when you're prompted.</source>
+        <target>يحتاج TunnelBear إلى تثبيت إعدادات ”VPN“ على جهاز iPhone الخاص بك. انقر تثبيت عند مطالبتك بذلك.</target>
         <note>Class = "UILabel"; text = "TunnelBear needs to install “VPN” settings on your iPhone. Tap Install when you're prompted."; ObjectID = "VB8-wO-0Di";</note>
       </trans-unit>
       <trans-unit id="egT-Xs-w6P.text">
         <source>Install iOS Settings</source>
+				<target>تثبيت إعدادات iOS</target>
         <note>Class = "UILabel"; text = "Install iOS Settings"; ObjectID = "egT-Xs-w6P";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBProfileReinstallViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBProfileReinstallViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="3GF-DA-YqY.title">
         <source>Choose a way to tunnel</source>
+				<target>حدِّد طريقة لحفر الأنفاق</target>
         <note>Class = "UINavigationItem"; title = "Choose a way to tunnel"; ObjectID = "3GF-DA-YqY";</note>
       </trans-unit>
       <trans-unit id="US9-2U-1JM.normalTitle">
         <source>In-App</source>
+				<target>داخل التطبيق</target>
         <note>Class = "UIButton"; normalTitle = "In-App"; ObjectID = "US9-2U-1JM";</note>
       </trans-unit>
       <trans-unit id="ZdH-hT-C3L.text">
         <source>I want to control TunnelBear from within the app (recommended)</source>
+				<target>أريد أن أتحكم في TunnelBear من داخل التطبيق (مستحسن)</target>
         <note>Class = "UILabel"; text = "I want to control TunnelBear from within the app (recommended)"; ObjectID = "ZdH-hT-C3L";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBPurchaseContainerViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPurchaseContainerViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="Pne-4F-Pbh.text">
         <source>Privacy</source>
+				<target>الخصوصية</target>
         <note>Class = "UILabel"; text = "Privacy"; ObjectID = "Pne-4F-Pbh";</note>
       </trans-unit>
       <trans-unit id="WE8-KB-Whr.segmentTitles[0]">
         <source>Full Plans</source>
+				<target>الخطط الكاملة</target>
         <note>Class = "UISegmentedControl"; WE8-KB-Whr.segmentTitles[0] = "Full Plans"; ObjectID = "WE8-KB-Whr";</note>
       </trans-unit>
       <trans-unit id="WE8-KB-Whr.segmentTitles[1]">
         <source>For iOS Only</source>
+				<target>لنظام iOS فقط</target>
         <note>Class = "UISegmentedControl"; WE8-KB-Whr.segmentTitles[1] = "For iOS Only"; ObjectID = "WE8-KB-Whr";</note>
       </trans-unit>
       <trans-unit id="jCX-eZ-T0E.text">
         <source>Restore Purchases</source>
+				<target>استرداد المشتريات</target>
         <note>Class = "UILabel"; text = "Restore Purchases"; ObjectID = "jCX-eZ-T0E";</note>
       </trans-unit>
       <trans-unit id="rtb-3h-X6l.title">
         <source>Get Unlimited Data</source>
+				<target>احصل على بيانات غير محدودة</target>
         <note>Class = "UINavigationItem"; title = "Get Unlimited Data"; ObjectID = "rtb-3h-X6l";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBPurchaseViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPurchaseViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="2XY-cC-bu3.text">
         <source>Yearly</source>
+				<target>سنوي</target>
         <note>Class = "UILabel"; text = "Yearly"; ObjectID = "2XY-cC-bu3";</note>
       </trans-unit>
       <trans-unit id="8Vj-Fx-gOQ.text">
         <source>Free</source>
+				<target>مجاني</target>
         <note>Class = "UILabel"; text = "Free"; ObjectID = "8Vj-Fx-gOQ";</note>
       </trans-unit>
       <trans-unit id="CK8-26-k2m.text">
         <source>Monthly</source>
+				<target>شهري</target>
         <note>Class = "UILabel"; text = "Monthly"; ObjectID = "CK8-26-k2m";</note>
       </trans-unit>
       <trans-unit id="Kkn-rl-mak.text">
         <source>For up to 5 computers, phones or tablets</source>
+				<target>بحد أقصى 5 أجهزة حاسوب أو هواتف أو حواسيب لوحية</target>
         <note>Class = "UILabel"; text = "For up to 5 computers, phones or tablets"; ObjectID = "Kkn-rl-mak";</note>
       </trans-unit>
       <trans-unit id="MKs-Cg-QVV.normalTitle">
         <source>$$$</source>
+				<target>$$$</target>
         <note>Class = "UIButton"; normalTitle = "$$$"; ObjectID = "MKs-Cg-QVV";</note>
       </trans-unit>
       <trans-unit id="Owc-FT-4oe.text">
         <source>Save 0%</source>
+				<target>وفِّر 0%</target>
         <note>Class = "UILabel"; text = "Save 0%"; ObjectID = "Owc-FT-4oe";</note>
       </trans-unit>
       <trans-unit id="fRo-l6-Vzu.text">
         <source>500 MB Data remaining</source>
+				<target>البيانات المتبقية 500 ميغابايت</target>
         <note>Class = "UILabel"; text = "500 MB Data remaining"; ObjectID = "fRo-l6-Vzu";</note>
       </trans-unit>
       <trans-unit id="ypv-f3-lLx.normalTitle">
         <source>$$</source>
+				<target>$$</target>
         <note>Class = "UIButton"; normalTitle = "$$"; ObjectID = "ypv-f3-lLx";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBTwitterConfirmViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterConfirmViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="3YB-rY-Wxe.title">
         <source>Please enter your Twitter ID</source>
+				<target>يرجى إدخال معرفك على Twitter</target>
         <note>Class = "UINavigationItem"; title = "Please enter your Twitter ID"; ObjectID = "3YB-rY-Wxe";</note>
       </trans-unit>
       <trans-unit id="32A-vc-cSB.text">
         <source>We want to make sure we send the free GB to the right person.</source>
+				<target>نريد أن نتأكد من إرسال الغيغابايت المجانية إلى الشخص الصحيح.</target>
         <note>Class = "UILabel"; text = "We want to make sure we send the free GB to the right person."; ObjectID = "32A-vc-cSB";</note>
       </trans-unit>
       <trans-unit id="P75-hz-Z5H.placeholder">
         <source>required</source>
+				<target>مطلوب</target>
         <note>Class = "UITextField"; placeholder = "required"; ObjectID = "P75-hz-Z5H";</note>
       </trans-unit>
       <trans-unit id="bZr-OZ-SC7.normalTitle">
         <source>Tweet Now</source>
+				<target>غرِّد الآن</target>
         <note>Class = "UIButton"; normalTitle = "Tweet Now"; ObjectID = "bZr-OZ-SC7";</note>
       </trans-unit>
       <trans-unit id="rtA-K4-wBL.text">
         <source>Twitter ID</source>
+				<target>معرِّف Twitter</target>
         <note>Class = "UILabel"; text = "Twitter ID"; ObjectID = "rtA-K4-wBL";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBTwitterInfoViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterInfoViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="LQF-yZ-SMv.text">
         <source>The always vigilant TunnelBear team will see you've tweeted.</source>
+				<target>سيرى تغريداتك فريق TunnelBear المتيقظ دائمًا.</target>
         <note>Class = "UILabel"; text = "The always vigilant TunnelBear team will see you've tweeted."; ObjectID = "LQF-yZ-SMv";</note>
       </trans-unit>
       <trans-unit id="j0W-si-tZI.text">
         <source>Within the hour, your TunnelBear account will have a bonus GB of free data for the month.</source>
+				<target>خلال ساعة، سيتم إضافة 1 غيغابايت مجانية من البيانات إلى حسابك في TunnelBear لهذا الشهر.</target>
         <note>Class = "UILabel"; text = "Within the hour, your TunnelBear account will have a bonus GB of free data for the month."; ObjectID = "j0W-si-tZI";</note>
       </trans-unit>
       <trans-unit id="mxl-i6-1Fu.text">
         <source>Tweet @theTunnelBear asking for 1 free GB of data.</source>
+				<target>غرِّد على @theTunnelBear واطلب 1 غيغابايت من البيانات مجانًا.</target>
         <note>Class = "UILabel"; text = "Tweet @theTunnelBear asking for 1 free GB of data."; ObjectID = "mxl-i6-1Fu";</note>
       </trans-unit>
       <trans-unit id="nmI-Ks-9gO.title">
         <source>Tweet for a FREE GB!</source>
+        <target>غرِّد لتحصيل 1 غيغابايت مجاني</target>
         <note>Class = "UINavigationItem"; title = "Tweet for a FREE GB!"; ObjectID = "nmI-Ks-9gO";</note>
       </trans-unit>
       <trans-unit id="uFq-Oi-QlX.accessibilityHint">
         <source>Let's do this!</source>
+				<target>هيا نقوم بذلك!</target>
         <note>Class = "UIButton"; accessibilityHint = "Let's do this!"; ObjectID = "uFq-Oi-QlX";</note>
       </trans-unit>
       <trans-unit id="uFq-Oi-QlX.accessibilityLabel">
         <source>Let's do this!</source>
+				<target>هيا نقوم بذلك!</target>
         <note>Class = "UIButton"; accessibilityLabel = "Let's do this!"; ObjectID = "uFq-Oi-QlX";</note>
       </trans-unit>
       <trans-unit id="uFq-Oi-QlX.normalTitle">
         <source>Let's do this!</source>
+				<target>هيا نقوم بذلك!</target>
         <note>Class = "UIButton"; normalTitle = "Let's do this!"; ObjectID = "uFq-Oi-QlX";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBTwitterThanksViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterThanksViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="Fd1-X4-kYs.text">
         <source>Your 1GB of free data should appear within the hour.</source>
+				<target>يجب أن تظهر الـ 1 غيغابايت المجانية من البيانات في حسابك خلال ساعة.</target>
         <note>Class = "UILabel"; text = "Your 1GB of free data should appear within the hour."; ObjectID = "Fd1-X4-kYs";</note>
       </trans-unit>
       <trans-unit id="Xas-B4-C4d.title">
         <source>Rawr! Thanks!</source>
+				<target>رووور! شكرًا لك!</target>
         <note>Class = "UINavigationItem"; title = "Rawr! Thanks!"; ObjectID = "Xas-B4-C4d";</note>
       </trans-unit>
       <trans-unit id="mRJ-U1-Sc9.text">
         <source>You can tweet again next month for another free GB!</source>
+				<target>يمكنك التغريد مرة أخرى الشهر القادم للحصول على غيغابايت مجاني آخر!</target>
         <note>Class = "UILabel"; text = "You can tweet again next month for another free GB!"; ObjectID = "mRJ-U1-Sc9";</note>
       </trans-unit>
       <trans-unit id="mu4-iI-Tgy.normalTitle">
         <source>OK</source>
+				<target>موافق</target>
         <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "mu4-iI-Tgy";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBVerifyEmailViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBVerifyEmailViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="2JP-sf-gYi.text">
         <source>We've sent you a bear!</source>
+				<target>لقد أرسلنا إليك دبًا!</target>
         <note>Class = "UILabel"; text = "We've sent you a bear!"; ObjectID = "2JP-sf-gYi";</note>
       </trans-unit>
       <trans-unit id="PXg-NA-y5J.text">
         <source>Please check your email to confirm we’ve sent your bear to the right address:</source>
+				<target>يرجى التحقق من بريدك الإلكتروني للتأكد من أننا أرسلنا الدب إلى العنوان الصحيح:</target>
         <note>Class = "UILabel"; text = "Please check your email to confirm we’ve sent your bear to the right address:"; ObjectID = "PXg-NA-y5J";</note>
       </trans-unit>
       <trans-unit id="TwT-VL-3Lv.normalTitle">
         <source>Change Email</source>
+        <target>تغيير الايميل</target>
         <note>Class = "UIButton"; normalTitle = "Change Email"; ObjectID = "TwT-VL-3Lv";</note>
       </trans-unit>
       <trans-unit id="Xtg-k8-1fo.normalTitle">
         <source>Continue</source>
+				<target>متابعة</target>
         <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Xtg-k8-1fo";</note>
       </trans-unit>
       <trans-unit id="aBV-m1-R0q.text">
         <source>ibear@tunnelbear.com</source>
+				<target>ibear@tunnelbear.com</target>
         <note>Class = "UILabel"; text = "ibear@tunnelbear.com"; ObjectID = "aBV-m1-R0q";</note>
       </trans-unit>
       <trans-unit id="vVd-jG-HCZ.normalTitle">
         <source>Resend Email</source>
+        <target>إعادة إرسال الايميل</target>
         <note>Class = "UIButton"; normalTitle = "Resend Email"; ObjectID = "vVd-jG-HCZ";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Resources/Views/Base.lproj/TBWebViewController.xib" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBWebViewController.xib" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="17.title">
         <source>Done</source>
+				<target>تم</target>
         <note>Class = "UIBarButtonItem"; title = "Done"; ObjectID = "17";</note>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Support/Info.plist" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Support/Info.plist" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
         <source>${BUNDLE_NAME}</source>
+        <target>TunnelBear</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>${BUNDLE_NAME}</source>
+        <target>TunnelBear</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>2.4.2</source>
+        <source>2.4.1</source>
+				<target>2.4.1</target>
       </trans-unit>
     </body>
-  </file>
-  <file original="TunnelBear/Support/Localizable.strings" source-language="en" datatype="plaintext">
+  </file><file datatype="plaintext" original="TunnelBear/Support/Localizable.strings" source-language="en">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1" build-num="7B91b"/>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
     </header>
     <body>
       <trans-unit id=" Double check your connection?">
         <source> Double check your connection?</source>
+				<target> هل تريد التحقق من اتصالك مرة أخرى؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lldMB">
         <source>%lldMB</source>
+				<target>%lld ميغابايت</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lldMB Data remaining">
         <source>%lldMB Data remaining</source>
+				<target>البيانات المتبقية %lld ميغابايت</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lldMB Remaining this month">
         <source>%lldMB Remaining this month</source>
+        <target>البيانات المتبقية لهذا الشهر %lldMB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="(recommended)">
         <source>(recommended)</source>
+				<target>(مستحسن)</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="1 FREE GB">
         <source>1 FREE GB</source>
+        <target>1 غيغابايت مجانا</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="692566">
         <source>692566</source>
+				<target>692566</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Another purchase is in progress">
         <source>Another purchase is in progress</source>
+				<target>توجد عملية شراء أخرى قيد التقدم</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BUY">
         <source>BUY</source>
+				<target>شراء</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bear Sounds">
         <source>Bear Sounds</source>
+				<target>أصوات الدببة</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Bearmuda Triangle">
         <source>Bearmuda Triangle</source>
+				<target>مثلث برمودا</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="By confirming you will send TunnelBear a report that might help us further diagnose your bear.">
         <source>By confirming you will send TunnelBear a report that might help us further diagnose your bear.</source>
+				<target>بموجب التأكيد، ستُرسل إلى TunnelBear تقريرًا قد يساعدنا في تحسين دبك بشكل أفضل.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Can't connect while disconnecting">
         <source>Can't connect while disconnecting</source>
+				<target>لا يمكن الاتصال أثناء قطع الاتصال</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
+				<target>إلغاء</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cannot Purchase Upgrade">
         <source>Cannot Purchase Upgrade</source>
+				<target>تعذَّر شراء الترقية</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cannot Tunnel">
         <source>Cannot Tunnel</source>
+				<target>تعذَّر حفر الأنفاق</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Change Location">
         <source>Change Location</source>
+				<target>تغيير الموقع</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Changing countries…">
         <source>Changing countries…</source>
+				<target>جارٍ تغيير الدول...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Checking email…">
         <source>Checking email…</source>
+				<target>جارٍ التحقق من البريد الإلكتروني…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose Location">
         <source>Choose Location</source>
+				<target>اختيار الموقع</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Closest Tunnel">
         <source>Closest Tunnel</source>
+				<target>أقرب نفق</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Connect">
         <source>Connect</source>
+				<target>اتصال</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Connect to %@">
         <source>Connect to %@</source>
+				<target>اتصال بـ %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Connect to TunnelBear">
         <source>Connect to TunnelBear</source>
+				<target>اتصال بـ TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Connecting…">
         <source>Connecting…</source>
+				<target>جارٍ الاتصال...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Connection Secure!">
         <source>Connection Secure!</source>
+				<target>الاتصال آمن!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Connection Secure!\n While connected, you can use other apps as if you're in %@!">
         <source>Connection Secure!
  While connected, you can use other apps as if you're in %@!</source>
+				<target>الاتصال آمن!
+بينما أنت متصلا، يمكنك استخدام تطبيقاتك الأخرى كما لو أنك في %@!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Continue">
         <source>Continue</source>
+				<target>متابعة</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not complete purchase">
         <source>Could not complete purchase</source>
+				<target>تعذَّر إتمام الشراء</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not create an account">
         <source>Could not create an account</source>
+				<target>تعذَّر إنشاء حساب</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not log in">
         <source>Could not log in</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Could not reset password">
-        <source>Could not reset password</source>
+				<target>تعذَّر تسجيل الدخول</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Couldn't connect, please try again later">
         <source>Couldn't connect, please try again later</source>
+				<target>تعذَّر الاتصال، يرجى المحاولة مرة أخرى لاحقًا</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Creating account…">
         <source>Creating account…</source>
+				<target>جارٍ إنشاء الحساب...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DONE">
         <source>DONE</source>
+				<target>تم</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Did you mean %@?">
         <source>Did you mean %@?</source>
+				<target>هل تقصد %@؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Disconnect">
         <source>Disconnect</source>
+				<target>قطع الاتصال</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Disconnect from TunnelBear">
         <source>Disconnect from TunnelBear</source>
+				<target>قطع الاتصال بـ TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Disconnected">
         <source>Disconnected</source>
+				<target>غير متصل</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Disconnecting…">
         <source>Disconnecting…</source>
+				<target>جارٍ قطع الاتصال...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Encrypted Tunnel">
         <source>Encrypted Tunnel</source>
+				<target>نفق مشفَّر</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="For iPhones and iPads only">
         <source>For iPhones and iPads only</source>
+				<target>لأجهزة iPhone وiPad فقط</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="For up to 5 computers, phones or tablets">
         <source>For up to 5 computers, phones or tablets</source>
+				<target>بحد أقصى 5 أجهزة حاسوب أو هواتف أو حواسيب لوحية</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Free TunnelBear">
         <source>Free TunnelBear</source>
+        <target>TunnelBear المجاني</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Free data!">
         <source>Free data!</source>
+				<target>بيانات مجانية!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Giant TunnelBear">
         <source>Giant TunnelBear</source>
+				<target>TunnelBear العملاق</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Go Tunneling!">
         <source>Go Tunneling!</source>
+				<target>اذهب لحفر الأنفاق!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Got it">
         <source>Got it</source>
+				<target>فهمت</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Grizzly TunnelBear">
         <source>Grizzly TunnelBear</source>
+				<target>TunnelBear الأشيب</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Grr! TunnelBear couldn't reach the internet! Please try again.">
         <source>Grr! TunnelBear couldn't reach the internet! Please try again.</source>
+				<target>جررر! تعذَّر على TunnelBear الوصول إلى الإنترنت! يرجى المحاولة مرة أخرى.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Grr! TunnelBear device settings not  installed. Please try again.">
         <source>Grr! TunnelBear device settings not  installed. Please try again.</source>
+				<target>جررر! لم يتم تثبيت إعدادات TunnelBear الخاصة بالجهاز. يرجى المحاولة مرة أخرى.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Grr! TunnelBear device settings not installed. Please try again.">
         <source>Grr! TunnelBear device settings not installed. Please try again.</source>
+				<target>جررر! لم يتم تثبيت إعدادات TunnelBear الخاصة بالجهاز. يرجى المحاولة مرة أخرى.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Grr! TunnelBear needs to install additional device settings. Tap “install” when you are prompted.">
         <source>Grr! TunnelBear needs to install additional device settings. Tap “install” when you are prompted.</source>
+        <target>جررر! يحتاج TunnelBear إلى تثبيت إعدادات إضافية للجهاز. انقر “تثبيت” عند مطالبتك بذلك.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Grrr… Out of data for the month. Upgrade your Bear for unlimited data!">
         <source>Grrr… Out of data for the month. Upgrade your Bear for unlimited data!</source>
+				<target>جررر... نفدت بياناتك لهذا الشهر. قم بترقية دبّك للحصول على بيانات غير محدودة!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Help">
         <source>Help</source>
+				<target>المساعدة</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="How about a quick rating on the App Store, then?">
         <source>How about a quick rating on the App Store, then?</source>
+				<target>ما رأيك في تقييم سريع على App Store؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I Agree">
         <source>I Agree</source>
+				<target>موافق</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I really like doing things the hard way. I want to tunnel with manual settings.">
         <source>I really like doing things the hard way. I want to tunnel with manual settings.</source>
+				<target>في الحقيقة، أحب أن أقوم بالأشياء بالطريقة الصعبة. أريد حفر الأنفاق بالإعدادات اليدوية.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Initiating connection…">
         <source>Initiating connection…</source>
+				<target>جارٍ بدء الاتصال...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Is this your Twitter ID?">
         <source>Is this your Twitter ID?</source>
+				<target>هل هذا هو معرفك على Twitter؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Log In">
         <source>Log In</source>
+				<target>تسجيل الدخول</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Log Out">
         <source>Log Out</source>
+				<target>تسجيل الخروج</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Logging in…">
         <source>Logging in…</source>
+				<target>جارٍ تسجيل الدخول...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Logging out…">
         <source>Logging out…</source>
+				<target>جارٍ تسجيل الخروج...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Make Another Purchase?">
         <source>Make Another Purchase?</source>
+				<target>هل تريد إجراء عملية شراء أخرى؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Manage Subscription">
         <source>Manage Subscription</source>
+				<target>إدارة الاشتراك</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Mobile Giant TunnelBear">
         <source>Mobile Giant TunnelBear</source>
+				<target>TunnelBear العملاق للهاتف الجوّال</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Mobile Grizzly TunnelBear">
         <source>Mobile Grizzly TunnelBear</source>
+				<target>TunnelBear الأشيب للهاتف الجوّال</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Must be logged in to process purchase.">
         <source>Must be logged in to process purchase.</source>
+				<target>يجب أن تبقى مسجلًا الدخول لإجراء الشراء.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No">
         <source>No</source>
+				<target>لا</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Not connected">
         <source>Not connected</source>
+				<target>غير متصل</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
+				<target>موافق</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Oi mate! %@ is only available for upgraded bears.">
         <source>Oi mate! %@ is only available for upgraded bears.</source>
+				<target>يا رفيق! %@ متوفرة في 'الدببة' التي قامت بالترقية فقط.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Out of Data for the month">
         <source>Out of Data for the month</source>
+				<target>نفدت بياناتك لهذا الشهر</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter a valid Twitter ID.">
         <source>Please enter a valid Twitter ID.</source>
+				<target>يرجى إدخال معرف Twitter صحيح.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter your Twitter ID">
         <source>Please enter your Twitter ID</source>
+				<target>يرجى إدخال معرفك على Twitter</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please log in.">
         <source>Please log in.</source>
+				<target>يرجى تسجيل الدخول.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Processing Purchase…">
         <source>Processing Purchase…</source>
+				<target>جارٍ معالجة عملية الشراء...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchase Cancelled">
         <source>Purchase Cancelled</source>
+				<target>تم إلغاء عملية الشراء</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchase Completed">
         <source>Purchase Completed</source>
+				<target>تم إتمام عملية الشراء</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchase pending user action">
         <source>Purchase pending user action</source>
+				<target>عملية الشراء في انتظار إجراء من قِبل المستخدم</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rawr! Enjoying your TunnelBear?">
         <source>Rawr! Enjoying your TunnelBear?</source>
+				<target>رووور! هل تستمتع بـ TunnelBear؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rawr! It seems that your %@ is not connected to the Internet.">
         <source>Rawr! It seems that your %@ is not connected to the Internet.</source>
+				<target>رووور! يبدو أن %@ الخاص بك غير متصل بالإنترنت.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rawr! Looks like Twitter is either having issues or is blocked by your service provider.">
         <source>Rawr! Looks like Twitter is either having issues or is blocked by your service provider.</source>
+				<target>رووور! يبدو أن Twitter أيضًا به مشاكل أو محظور من قِبل مزوِّد خدمتك.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rawr! TunnelBear is having trouble fetching product information. Try again later?">
         <source>Rawr! TunnelBear is having trouble fetching product information. Try again later?</source>
+				<target>رووور! يواجه TunnelBear مشاكل في جلب معلومات المُنتج. هل تريد المحاولة مرة أخرى لاحقًا؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rawr! Your TunnelBear is having trouble fetching products from the App Store. Try again later?">
         <source>Rawr! Your TunnelBear is having trouble fetching products from the App Store. Try again later?</source>
+				<target>رووور! يواجه TunnelBear مشاكل في جلب المنتجات من App Store. هل تريد المحاولة مرة أخرى لاحقًا؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rawr! Your TunnelBear is having trouble reaching the App Store. Try again later?">
         <source>Rawr! Your TunnelBear is having trouble reaching the App Store. Try again later?</source>
+				<target>رووور! يواجه TunnelBear مشاكل في الوصول إلى App Store. هل تريد المحاولة مرة أخرى لاحقًا؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rawrr! Problem confirming Twitter ID">
         <source>Rawrr! Problem confirming Twitter ID</source>
+				<target>رووور! توجد مشكلة في التحقق من معرِّف Twitter</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours.">
         <source>Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours.</source>
+				<target>رووور! هل تواجه مشاكل مع TunnelBear؟ يرجى الاتصال بالدعم وسيصلك الرد في غضون 24 ساعة.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Rawrrr! Your bear has been upgraded.">
         <source>Rawrrr! Your bear has been upgraded.</source>
+				<target>رووور! تمت ترقية دبّك.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reinstall Profile">
         <source>Reinstall Profile</source>
+				<target>إعادة تثبيت التشكيل الجانبي</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restoring Purchases…">
         <source>Restoring Purchases…</source>
+				<target>جارٍ استرداد المشتريات...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Review on iTunes">
         <source>Review on iTunes</source>
+				<target>مراجعة على iTunes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Save %d%%">
         <source>Save %d%%</source>
+				<target>وفِّر %d%%</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Send Bug report?">
         <source>Send Bug report?</source>
+				<target>هل تريد إرسال تقرير بالخطأ؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Sending Logs…">
         <source>Sending Logs…</source>
+				<target>جارٍ إرسال السجلات...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Still changing countries…">
         <source>Still changing countries…</source>
+				<target>لا تزال عملية تغيير الدول جارية...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Still connected">
         <source>Still connected</source>
+				<target>البقاء متصلا</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tap Install when you’re prompted.">
         <source>Tap Install when you’re prompted.</source>
+				<target>انقر تثبيت عند مطالبتك بذلك.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Terms of Service">
         <source>Terms of Service</source>
+				<target>شروط الخدمة</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To use a TunnelBear, you'll need to accept the TunnelBear Terms of Service.">
         <source>To use a TunnelBear, you'll need to accept the TunnelBear Terms of Service.</source>
+				<target>لاستخدام TunnelBear، يجب عليك قبول شروط الخدمة الخاصة بتطبيق TunnelBear.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tunnel to %@?">
         <source>Tunnel to %@?</source>
+				<target>هل تريد حفر نفقًا إلى %@؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TunnelBear">
         <source>TunnelBear</source>
+				<target>TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TunnelBear Notifications">
         <source>TunnelBear Notifications</source>
+				<target>إعلامات TunnelBear</target>
         <note>Notify notifications title</note>
       </trans-unit>
       <trans-unit id="TunnelBear can send you notifications when you are low on data. Tap “OK” when prompted to receive them.">
         <source>TunnelBear can send you notifications when you are low on data. Tap “OK” when prompted to receive them.</source>
+        <target>يستطيع TunnelBear إرسال الإعلامات إليك عندما تكون بياناتك على وشك النفاد. انقر “موافق” عند مطالبتك باستقبالها.</target>
         <note>Notifying users why we use notifications.</note>
       </trans-unit>
       <trans-unit id="TunnelBear needs to install “VPN” settings on your %@. Tap Install when you’re prompted.">
         <source>TunnelBear needs to install “VPN” settings on your %@. Tap Install when you’re prompted.</source>
+        <target>يحتاج TunnelBear إلى تثبيت إعدادات ”VPN“ على %@ الخاص بك. انقر تثبيت عند مطالبتك بذلك.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Turn TunnelBear ON to make your location and data private!\n\n">
         <source>Turn TunnelBear ON to make your location and data private!
 
 </source>
+        <target>شغّل TunnelBear لجعل موقعك و بياناتك سرية!
+
+</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tweet for 1 FREE GB?">
         <source>Tweet for 1 FREE GB?</source>
+        <target>غرِّد للحصول على 1 غيغابايت مجانًا</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Twitter Not Reachable">
         <source>Twitter Not Reachable</source>
+				<target>تعذَّر الوصول إلى Twitter</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to install VPN profile">
         <source>Unable to install VPN profile</source>
+				<target>تعذَّر تثبيت تشكيل VPN الجانبي</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Updating Account…">
         <source>Updating Account…</source>
+				<target>جارٍ تحديث الحساب...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Upgrade">
         <source>Upgrade</source>
+				<target>ترقية</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VPN Profile Not Found">
         <source>VPN Profile Not Found</source>
+				<target>تعذَّر العثور على تشكيل VPN الجانبي</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VPN connection timed out">
         <source>VPN connection timed out</source>
+				<target>انقضت مهلة الاتصال بـ VPN</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Verifying connection…">
         <source>Verifying connection…</source>
+				<target>جارٍ التحقق من الاتصال...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View Terms">
         <source>View Terms</source>
+				<target>عرض الشروط</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="We’ve sent you a bear!">
         <source>We’ve sent you a bear!</source>
+				<target>لقد أرسلنا إليك دبًا!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Yes">
         <source>Yes</source>
+				<target>نعم</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Yes!">
         <source>Yes!</source>
+				<target>نعم!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Yikes! Well would you mind telling us what you don’t like about your Bear?">
         <source>Yikes! Well would you mind telling us what you don’t like about your Bear?</source>
+				<target>نعم! حسنًا، هل لديك مانع في إبلاغنا بما لا تحبه في دبّك؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You already have a pending purchase that TunnelBear hasn't processed yet. Make another purchase anyway?">
         <source>You already have a pending purchase that TunnelBear hasn't processed yet. Make another purchase anyway?</source>
+				<target>لديك بالفعل عملية شراء معلقة لم تتم معالجتها من قِبل TunnelBear بعد. هل تريد إجراء عملية شراء أخرى على أي حال؟</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You'll see a message when you upgrade. This is the default message shown for all app store subscriptions. Even if you tap “Allow” we don’t actually collect or store this information. You can see our privacy policy here.">
         <source>You'll see a message when you upgrade. This is the default message shown for all app store subscriptions. Even if you tap “Allow” we don’t actually collect or store this information. You can see our privacy policy here.</source>
+        <target>سترى رسالة عندما تقوم بالترقية. هذه هي الرسالة الافتراضية التي تظهر لجميع اشتراكات App Store. حتى إذا نقرت “سماح” نحن في الواقع لا نجمع أو نخزِّن هذه المعلومات. يمكنك مشاهدة سياسة الخصوصية الخاصة بنا هنا.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You're already connected to this tunnel.">
         <source>You're already connected to this tunnel.</source>
+				<target>أنت بالفعل متصل بهذا النفق.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You're currently changing countries">
         <source>You're currently changing countries</source>
+				<target>أنت حاليًا تقوم بتغيير الدول</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="You're currently connected to %@">
-        <source>You're currently connected to %@</source>
-        <note>"connected to Canada" etc.</note>
+      <trans-unit id="You're currently connected to TunnelBear">
+        <source>You're currently connected to TunnelBear</source>
+				<target>أنت حاليًا متصل بـ TunnelBear</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="You're currently not connected to TunnelBear">
-        <source>You're currently not connected to TunnelBear</source>
+      <trans-unit id="You're currently disconnected from TunnelBear">
+        <source>You're currently disconnected from TunnelBear</source>
+				<target>أنت حاليًا غير متصل بـ TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your TunnelBear is out of food (data)!">
         <source>Your TunnelBear is out of food (data)!</source>
+				<target>نفد الطعام (البيانات) المخصص لـ TunnelBear!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your free 1GB has been delivered!">
         <source>Your free 1GB has been delivered!</source>
+				<target>تم تسليم الـ 1 غيغابايت المجانية الخاصة بك!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your location:">
         <source>Your location:</source>
+				<target>موقعك:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your location: %@">
         <source>Your location: %@</source>
+				<target>موقعك: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your location: %@, %@">
         <source>Your location: %1$@, %2$@</source>
+				<target>موقعك: %1$@، %2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your location:\n %@, %@, %@">
         <source>Your location:
  %1$@, %2$@, %3$@</source>
+				<target>موقعك:
+ %1$@، %2$@، %3$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="contact support">
         <source>contact support</source>
+        <target>الاتصال بالدعم</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="free 1GB">
         <source>free 1GB</source>
+				<target>1 غيغابايت مجانًا</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="here">
         <source>here</source>
+				<target>هنا</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="manual settings">
         <source>manual settings</source>
+				<target>الإعدادات اليدوية</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="onboard_install_profile">
         <source>onboard_install_profile</source>
+        <target>onboard_install_profile_ar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="onboard_install_profile_ios8">
         <source>onboard_install_profile_ios8</source>
+        <target>onboard_install_profile_ios8_ar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="other apps">
         <source>other apps</source>
+        <target>تطبيقاتك الأخرى</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Email has not been confirmed">
           <source>Email has not been confirmed</source>
+				<target>لم يتم تأكيد البريد الإلكتروني</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Email is required">
           <source>Email is required</source>
+				<target>البريد الإلكتروني مطلوب</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="First name is required.">
           <source>First name is required.</source>
+				<target>الاسم الأول مطلوب.</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password is required">
           <source>Password is required</source>
+				<target>كلمة المرور مطلوبة</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The password must be at least %lu characters long.">
           <source>The password must be at least %lu characters long.</source>
+				<target>يجب أن تتكون كلمة المرور من %lu حروف على الأقل.</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This doesn't look like a valid email.">
           <source>This doesn't look like a valid email.</source>
+				<target>لا يبدو هذا كأنه بريد إلكتروني صحيح.</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to fetch image">
           <source>Unable to fetch image</source>
+				<target>تعذَّر جلب الصورة</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>

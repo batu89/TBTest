@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="TunnelBear/Code/Controllers/Base.lproj/TBPromoViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="03z-jr-kYk.normalTitle">
+        <source>Sure!</source>
+        <target>Evet</target>
+        <note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYk";</note>
+      </trans-unit>
+      <trans-unit id="58M-PZ-Xk3.normalTitle">
+        <source>Go Tunneling!</source>
+				<target>Hadi Tünel Aç!</target>
+        <note>Class = "UIButton"; normalTitle = "Go Tunneling!"; ObjectID = "58M-PZ-Xk3";</note>
+      </trans-unit>
+      <trans-unit id="ajY-lA-uqt.normalTitle">
+        <source>Nah</source>
+				<target>Yok</target>
+        <note>Class = "UIButton"; normalTitle = "Nah"; ObjectID = "ajY-lA-uqt";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBCountryViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="5c0-Hm-8NY.title">
+        <source>Select a Country</source>
+				<target>Ülke seç</target>
+        <note>Class = "UINavigationItem"; title = "Select a Country"; ObjectID = "5c0-Hm-8NY";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBCreateAccountViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="13.normalTitle">
+        <source>Create a Free Account</source>
+				<target>Ücretsiz hesap aç</target>
+        <note>Class = "UIButton"; normalTitle = "Create a Free Account"; ObjectID = "13";</note>
+      </trans-unit>
+      <trans-unit id="21.normalTitle">
+        <source>Log in</source>
+				<target>Giriş</target>
+        <note>Class = "UIButton"; normalTitle = "Log in"; ObjectID = "21";</note>
+      </trans-unit>
+      <trans-unit id="54.accessibilityLabel">
+        <source>Email</source>
+				<target>E-posta</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "54";</note>
+      </trans-unit>
+      <trans-unit id="54.placeholder">
+        <source>example@gmail.com</source>
+				<target>ornek@email.com</target>
+        <note>Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "54";</note>
+      </trans-unit>
+      <trans-unit id="55.accessibilityLabel">
+        <source>Email</source>
+				<target>E-posta</target>
+        <note>Class = "UILabel"; accessibilityLabel = "Email"; ObjectID = "55";</note>
+      </trans-unit>
+      <trans-unit id="55.text">
+        <source>Email</source>
+				<target>E-posta</target>
+        <note>Class = "UILabel"; text = "Email"; ObjectID = "55";</note>
+      </trans-unit>
+      <trans-unit id="57.accessibilityLabel">
+        <source>First name</source>
+				<target>Ad</target>
+        <note>Class = "UITextField"; accessibilityLabel = "First name"; ObjectID = "57";</note>
+      </trans-unit>
+      <trans-unit id="58.accessibilityLabel">
+        <source>First Name</source>
+				<target>Ad</target>
+        <note>Class = "UILabel"; accessibilityLabel = "First Name"; ObjectID = "58";</note>
+      </trans-unit>
+      <trans-unit id="58.text">
+        <source>First Name</source>
+				<target>Ad</target>
+        <note>Class = "UILabel"; text = "First Name"; ObjectID = "58";</note>
+      </trans-unit>
+      <trans-unit id="63.accessibilityLabel">
+        <source>Password</source>
+				<target>Şifre</target>
+        <note>Class = "UILabel"; accessibilityLabel = "Password"; ObjectID = "63";</note>
+      </trans-unit>
+      <trans-unit id="63.text">
+        <source>Password</source>
+				<target>Şifre</target>
+        <note>Class = "UILabel"; text = "Password"; ObjectID = "63";</note>
+      </trans-unit>
+      <trans-unit id="64.accessibilityHint">
+        <source>Please choose a password you'd like to use with TunnelBear</source>
+				<target>Lütfen TunnelBear için bir şifre seç</target>
+        <note>Class = "UITextField"; accessibilityHint = "Please choose a password you'd like to use with TunnelBear"; ObjectID = "64";</note>
+      </trans-unit>
+      <trans-unit id="64.accessibilityLabel">
+        <source>Password</source>
+				<target>Şifre</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "64";</note>
+      </trans-unit>
+      <trans-unit id="64.placeholder">
+        <source>required</source>
+				<target>gerekli</target>
+        <note>Class = "UITextField"; placeholder = "required"; ObjectID = "64";</note>
+      </trans-unit>
+      <trans-unit id="69.text">
+        <source>Have an account?</source>
+				<target>Hesabın var mı?</target>
+        <note>Class = "UILabel"; text = "Have an account?"; ObjectID = "69";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBLaunchViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body></body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBLoginViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="46.text">
+        <source>Password</source>
+				<target>Şifre</target>
+        <note>Class = "UILabel"; text = "Password"; ObjectID = "46";</note>
+      </trans-unit>
+      <trans-unit id="47.accessibilityHint">
+        <source>Please enter your TunnelBear password</source>
+				<target>Lütfen TunnelBear şifreni gir</target>
+        <note>Class = "UITextField"; accessibilityHint = "Please enter your TunnelBear password"; ObjectID = "47";</note>
+      </trans-unit>
+      <trans-unit id="47.accessibilityLabel">
+        <source>Password</source>
+				<target>Şifre</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "47";</note>
+      </trans-unit>
+      <trans-unit id="47.placeholder">
+        <source>required</source>
+				<target>gerekli</target>
+        <note>Class = "UITextField"; placeholder = "required"; ObjectID = "47";</note>
+      </trans-unit>
+      <trans-unit id="48.accessibilityLabel">
+        <source>Email</source>
+				<target>E-posta</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "48";</note>
+      </trans-unit>
+      <trans-unit id="48.placeholder">
+        <source>example@gmail.com</source>
+				<target>ornek@email.com</target>
+        <note>Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "48";</note>
+      </trans-unit>
+      <trans-unit id="49.text">
+        <source>Email</source>
+				<target>E-posta</target>
+        <note>Class = "UILabel"; text = "Email"; ObjectID = "49";</note>
+      </trans-unit>
+      <trans-unit id="55.text">
+        <source>New to TunnelBear?</source>
+				<target>TunnelBear'e yeni mi katıldın?</target>
+        <note>Class = "UILabel"; text = "New to TunnelBear?"; ObjectID = "55";</note>
+      </trans-unit>
+      <trans-unit id="57.normalTitle">
+        <source>Create an account</source>
+				<target>Hesap aç</target>
+        <note>Class = "UIButton"; normalTitle = "Create an account"; ObjectID = "57";</note>
+      </trans-unit>
+      <trans-unit id="58.normalTitle">
+        <source>Log In</source>
+				<target>Giriş</target>
+        <note>Class = "UIButton"; normalTitle = "Log In"; ObjectID = "58";</note>
+      </trans-unit>
+      <trans-unit id="77.accessibilityHint">
+        <source>Opens password reset form in Safari</source>
+				<target>Şifre sıfırlama formunu Safari'de aç</target>
+        <note>Class = "UIButton"; accessibilityHint = "Opens password reset form in Safari"; ObjectID = "77";</note>
+      </trans-unit>
+      <trans-unit id="77.normalTitle">
+        <source>Forgot Password?</source>
+				<target>Şifreni mi unuttun?</target>
+        <note>Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "77";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBMainViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="3Bl-5R-ae6.accessibilityLabel">
+        <source>Current status</source>
+				<target>Güncel durum</target>
+        <note>Class = "UILabel"; accessibilityLabel = "Current status"; ObjectID = "3Bl-5R-ae6";</note>
+      </trans-unit>
+      <trans-unit id="3Bl-5R-ae6.text">
+        <source>Disconnected</source>
+				<target>Bağlantı kesildi</target>
+        <note>Class = "UILabel"; text = "Disconnected"; ObjectID = "3Bl-5R-ae6";</note>
+      </trans-unit>
+      <trans-unit id="AH2-0Z-KnF.accessibilityHint">
+        <source>Got it</source>
+				<target>Tamamdır</target>
+        <note>Class = "UIButton"; accessibilityHint = "Got it"; ObjectID = "AH2-0Z-KnF";</note>
+      </trans-unit>
+      <trans-unit id="AH2-0Z-KnF.accessibilityLabel">
+        <source>Got it</source>
+				<target>Tamamdır</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Got it"; ObjectID = "AH2-0Z-KnF";</note>
+      </trans-unit>
+      <trans-unit id="AH2-0Z-KnF.normalTitle">
+        <source>Got it</source>
+				<target>Tamamdır</target>
+        <note>Class = "UIButton"; normalTitle = "Got it"; ObjectID = "AH2-0Z-KnF";</note>
+      </trans-unit>
+      <trans-unit id="G8d-yD-fXp.text">
+        <source>Change countries here.</source>
+				<target>Buradan ülke değiştir.</target>
+        <note>Class = "UILabel"; text = "Change countries here."; ObjectID = "G8d-yD-fXp";</note>
+      </trans-unit>
+      <trans-unit id="IN1-Dq-51U.accessibilityHint">
+        <source>Change connection countries</source>
+				<target>Bağlantı ülkesi değiştir</target>
+        <note>Class = "UIButton"; accessibilityHint = "Change connection countries"; ObjectID = "IN1-Dq-51U";</note>
+      </trans-unit>
+      <trans-unit id="IN1-Dq-51U.accessibilityLabel">
+        <source>Change countries</source>
+				<target>Ülke değiştir</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Change countries"; ObjectID = "IN1-Dq-51U";</note>
+      </trans-unit>
+      <trans-unit id="IN1-Dq-51U.normalTitle">
+        <source> Germany</source>
+				<target> Almanya</target>
+        <note>Class = "UIButton"; normalTitle = " Germany"; ObjectID = "IN1-Dq-51U";</note>
+      </trans-unit>
+      <trans-unit id="WN0-Nv-lk5.text">
+        <source>Turn TunnelBear ON here.</source>
+				<target>Buradan TunnelBear'i aç.</target>
+        <note>Class = "UILabel"; text = "Turn TunnelBear ON here."; ObjectID = "WN0-Nv-lk5";</note>
+      </trans-unit>
+      <trans-unit id="nH8-qR-TXv.accessibilityHint">
+        <source>Open menu</source>
+				<target>Menüyü aç</target>
+        <note>Class = "UIButton"; accessibilityHint = "Open menu"; ObjectID = "nH8-qR-TXv";</note>
+      </trans-unit>
+      <trans-unit id="nH8-qR-TXv.accessibilityLabel">
+        <source>Menu</source>
+				<target>Menü</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Menu"; ObjectID = "nH8-qR-TXv";</note>
+      </trans-unit>
+      <trans-unit id="s6f-ak-6To.accessibilityHint">
+        <source>Upgrade your bear</source>
+				<target>Ayını üst sürüme geçir</target>
+        <note>Class = "UIButton"; accessibilityHint = "Upgrade your bear"; ObjectID = "s6f-ak-6To";</note>
+      </trans-unit>
+      <trans-unit id="s6f-ak-6To.accessibilityLabel">
+        <source>Upgrade</source>
+				<target>Üst sürüme geç</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Upgrade"; ObjectID = "s6f-ak-6To";</note>
+      </trans-unit>
+      <trans-unit id="s6f-ak-6To.normalTitle">
+        <source>Upgrade</source>
+				<target>Üst sürüme geç</target>
+        <note>Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "s6f-ak-6To";</note>
+      </trans-unit>
+      <trans-unit id="x71-gq-8Bu.accessibilityHint">
+        <source>Connect to TunnelBear</source>
+				<target>TunnelBear'e bağlan</target>
+        <note>Class = "UIView"; accessibilityHint = "Connect to TunnelBear"; ObjectID = "x71-gq-8Bu";</note>
+      </trans-unit>
+      <trans-unit id="x71-gq-8Bu.accessibilityLabel">
+        <source>Toggle Connection</source>
+				<target>Bağlantı Değiştir</target>
+        <note>Class = "UIView"; accessibilityLabel = "Toggle Connection"; ObjectID = "x71-gq-8Bu";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBManageSubscriptionViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="FS5-2o-nej.normalTitle">
+        <source>Manage Subscription Settings</source>
+				<target>Üyelik Ayarlarını Yönet</target>
+        <note>Class = "UIButton"; normalTitle = "Manage Subscription Settings"; ObjectID = "FS5-2o-nej";</note>
+      </trans-unit>
+      <trans-unit id="d5Q-6h-6Nb.text">
+        <source>Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours.</source>
+				<target>Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.</target>
+        <note>Class = "UITextView"; text = "Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours."; ObjectID = "d5Q-6h-6Nb";</note>
+      </trans-unit>
+      <trans-unit id="gDF-Lc-s5O.normalTitle">
+        <source>Need Instructions?</source>
+				<target>Yardım lazım mı?</target>
+        <note>Class = "UIButton"; normalTitle = "Need Instructions?"; ObjectID = "gDF-Lc-s5O";</note>
+      </trans-unit>
+      <trans-unit id="ucj-Mr-yLq.title">
+        <source>Manage Subscription</source>
+				<target>Üyeliği Yönet</target>
+        <note>Class = "UINavigationItem"; title = "Manage Subscription"; ObjectID = "ucj-Mr-yLq";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBManualVPNSettingsViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="0Gj-sl-JBI.text">
+        <source>Go to “Settings” to choose your country and turn VPN on and off.</source>
+				<target>Ülkeni seçmek ve VPN'i açmak veya kapatmak için “Ayarlar” menüsüne git.</target>
+        <note>Class = "UILabel"; text = "Go to “Settings” to choose your country and turn VPN on and off."; ObjectID = "0Gj-sl-JBI";</note>
+      </trans-unit>
+      <trans-unit id="JU5-Dk-53I.text">
+        <source>You're currently using manual controls.</source>
+				<target>Şu anda manuel kontrolleri kullanıyorsun.</target>
+        <note>Class = "UILabel"; text = "You're currently using manual controls."; ObjectID = "JU5-Dk-53I";</note>
+      </trans-unit>
+      <trans-unit id="Scc-ra-AR5.normalTitle">
+        <source>Switch to In-App Controls?</source>
+				<target>Uygulama içi kontrollere geçilsin mi?</target>
+        <note>Class = "UIButton"; normalTitle = "Switch to In-App Controls?"; ObjectID = "Scc-ra-AR5";</note>
+      </trans-unit>
+      <trans-unit id="Xas-B4-C4d.title">
+        <source>VPN Settings</source>
+				<target>VPN Ayarları</target>
+        <note>Class = "UINavigationItem"; title = "VPN Settings"; ObjectID = "Xas-B4-C4d";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBMenuViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="3Pc-kZ-ZSJ.text">
+        <source>ibear@tunnelbear.com</source>
+				<target>ibear@tunnelbear.com</target>
+        <note>Class = "UILabel"; text = "ibear@tunnelbear.com"; ObjectID = "3Pc-kZ-ZSJ";</note>
+      </trans-unit>
+      <trans-unit id="7XZ-hx-yE5.text">
+        <source>Free TunnelBear</source>
+				<target>Ücretsiz TunnelBear</target>
+        <note>Class = "UILabel"; text = "Free TunnelBear"; ObjectID = "7XZ-hx-yE5";</note>
+      </trans-unit>
+      <trans-unit id="67w-wE-FRz.text">
+        <source>v2.0</source>
+				<target>v2.0</target>
+        <note>Class = "UILabel"; text = "v2.0"; ObjectID = "67w-wE-FRz";</note>
+      </trans-unit>
+      <trans-unit id="Izg-3I-HtI.normalTitle">
+        <source>Bug Report</source>
+				<target>Hata Raporu</target>
+        <note>Class = "UIButton"; normalTitle = "Bug Report"; ObjectID = "Izg-3I-HtI";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPrivacyInfoViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="fpX-y1-jyN.normalTitle">
+        <source>OK</source>
+				<target>Tamam</target>
+        <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "fpX-y1-jyN";</note>
+      </trans-unit>
+      <trans-unit id="jlR-rX-XRe.title">
+        <source>We don't collect your data!</source>
+				<target>Verilerini toplamıyoruz!</target>
+        <note>Class = "UINavigationItem"; title = "We don't collect your data!"; ObjectID = "jlR-rX-XRe";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBProfileInstallViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="Bui-2t-tC6.normalTitle">
+        <source>I'm Ready</source>
+				<target>Hazırım</target>
+        <note>Class = "UIButton"; normalTitle = "I'm Ready"; ObjectID = "Bui-2t-tC6";</note>
+      </trans-unit>
+      <trans-unit id="VB8-wO-0Di.text">
+        <source>TunnelBear needs to install “VPN” settings on your iPhone. Tap Install when you're prompted.</source>
+        <target>TunnelBear'in iPhone'una “VPN” ayarları yüklemesi gerekiyor. Sorulduğunda “yükle”ye bas.</target>
+        <note>Class = "UILabel"; text = "TunnelBear needs to install “VPN” settings on your iPhone. Tap Install when you're prompted."; ObjectID = "VB8-wO-0Di";</note>
+      </trans-unit>
+      <trans-unit id="egT-Xs-w6P.text">
+        <source>Install iOS Settings</source>
+				<target>iOS Ayarlarını Yükle</target>
+        <note>Class = "UILabel"; text = "Install iOS Settings"; ObjectID = "egT-Xs-w6P";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBProfileReinstallViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="3GF-DA-YqY.title">
+        <source>Choose a way to tunnel</source>
+				<target>Tünel açma yöntemi seç</target>
+        <note>Class = "UINavigationItem"; title = "Choose a way to tunnel"; ObjectID = "3GF-DA-YqY";</note>
+      </trans-unit>
+      <trans-unit id="US9-2U-1JM.normalTitle">
+        <source>In-App</source>
+				<target>Uygulama içi</target>
+        <note>Class = "UIButton"; normalTitle = "In-App"; ObjectID = "US9-2U-1JM";</note>
+      </trans-unit>
+      <trans-unit id="ZdH-hT-C3L.text">
+        <source>I want to control TunnelBear from within the app (recommended)</source>
+				<target>TunnelBear'i uygulama içinden yönetmek istiyorum (tavsiye edilen)</target>
+        <note>Class = "UILabel"; text = "I want to control TunnelBear from within the app (recommended)"; ObjectID = "ZdH-hT-C3L";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPurchaseContainerViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="Pne-4F-Pbh.text">
+        <source>Privacy</source>
+				<target>Gizlilik</target>
+        <note>Class = "UILabel"; text = "Privacy"; ObjectID = "Pne-4F-Pbh";</note>
+      </trans-unit>
+      <trans-unit id="WE8-KB-Whr.segmentTitles[0]">
+        <source>Full Plans</source>
+				<target>Tam Planlar</target>
+        <note>Class = "UISegmentedControl"; WE8-KB-Whr.segmentTitles[0] = "Full Plans"; ObjectID = "WE8-KB-Whr";</note>
+      </trans-unit>
+      <trans-unit id="WE8-KB-Whr.segmentTitles[1]">
+        <source>For iOS Only</source>
+				<target>Sadece iOS İçin</target>
+        <note>Class = "UISegmentedControl"; WE8-KB-Whr.segmentTitles[1] = "For iOS Only"; ObjectID = "WE8-KB-Whr";</note>
+      </trans-unit>
+      <trans-unit id="jCX-eZ-T0E.text">
+        <source>Restore Purchases</source>
+				<target>Satın Alımları Geri Yükle</target>
+        <note>Class = "UILabel"; text = "Restore Purchases"; ObjectID = "jCX-eZ-T0E";</note>
+      </trans-unit>
+      <trans-unit id="rtb-3h-X6l.title">
+        <source>Get Unlimited Data</source>
+				<target>Sınırsız Veri Al</target>
+        <note>Class = "UINavigationItem"; title = "Get Unlimited Data"; ObjectID = "rtb-3h-X6l";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPurchaseViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="2XY-cC-bu3.text">
+        <source>Yearly</source>
+				<target>Yıllık</target>
+        <note>Class = "UILabel"; text = "Yearly"; ObjectID = "2XY-cC-bu3";</note>
+      </trans-unit>
+      <trans-unit id="8Vj-Fx-gOQ.text">
+        <source>Free</source>
+				<target>Ücretsiz</target>
+        <note>Class = "UILabel"; text = "Free"; ObjectID = "8Vj-Fx-gOQ";</note>
+      </trans-unit>
+      <trans-unit id="CK8-26-k2m.text">
+        <source>Monthly</source>
+				<target>Aylık</target>
+        <note>Class = "UILabel"; text = "Monthly"; ObjectID = "CK8-26-k2m";</note>
+      </trans-unit>
+      <trans-unit id="Kkn-rl-mak.text">
+        <source>For up to 5 computers, phones or tablets</source>
+				<target>5 tane bilgisayar, telefon, tablet için</target>
+        <note>Class = "UILabel"; text = "For up to 5 computers, phones or tablets"; ObjectID = "Kkn-rl-mak";</note>
+      </trans-unit>
+      <trans-unit id="MKs-Cg-QVV.normalTitle">
+        <source>$$$</source>
+				<target>$$$</target>
+        <note>Class = "UIButton"; normalTitle = "$$$"; ObjectID = "MKs-Cg-QVV";</note>
+      </trans-unit>
+      <trans-unit id="Owc-FT-4oe.text">
+        <source>Save 0%</source>
+				<target>%0 kâr et</target>
+        <note>Class = "UILabel"; text = "Save 0%"; ObjectID = "Owc-FT-4oe";</note>
+      </trans-unit>
+      <trans-unit id="fRo-l6-Vzu.text">
+        <source>500 MB Data remaining</source>
+				<target>500 MB veri kaldı</target>
+        <note>Class = "UILabel"; text = "500 MB Data remaining"; ObjectID = "fRo-l6-Vzu";</note>
+      </trans-unit>
+      <trans-unit id="ypv-f3-lLx.normalTitle">
+        <source>$$</source>
+				<target>$$</target>
+        <note>Class = "UIButton"; normalTitle = "$$"; ObjectID = "ypv-f3-lLx";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterConfirmViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="3YB-rY-Wxe.title">
+        <source>Please enter your Twitter ID</source>
+				<target>Lütfen Twitter kullanıcı adını gir</target>
+        <note>Class = "UINavigationItem"; title = "Please enter your Twitter ID"; ObjectID = "3YB-rY-Wxe";</note>
+      </trans-unit>
+      <trans-unit id="32A-vc-cSB.text">
+        <source>We want to make sure we send the free GB to the right person.</source>
+				<target>Ücretsiz 1 GB'ı doğru kişiye yollamak istiyoruz da.</target>
+        <note>Class = "UILabel"; text = "We want to make sure we send the free GB to the right person."; ObjectID = "32A-vc-cSB";</note>
+      </trans-unit>
+      <trans-unit id="P75-hz-Z5H.placeholder">
+        <source>required</source>
+				<target>gerekli</target>
+        <note>Class = "UITextField"; placeholder = "required"; ObjectID = "P75-hz-Z5H";</note>
+      </trans-unit>
+      <trans-unit id="bZr-OZ-SC7.normalTitle">
+        <source>Tweet Now</source>
+				<target>Şimdi tweet at</target>
+        <note>Class = "UIButton"; normalTitle = "Tweet Now"; ObjectID = "bZr-OZ-SC7";</note>
+      </trans-unit>
+      <trans-unit id="rtA-K4-wBL.text">
+        <source>Twitter ID</source>
+				<target>Twitter kullanıcı adı</target>
+        <note>Class = "UILabel"; text = "Twitter ID"; ObjectID = "rtA-K4-wBL";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterInfoViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="LQF-yZ-SMv.text">
+        <source>The always vigilant TunnelBear team will see you've tweeted.</source>
+				<target>Her zaman tetikte olan TunnelBear ekibi tweet attığını görecek.</target>
+        <note>Class = "UILabel"; text = "The always vigilant TunnelBear team will see you've tweeted."; ObjectID = "LQF-yZ-SMv";</note>
+      </trans-unit>
+      <trans-unit id="j0W-si-tZI.text">
+        <source>Within the hour, your TunnelBear account will have a bonus GB of free data for the month.</source>
+				<target>Bir saat içinde TunnelBear hesabına bu aylık ekstra 1 GB ücretsiz veri aktarılacak.</target>
+        <note>Class = "UILabel"; text = "Within the hour, your TunnelBear account will have a bonus GB of free data for the month."; ObjectID = "j0W-si-tZI";</note>
+      </trans-unit>
+      <trans-unit id="mxl-i6-1Fu.text">
+        <source>Tweet @theTunnelBear asking for 1 free GB of data.</source>
+				<target>@theTunnelBear'e tweet atıp ücretsiz 1 GB verini iste.</target>
+        <note>Class = "UILabel"; text = "Tweet @theTunnelBear asking for 1 free GB of data."; ObjectID = "mxl-i6-1Fu";</note>
+      </trans-unit>
+      <trans-unit id="nmI-Ks-9gO.title">
+        <source>Tweet for a FREE GB!</source>
+				<target>ÜCRETSİZ 1 GB için tweet at!</target>
+        <note>Class = "UINavigationItem"; title = "Tweet for a FREE GB!"; ObjectID = "nmI-Ks-9gO";</note>
+      </trans-unit>
+      <trans-unit id="uFq-Oi-QlX.accessibilityHint">
+        <source>Let's do this!</source>
+				<target>Hadi başlayalım!</target>
+        <note>Class = "UIButton"; accessibilityHint = "Let's do this!"; ObjectID = "uFq-Oi-QlX";</note>
+      </trans-unit>
+      <trans-unit id="uFq-Oi-QlX.accessibilityLabel">
+        <source>Let's do this!</source>
+				<target>Hadi başlayalım!</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Let's do this!"; ObjectID = "uFq-Oi-QlX";</note>
+      </trans-unit>
+      <trans-unit id="uFq-Oi-QlX.normalTitle">
+        <source>Let's do this!</source>
+				<target>Hadi başlayalım!</target>
+        <note>Class = "UIButton"; normalTitle = "Let's do this!"; ObjectID = "uFq-Oi-QlX";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterThanksViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="Fd1-X4-kYs.text">
+        <source>Your 1GB of free data should appear within the hour.</source>
+				<target>1 GB ücretsiz verin bir saat içinde gelecek.</target>
+        <note>Class = "UILabel"; text = "Your 1GB of free data should appear within the hour."; ObjectID = "Fd1-X4-kYs";</note>
+      </trans-unit>
+      <trans-unit id="Xas-B4-C4d.title">
+        <source>Rawr! Thanks!</source>
+				<target>Rorr! Sağ ol!</target>
+        <note>Class = "UINavigationItem"; title = "Rawr! Thanks!"; ObjectID = "Xas-B4-C4d";</note>
+      </trans-unit>
+      <trans-unit id="mRJ-U1-Sc9.text">
+        <source>You can tweet again next month for another free GB!</source>
+				<target>Gelecek ay ücretsiz 1 GB kazanmak için tekrar tweet atabilirsin!</target>
+        <note>Class = "UILabel"; text = "You can tweet again next month for another free GB!"; ObjectID = "mRJ-U1-Sc9";</note>
+      </trans-unit>
+      <trans-unit id="mu4-iI-Tgy.normalTitle">
+        <source>OK</source>
+				<target>Tamam</target>
+        <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "mu4-iI-Tgy";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBVerifyEmailViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="2JP-sf-gYi.text">
+        <source>We've sent you a bear!</source>
+				<target>Sana ayı gönderdik!</target>
+        <note>Class = "UILabel"; text = "We've sent you a bear!"; ObjectID = "2JP-sf-gYi";</note>
+      </trans-unit>
+      <trans-unit id="PXg-NA-y5J.text">
+        <source>Please check your email to confirm we’ve sent your bear to the right address:</source>
+				<target>Ayını doğru adrese gönderip göndermediğimizi kontrol etmek için lütfen e-postana bak:</target>
+        <note>Class = "UILabel"; text = "Please check your email to confirm we’ve sent your bear to the right address:"; ObjectID = "PXg-NA-y5J";</note>
+      </trans-unit>
+      <trans-unit id="TwT-VL-3Lv.normalTitle">
+        <source>Change Email</source>
+				<target>E-posta Değiştir</target>
+        <note>Class = "UIButton"; normalTitle = "Change Email"; ObjectID = "TwT-VL-3Lv";</note>
+      </trans-unit>
+      <trans-unit id="Xtg-k8-1fo.normalTitle">
+        <source>Continue</source>
+				<target>Devam</target>
+        <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Xtg-k8-1fo";</note>
+      </trans-unit>
+      <trans-unit id="aBV-m1-R0q.text">
+        <source>ibear@tunnelbear.com</source>
+				<target>ibear@tunnelbear.com</target>
+        <note>Class = "UILabel"; text = "ibear@tunnelbear.com"; ObjectID = "aBV-m1-R0q";</note>
+      </trans-unit>
+      <trans-unit id="vVd-jG-HCZ.normalTitle">
+        <source>Resend Email</source>
+				<target>E-postayı Tekrar Gönder</target>
+        <note>Class = "UIButton"; normalTitle = "Resend Email"; ObjectID = "vVd-jG-HCZ";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBWebViewController.xib" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="17.title">
+        <source>Done</source>
+				<target>Tamam</target>
+        <note>Class = "UIBarButtonItem"; title = "Done"; ObjectID = "17";</note>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Support/Info.plist" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>${BUNDLE_NAME}</source>
+        <target>TunnelBear</target>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>${BUNDLE_NAME}</source>
+        <target>TunnelBear</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2.4.1</source>
+				<target>2.4.1</target>
+      </trans-unit>
+    </body>
+  </file><file datatype="plaintext" original="TunnelBear/Support/Localizable.strings" source-language="en">
+    <header>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+    </header>
+    <body>
+      <trans-unit id=" Double check your connection?">
+        <source> Double check your connection?</source>
+				<target>Bağlantını tekrar kontrol eder misin?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lldMB">
+        <source>%lldMB</source>
+				<target>%lld MB</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lldMB Data remaining">
+        <source>%lldMB Data remaining</source>
+				<target>%lld MB veri kaldı</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lldMB Remaining this month">
+        <source>%lldMB Remaining this month</source>
+				<target>Bu aylık %lldMB kaldı</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="(recommended)">
+        <source>(recommended)</source>
+        <target>(tavsiye edilen)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="1 FREE GB">
+        <source>1 FREE GB</source>
+				<target>ÜCRETSİZ 1 GB</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="692566">
+        <source>692566</source>
+				<target>692566</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Another purchase is in progress">
+        <source>Another purchase is in progress</source>
+				<target>Bir başka satın alım sürüyor</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BUY">
+        <source>BUY</source>
+				<target>SATIN AL</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bear Sounds">
+        <source>Bear Sounds</source>
+				<target>Ayı Sesleri</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bearmuda Triangle">
+        <source>Bearmuda Triangle</source>
+				<target>Bearmuda Üçgeni</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="By confirming you will send TunnelBear a report that might help us further diagnose your bear.">
+        <source>By confirming you will send TunnelBear a report that might help us further diagnose your bear.</source>
+				<target>Bunu onaylayarak ayına daha iyi teşhis koyabilmemiz için TunnelBear'e rapor göndermeyi kabul ediyorsun.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Can't connect while disconnecting">
+        <source>Can't connect while disconnecting</source>
+				<target>Bağlantı kesilirken bağlanılamaz</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+				<target>İptal</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cannot Purchase Upgrade">
+        <source>Cannot Purchase Upgrade</source>
+				<target>Üst Sürüm Satın Alınamıyor</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cannot Tunnel">
+        <source>Cannot Tunnel</source>
+				<target>Tünel Açılamıyor</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Change Location">
+        <source>Change Location</source>
+				<target>Konum Değiştir</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Changing countries…">
+        <source>Changing countries…</source>
+				<target>Ülke değiştiriliyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Checking email…">
+        <source>Checking email…</source>
+				<target>E-posta kontrol ediliyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose Location">
+        <source>Choose Location</source>
+				<target>Konum Seç</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Closest Tunnel">
+        <source>Closest Tunnel</source>
+				<target>En Yakın Tünel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connect">
+        <source>Connect</source>
+				<target>Bağlan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connect to %@">
+        <source>Connect to %@</source>
+				<target>Bağlanılacak ülke: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connect to TunnelBear">
+        <source>Connect to TunnelBear</source>
+				<target>TunnelBear'e bağlan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connecting…">
+        <source>Connecting…</source>
+				<target>Bağlanıyor...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connection Secure!">
+        <source>Connection Secure!</source>
+				<target>Bağlantı Güvenli!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connection Secure!\n While connected, you can use other apps as if you're in %@!">
+        <source>Connection Secure!
+ While connected, you can use other apps as if you're in %@!</source>
+        <target>Bağlantı Güvenli!
+ Bağlantı varken diğer uygulamaları şu ülkedeymiş gibi kullanabilirsin: %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Continue">
+        <source>Continue</source>
+				<target>Devam</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not complete purchase">
+        <source>Could not complete purchase</source>
+				<target>Satın alma tamamlanamadı</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not create an account">
+        <source>Could not create an account</source>
+				<target>Hesap açılamadı</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not log in">
+        <source>Could not log in</source>
+				<target>Giriş yapılamadı</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Couldn't connect, please try again later">
+        <source>Couldn't connect, please try again later</source>
+				<target>Bağlanılamadı, lütfen daha sonra tekrar dene</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Creating account…">
+        <source>Creating account…</source>
+				<target>Hesap açılıyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DONE">
+        <source>DONE</source>
+				<target>TAMAM</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Did you mean %@?">
+        <source>Did you mean %@?</source>
+				<target>Şunu mu kastettin: %@?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disconnect">
+        <source>Disconnect</source>
+				<target>Bağlantıyı kes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disconnect from TunnelBear">
+        <source>Disconnect from TunnelBear</source>
+				<target>TunnelBear bağlantısını kes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disconnected">
+        <source>Disconnected</source>
+				<target>Bağlantı kesildi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disconnecting…">
+        <source>Disconnecting…</source>
+				<target>Bağlantı kesiliyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Encrypted Tunnel">
+        <source>Encrypted Tunnel</source>
+				<target>Şifreli Tünel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="For iPhones and iPads only">
+        <source>For iPhones and iPads only</source>
+				<target>Sadece iPhone ve iPad için</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="For up to 5 computers, phones or tablets">
+        <source>For up to 5 computers, phones or tablets</source>
+				<target>5 tane bilgisayar, telefon, tablet için</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Free TunnelBear">
+        <source>Free TunnelBear</source>
+				<target>Ücretsiz TunnelBear</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Free data!">
+        <source>Free data!</source>
+				<target>Ücretsiz veri!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Giant TunnelBear">
+        <source>Giant TunnelBear</source>
+				<target>Dev TunnelBear</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Go Tunneling!">
+        <source>Go Tunneling!</source>
+				<target>Hadi Tünel Aç!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Got it">
+        <source>Got it</source>
+				<target>Tamamdır</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Grizzly TunnelBear">
+        <source>Grizzly TunnelBear</source>
+				<target>Gri TunnelBear</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Grr! TunnelBear couldn't reach the internet! Please try again.">
+        <source>Grr! TunnelBear couldn't reach the internet! Please try again.</source>
+				<target>Gırr! TunnelBear internete erişemedi! Lütfen tekrar dene.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Grr! TunnelBear device settings not  installed. Please try again.">
+        <source>Grr! TunnelBear device settings not  installed. Please try again.</source>
+				<target>Gırr! TunnelBear cihaz ayarları yüklenmedi. Lütfen tekrar dene.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Grr! TunnelBear device settings not installed. Please try again.">
+        <source>Grr! TunnelBear device settings not installed. Please try again.</source>
+				<target>Gırr! TunnelBear cihaz ayarları yüklenmedi. Lütfen tekrar dene.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Grr! TunnelBear needs to install additional device settings. Tap “install” when you are prompted.">
+        <source>Grr! TunnelBear needs to install additional device settings. Tap “install” when you are prompted.</source>
+        <target>Gırr! TunnelBear'in ek cihaz ayarları yüklemesi gerek. Sorulduğunda “yükle”ye bas.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Grrr… Out of data for the month. Upgrade your Bear for unlimited data!">
+        <source>Grrr… Out of data for the month. Upgrade your Bear for unlimited data!</source>
+				<target>Gırrr… Bu aylık veri bitti. Sınırsız veri için ayını üst sürüme geçir!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Help">
+        <source>Help</source>
+				<target>Yardım</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="How about a quick rating on the App Store, then?">
+        <source>How about a quick rating on the App Store, then?</source>
+				<target>App Store'da çabucak puan vermeye ne dersin?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="I Agree">
+        <source>I Agree</source>
+				<target>Kabul ediyorum</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="I really like doing things the hard way. I want to tunnel with manual settings.">
+        <source>I really like doing things the hard way. I want to tunnel with manual settings.</source>
+				<target>İşleri zor yoldan yapmayı çok seviyorum. Manuel ayarlarla tünel açmak istiyorum.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Initiating connection…">
+        <source>Initiating connection…</source>
+				<target>Bağlantı başlatılıyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Is this your Twitter ID?">
+        <source>Is this your Twitter ID?</source>
+				<target>Twitter kullanıcı adın bu mu?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Log In">
+        <source>Log In</source>
+				<target>Giriş</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Log Out">
+        <source>Log Out</source>
+				<target>Çıkış</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Logging in…">
+        <source>Logging in…</source>
+				<target>Giriş yapılıyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Logging out…">
+        <source>Logging out…</source>
+				<target>Çıkış yapılıyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Make Another Purchase?">
+        <source>Make Another Purchase?</source>
+        <target>Bir satın alım daha yapılsın mı?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Manage Subscription">
+        <source>Manage Subscription</source>
+				<target>Üyeliği Yönet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mobile Giant TunnelBear">
+        <source>Mobile Giant TunnelBear</source>
+				<target>Mobil Dev TunnelBear</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mobile Grizzly TunnelBear">
+        <source>Mobile Grizzly TunnelBear</source>
+				<target>Mobil Gri TunnelBear</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Must be logged in to process purchase.">
+        <source>Must be logged in to process purchase.</source>
+				<target>Satın alım için giriş yapılması gerekir.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+				<target>Hayır</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not connected">
+        <source>Not connected</source>
+				<target>Bağlı değil</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+				<target>Tamam</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Oi mate! %@ is only available for upgraded bears.">
+        <source>Oi mate! %@ is only available for upgraded bears.</source>
+				<target>Selam dostum! %@ sadece üst sürümdeki ayılara açıktır.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Out of Data for the month">
+        <source>Out of Data for the month</source>
+				<target>Bu aylık Veri bitti</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a valid Twitter ID.">
+        <source>Please enter a valid Twitter ID.</source>
+				<target>Lütfen geçerli bir Twitter kullanıcı adı gir.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter your Twitter ID">
+        <source>Please enter your Twitter ID</source>
+				<target>Lütfen Twitter kullanıcı adını gir</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please log in.">
+        <source>Please log in.</source>
+				<target>Lütfen giriş yap.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Processing Purchase…">
+        <source>Processing Purchase…</source>
+				<target>Satın Alınıyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchase Cancelled">
+        <source>Purchase Cancelled</source>
+				<target>Satın Alım İptal Edildi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchase Completed">
+        <source>Purchase Completed</source>
+				<target>Satın Alım Tamamlandı</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchase pending user action">
+        <source>Purchase pending user action</source>
+				<target>Satın alma için kullanıcı bekleniyor</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rawr! Enjoying your TunnelBear?">
+        <source>Rawr! Enjoying your TunnelBear?</source>
+				<target>Rorr! TunnelBear'den memnun musun?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rawr! It seems that your %@ is not connected to the Internet.">
+        <source>Rawr! It seems that your %@ is not connected to the Internet.</source>
+				<target>Rorr! Görünüşe göre %@ cihazın internete bağlı değil.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rawr! Looks like Twitter is either having issues or is blocked by your service provider.">
+        <source>Rawr! Looks like Twitter is either having issues or is blocked by your service provider.</source>
+				<target>Rorr! Görünüşe göre Twitter sorun yaşıyor ya da servis sağlayıcın tarafından engellenmiş.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rawr! TunnelBear is having trouble fetching product information. Try again later?">
+        <source>Rawr! TunnelBear is having trouble fetching product information. Try again later?</source>
+				<target>Rorr! TunnelBear ürün bilgisini alamıyor. Daha sonra tekrar dener misin?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rawr! Your TunnelBear is having trouble fetching products from the App Store. Try again later?">
+        <source>Rawr! Your TunnelBear is having trouble fetching products from the App Store. Try again later?</source>
+				<target>Rorr! TunnelBear, App Store'dan ürün alamıyor. Daha sonra tekrar dener misin?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rawr! Your TunnelBear is having trouble reaching the App Store. Try again later?">
+        <source>Rawr! Your TunnelBear is having trouble reaching the App Store. Try again later?</source>
+				<target>Rorr! TunnelBear, App Store'a ulaşamıyor. Daha sonra tekrar dener misin?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rawrr! Problem confirming Twitter ID">
+        <source>Rawrr! Problem confirming Twitter ID</source>
+				<target>Roorrr! Twitter kullanıcı adı doğrulanamıyor</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours.">
+        <source>Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours.</source>
+				<target>Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rawrrr! Your bear has been upgraded.">
+        <source>Rawrrr! Your bear has been upgraded.</source>
+				<target>Rorrrr! Ayın üst sürüme geçti.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reinstall Profile">
+        <source>Reinstall Profile</source>
+				<target>Profili Yeniden Yükle</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Restoring Purchases…">
+        <source>Restoring Purchases…</source>
+				<target>Satın Alımlar Geri Yükleniyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Review on iTunes">
+        <source>Review on iTunes</source>
+				<target>iTunes'da değerlendir</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save %d%%">
+        <source>Save %d%%</source>
+        <target>%%%d kâr et</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send Bug report?">
+        <source>Send Bug report?</source>
+				<target>Hata raporu göndermek ister misin?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sending Logs…">
+        <source>Sending Logs…</source>
+				<target>Günlük gönderiliyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Still changing countries…">
+        <source>Still changing countries…</source>
+				<target>Hâlâ ülke değiştiriliyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Still connected">
+        <source>Still connected</source>
+				<target>Hâlâ bağlı</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap Install when you’re prompted.">
+        <source>Tap Install when you’re prompted.</source>
+        <target>Sorulduğunda “yükle”ye bas.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Terms of Service">
+        <source>Terms of Service</source>
+				<target>Hizmet Şartları</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To use a TunnelBear, you'll need to accept the TunnelBear Terms of Service.">
+        <source>To use a TunnelBear, you'll need to accept the TunnelBear Terms of Service.</source>
+				<target>TunnelBear'i kullanabilmek için TunnelBear Hizmet Şartları'nı kabul etmen gerek.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tunnel to %@?">
+        <source>Tunnel to %@?</source>
+				<target>Şu ülkeye tünel açılsın mı: %@?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TunnelBear">
+        <source>TunnelBear</source>
+				<target>TunnelBear</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TunnelBear Notifications">
+        <source>TunnelBear Notifications</source>
+				<target>TunnelBear Bildirimleri</target>
+        <note>Notify notifications title</note>
+      </trans-unit>
+      <trans-unit id="TunnelBear can send you notifications when you are low on data. Tap “OK” when prompted to receive them.">
+        <source>TunnelBear can send you notifications when you are low on data. Tap “OK” when prompted to receive them.</source>
+        <target>TunnelBear verin azaldığında bildirim gönderebilir. Bildirimleri almak için sorulduğunda “Tamam”a bas.</target>
+        <note>Notifying users why we use notifications.</note>
+      </trans-unit>
+      <trans-unit id="TunnelBear needs to install “VPN” settings on your %@. Tap Install when you’re prompted.">
+        <source>TunnelBear needs to install “VPN” settings on your %@. Tap Install when you’re prompted.</source>
+        <target>TunnelBear'in %@ cihazına “VPN” ayarları yüklemesi gerekiyor. Sorulduğunda “yükle”ye bas.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Turn TunnelBear ON to make your location and data private!\n\n">
+        <source>Turn TunnelBear ON to make your location and data private!
+
+</source>
+        <target>Konumunu ve verini gizlemek için TunnelBear'i aç!
+</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tweet for 1 FREE GB?">
+        <source>Tweet for 1 FREE GB?</source>
+				<target>ÜCRETSİZ 1 GB için tweet atar mısın?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Twitter Not Reachable">
+        <source>Twitter Not Reachable</source>
+				<target>Twitter'a Ulaşılamıyor</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to install VPN profile">
+        <source>Unable to install VPN profile</source>
+				<target>VPN profili yüklenemiyor</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Updating Account…">
+        <source>Updating Account…</source>
+				<target>Hesap güncelleniyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Upgrade">
+        <source>Upgrade</source>
+				<target>Üst sürüme geç</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VPN Profile Not Found">
+        <source>VPN Profile Not Found</source>
+				<target>VPN Profili Bulunamadı</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VPN connection timed out">
+        <source>VPN connection timed out</source>
+				<target>VPN bağlantı süresi doldu</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Verifying connection…">
+        <source>Verifying connection…</source>
+				<target>Bağlantı doğrulanıyor…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View Terms">
+        <source>View Terms</source>
+				<target>Şartları Görüntüle</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="We’ve sent you a bear!">
+        <source>We’ve sent you a bear!</source>
+				<target>Sana bir ayı gönderdik!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+				<target>Evet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yes!">
+        <source>Yes!</source>
+				<target>Evet!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yikes! Well would you mind telling us what you don’t like about your Bear?">
+        <source>Yikes! Well would you mind telling us what you don’t like about your Bear?</source>
+				<target>Amanın!Ayından neden memnun olmadığını söyler misin peki?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You already have a pending purchase that TunnelBear hasn't processed yet. Make another purchase anyway?">
+        <source>You already have a pending purchase that TunnelBear hasn't processed yet. Make another purchase anyway?</source>
+				<target>TunnelBear'in henüz tamamlamadığı bir satın alım işlemin var.  Bir satın alım daha yapacak mısın?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You'll see a message when you upgrade. This is the default message shown for all app store subscriptions. Even if you tap “Allow” we don’t actually collect or store this information. You can see our privacy policy here.">
+        <source>You'll see a message when you upgrade. This is the default message shown for all app store subscriptions. Even if you tap “Allow” we don’t actually collect or store this information. You can see our privacy policy here.</source>
+        <target>Üst sürüme geçtiğinde mesaj gelecek. Bu varsayılan mesaj bütün App Store aboneliklerinde gösterilir. “İzin ver”e bassan da aslında bu bilgiyi toplamayız, depolamayız. Gizlilik politikamızı buradan okuyabilirsin.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You're already connected to this tunnel.">
+        <source>You're already connected to this tunnel.</source>
+				<target>Zaten bu tünele bağlısın.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You're currently changing countries">
+        <source>You're currently changing countries</source>
+				<target>Şu anda ülke değiştiriyorsun</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You're currently connected to TunnelBear">
+        <source>You're currently connected to TunnelBear</source>
+				<target>Şu anda TunnelBear'e bağlısın</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You're currently disconnected from TunnelBear">
+        <source>You're currently disconnected from TunnelBear</source>
+				<target>Şu anda TunnelBear bağlantın kesik</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your TunnelBear is out of food (data)!">
+        <source>Your TunnelBear is out of food (data)!</source>
+				<target>TunnelBear'inin yiyeceği (verisi) bitti!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your free 1GB has been delivered!">
+        <source>Your free 1GB has been delivered!</source>
+				<target>Ücretsiz 1 GB'ın aktarıldı!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your location:">
+        <source>Your location:</source>
+				<target>Konumun:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your location: %@">
+        <source>Your location: %@</source>
+				<target>Konumun: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your location: %@, %@">
+        <source>Your location: %1$@, %2$@</source>
+				<target>Konumun: %1$@, %2$@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your location:\n %@, %@, %@">
+        <source>Your location:
+ %1$@, %2$@, %3$@</source>
+        <target>Konumun:
+ %1$@, %2$@, %3$@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="contact support">
+        <source>contact support</source>
+				<target>destek ekibine ulaş</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="free 1GB">
+        <source>free 1GB</source>
+				<target>Ücretsiz 1 GB</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="here">
+        <source>here</source>
+				<target>buradan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="manual settings">
+        <source>manual settings</source>
+				<target>Manuel ayarlarla</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="onboard_install_profile">
+        <source>onboard_install_profile</source>
+        <target>onboard_install_profile_tr</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="onboard_install_profile_ios8">
+        <source>onboard_install_profile_ios8</source>
+        <target>onboard_install_profile_ios8_tr</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="other apps">
+        <source>other apps</source>
+        <target>diğer uygulamaları</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Email has not been confirmed">
+          <source>Email has not been confirmed</source>
+				<target>E-posta doğrulanmadı</target>
+          <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Email is required">
+          <source>Email is required</source>
+				<target>E-posta gerekiyor</target>
+          <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="First name is required.">
+          <source>First name is required.</source>
+				<target>Ad gerekiyor.</target>
+          <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password is required">
+          <source>Password is required</source>
+				<target>Şifre gerekiyor</target>
+          <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The password must be at least %lu characters long.">
+          <source>The password must be at least %lu characters long.</source>
+				<target>Şifre en az %lu karakter olmalı.</target>
+          <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This doesn't look like a valid email.">
+          <source>This doesn't look like a valid email.</source>
+				<target>Bu geçerli bir e-postaya benzemiyor.</target>
+          <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to fetch image">
+          <source>Unable to fetch image</source>
+				<target>Görüntü sunulamıyor</target>
+          <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
