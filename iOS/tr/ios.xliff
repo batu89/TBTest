@@ -10,8 +10,12 @@
         <target approved="Yes" state="translated">Evet</target>
         <note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYk";</note>
       </trans-unit>
+      <trans-unit id="03z-jr-kYk.normalTitleTEST">
+        <source>Sure!</source>
+        <note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYkTEST";</note>
+      </trans-unit>      
       <trans-unit id="58M-PZ-Xk3.normalTitle" approved="yes">
-        <source>Go Tunneling!</source>
+        <source>Let's Go Tunneling!</source>
 				<target approved="Yes" state="translated">Hadi Tünel Aç!</target>
         <note>Class = "UIButton"; normalTitle = "Go Tunneling!"; ObjectID = "58M-PZ-Xk3";</note>
       </trans-unit>
