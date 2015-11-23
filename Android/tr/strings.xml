@@ -117,7 +117,7 @@
     <string name="ignored_pushed_routes">Önerilen rotaları yoksay</string>
     <string name="ignore_routes_summary">Sunucunun önerdiği rotaları yoksay.</string>
     <string name="default_route_summary">Bütün Trafik, VPN\'e yönlendirilir</string>
-    <string name="use_default_title">Varsayılan Rotayı kullan</string>
+    <string name="use_default_title">Her zaman varsayılan Rotayı kullan</string>
     <string name="custom_route_message">Özel rota gir. Hedefi CIDR biçiminde gir. "10.0.0.0/8 2002::/16", 10.0.0.0/8 ve 2002::/16 ağlarını VPN\'e yönlendirir.</string>
     <string name="custom_routes_title">Özel Rotalar</string>
     <string name="edit_vpn">VPN Ayarlarını Düzenle</string>
