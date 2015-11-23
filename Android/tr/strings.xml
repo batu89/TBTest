@@ -313,11 +313,12 @@
 
     <string name="contact_support_url" translatable="false">https://www.tunnelbear.com/support/contact.html</string>
     <string name="downgrade_paragraph">Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.</string>
-<string name="submit">Gönder</string>
+<string name="submit">Neyi Gönder?</string>
     <string name="empty_email_prompt">Lütfen e-postanızı giriniz</string>
     <string name="password_reset_email_sent">Şifre yenileme linki şu adrese gönderilecek: %1$</string>
     <string name="remember_your_password">Şifrenizi hatırlıyor musunuz?</string>
     <string name="remember_your_password_content_description">Şifrenizi hatırlıyor musunuz? Aşağıdaki düğmeye tıklayarak giriş yapın.</string>
     <string name="forgot_your_password">Şifrenizi mi unuttunuz?</string>
     <string name="connected_not">Belki bağlanmadı</string>
+    <string name="submit_then">Neyi Gönder? Neden?</string>
     </resources>
