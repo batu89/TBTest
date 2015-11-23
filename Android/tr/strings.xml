@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <!--
   Copyright (C) 2011 The Android Open Source Project
 
@@ -13,7 +13,8 @@
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
---><resources>
+-->
+<resources>
 
     <string name="registration_error">İnternet bağlantısında hata</string>
     <string name="server_connection_error">Sunucu bağlantısında hata...</string>
@@ -50,7 +51,7 @@
     <string name="downgrade_error">Alt sürüme geçmede hata... Lütfen tekrar dene.</string>
     <string name="downgrade_success">Alt sürüme geçme başarılı</string>
     <string name="australia_aint_free_son">Selam dostum! Avustralya sadece üst sürümdeki ayılara\naçıktır.</string>
-    <string name="already_connected_to_tunnel">&lt;b>Zaten\nbu tünele bağlısın!&lt;/b>&lt;br&gt;&lt;br&gt;%1$s</string>
+    <string name="already_connected_to_tunnel">&lt;b&gt;Zaten\nbu tünele bağlısın!&lt;/b&gt;&lt;br&gt;&lt;br&gt;%1$s</string>
     <string name="out_of_data">Gırr...\nTunnelBear\'inin bu aylık\nverisi bitti!</string>
     <string name="trying_another_way">Gırrr! Bağlanılamıyor, başka bir yol deneniyor...</string>
     <string name="out_of_data_short">TunnelBear\'inin verisi bitti!</string>
@@ -83,8 +84,8 @@
     <string name="client_certificate_title">İstemci Sertifikası</string>
     <string name="select_certificate">Seç</string>
     <string name="no_certificate">Hiçbir şey seçilmedi</string>
-    <string name="opevpn_copyright">Telif hakkı © 2002–2010 OpenVPN Technologies, Inc. &lt;sales@openvpn.net>\n"OpenVPN", OpenVPN Technologies, Inc\'in ticari markasıdır.\n</string>
-    <string name="copyright_blinktgui">Telif hakkı 2012\nArne Schwabe &lt;arne@rfc2549.org></string>
+    <string name="opevpn_copyright">Telif hakkı © 2002–2010 OpenVPN Technologies, Inc. &lt;sales@openvpn.net&gt;\n"OpenVPN", OpenVPN Technologies, Inc\'in ticari markasıdır.\n</string>
+    <string name="copyright_blinktgui">Telif hakkı 2012\nArne Schwabe &lt;arne@rfc2549.org&gt;</string>
     <string name="copyright_guicode">Kaynak kodu ve sorun takip edici http://code.google.com/p/ics-openvpn/ adresindedir </string>
     <string name="copyright_others">Program aşağıdaki bileşenleri kullanır. Lisansların bütün ayrıntıları için kaynağa bak</string>
     <string name="copyright_file_dialog">Dosya İletişimi, Alexander Ponomarev\'in çalışmasına dayanmaktadır</string>
@@ -257,7 +258,7 @@
     <string name="bear_upgraded">Ayın üst sürüme\ngeçti! Rorr!</string>
     <string name="get_tunneling">Tünel Açmaya Başla</string>
     <string name="noob_bear_title"><b>Bağlantı güvenli!</b></string>
-    <string name="noob_bear">Bağlantı varken &lt;b>diğer uygulamaları&lt;/b> şu ülkedeymiş gibi kullanabilirsin: %1$s</string>
+    <string name="noob_bear">Bağlantı varken &lt;b&gt;diğer uygulamaları&lt;/b&gt; şu ülkedeymiş gibi kullanabilirsin: %1$s</string>
     <string name="got_it">Tamamdır</string>
     <string name="not_logged_in">Rorr! Giriş yapmadın!</string>
     <string name="open_app">Uygulamayı Aç</string>
@@ -272,7 +273,7 @@
     <string name="get_tunneling_hype">Tünel açmaya başla!</string>
     <string name="wiz_5_confirm_content_description">Tünel açmayı başlat</string>
 
-    <string name="tunnel_to_request">Şu ülkeye tünel açılsın mı: &lt;b>%1$s?&lt;/b></string>
+    <string name="tunnel_to_request">Şu ülkeye tünel açılsın mı: &lt;b&gt;%1$s?&lt;/b&gt;</string>
 
     <string name="privately_browsing_from">Şu ülkeden gizli olarak internete bağlanıyorsun: %1$s</string>
     <string name="privately_browsing">Şimdi gizli olarak internete bağlanıyorsun</string>
@@ -280,7 +281,7 @@
     <string name="remaining_data_notif">Kalan veri: %1$d%2$s</string>
     <string name="only_x_data_left">Sadece %1$d%2$s kaldı!</string>
 
-    <string name="fully_formatted_remaining_data">Bu Aylık &lt;font color="%3$s">%1$s %2$s&lt;/font> Kaldı</string>
+    <string name="fully_formatted_remaining_data">Bu Aylık &lt;font color="%3$s"&gt;%1$s %2$s&lt;/font&gt; Kaldı</string>
     <string name="widget_remaining">%1$d%2$s Kaldı</string>
 
     <string name="closest_tunnel">En Yakın Tünel</string>
@@ -312,4 +313,10 @@
 
     <string name="contact_support_url" translatable="false">https://www.tunnelbear.com/support/contact.html</string>
     <string name="downgrade_paragraph">Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.</string>
-</resources>
+<string name="submit">Gönder</string>
+    <string name="empty_email_prompt">Lütfen e-postanızı giriniz</string>
+    <string name="password_reset_email_sent">Şifre yenileme linki şu adrese gönderilecek: %1$</string>
+    <string name="remember_your_password">Şifrenizi hatırlıyor musunuz?</string>
+    <string name="remember_your_password_content_description">Şifrenizi hatırlıyor musunuz? Aşağıdaki düğmeye tıklayarak giriş yapın.</string>
+    <string name="forgot_your_password">Şifrenizi mi unuttunuz?</string>
+    </resources>
