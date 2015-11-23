@@ -24,7 +24,7 @@
     <string name="update_status_error">Tünel açmada hata</string>
     <string name="login">Giriş</string>
     <string name="connecting">Bağlanıyor...</string>
-    <string name="connected">Bağlandı</string>
+    <string name="connected">Nereye bağlandı?</string>
     <string name="disconnected">Bağlantı kesildi</string>
     <string name="first_name">Ad</string>
     <string name="is_this_your_twitter_id">Twitter kullanıcı adın bu mu?</string>
@@ -319,4 +319,5 @@
     <string name="remember_your_password">Şifrenizi hatırlıyor musunuz?</string>
     <string name="remember_your_password_content_description">Şifrenizi hatırlıyor musunuz? Aşağıdaki düğmeye tıklayarak giriş yapın.</string>
     <string name="forgot_your_password">Şifrenizi mi unuttunuz?</string>
+    <string name="connected_not">Belki bağlanmadı</string>
     </resources>
