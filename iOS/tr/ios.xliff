@@ -1,1391 +1,1391 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file datatype="plaintext" original="TunnelBear/Code/Controllers/Base.lproj/TBPromoViewController.xib" source-language="en">
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="TunnelBear/Code/Controllers/Base.lproj/TBPromoViewController.xib" source-language="en" target-language="tr">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="03z-jr-kYk.normalTitle">
+      <trans-unit id="03z-jr-kYk.normalTitle" approved="yes">
         <source>Sure!</source>
-        <target approved="Yes">Evet</target>
+        <target approved="Yes" state="translated">Evet</target>
         <note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYk";</note>
       </trans-unit>
-      <trans-unit id="58M-PZ-Xk3.normalTitle">
+      <trans-unit id="58M-PZ-Xk3.normalTitle" approved="yes">
         <source>Go Tunneling!</source>
-				<target approved="Yes">Hadi Tünel Aç!</target>
+				<target approved="Yes" state="translated">Hadi Tünel Aç!</target>
         <note>Class = "UIButton"; normalTitle = "Go Tunneling!"; ObjectID = "58M-PZ-Xk3";</note>
       </trans-unit>
-      <trans-unit id="ajY-lA-uqt.normalTitle">
+      <trans-unit id="ajY-lA-uqt.normalTitle" approved="yes">
         <source>Nah</source>
-				<target approved="Yes">Yok</target>
+				<target approved="Yes" state="translated">Yok</target>
         <note>Class = "UIButton"; normalTitle = "Nah"; ObjectID = "ajY-lA-uqt";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBCountryViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="5c0-Hm-8NY.title">
+      <trans-unit id="5c0-Hm-8NY.title" approved="yes">
         <source>Select a Country</source>
-				<target approved="Yes">Ülke seç</target>
+				<target approved="Yes" state="translated">Ülke seç</target>
         <note>Class = "UINavigationItem"; title = "Select a Country"; ObjectID = "5c0-Hm-8NY";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBCreateAccountViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="13.normalTitle">
+      <trans-unit id="13.normalTitle" approved="yes">
         <source>Create a Free Account</source>
-				<target approved="Yes">Ücretsiz hesap aç</target>
+				<target approved="Yes" state="translated">Ücretsiz hesap aç</target>
         <note>Class = "UIButton"; normalTitle = "Create a Free Account"; ObjectID = "13";</note>
       </trans-unit>
-      <trans-unit id="21.normalTitle">
+      <trans-unit id="21.normalTitle" approved="yes">
         <source>Log in</source>
-				<target approved="Yes">Giriş</target>
+				<target approved="Yes" state="translated">Giriş</target>
         <note>Class = "UIButton"; normalTitle = "Log in"; ObjectID = "21";</note>
       </trans-unit>
-      <trans-unit id="54.accessibilityLabel">
+      <trans-unit id="54.accessibilityLabel" approved="yes">
         <source>Email</source>
-				<target approved="Yes">E-posta</target>
+				<target approved="Yes" state="translated">E-posta</target>
         <note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "54";</note>
       </trans-unit>
-      <trans-unit id="54.placeholder">
+      <trans-unit id="54.placeholder" approved="yes">
         <source>example@gmail.com</source>
-				<target approved="Yes">ornek@email.com</target>
+				<target approved="Yes" state="translated">ornek@email.com</target>
         <note>Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "54";</note>
       </trans-unit>
-      <trans-unit id="55.accessibilityLabel">
+      <trans-unit id="55.accessibilityLabel" approved="yes">
         <source>Email</source>
-				<target approved="Yes">E-posta</target>
+				<target approved="Yes" state="translated">E-posta</target>
         <note>Class = "UILabel"; accessibilityLabel = "Email"; ObjectID = "55";</note>
       </trans-unit>
-      <trans-unit id="55.text">
+      <trans-unit id="55.text" approved="yes">
         <source>Email</source>
-				<target approved="Yes">E-posta</target>
+				<target approved="Yes" state="translated">E-posta</target>
         <note>Class = "UILabel"; text = "Email"; ObjectID = "55";</note>
       </trans-unit>
-      <trans-unit id="57.accessibilityLabel">
+      <trans-unit id="57.accessibilityLabel" approved="yes">
         <source>First name</source>
-				<target approved="Yes">Ad</target>
+				<target approved="Yes" state="translated">Ad</target>
         <note>Class = "UITextField"; accessibilityLabel = "First name"; ObjectID = "57";</note>
       </trans-unit>
-      <trans-unit id="58.accessibilityLabel">
+      <trans-unit id="58.accessibilityLabel" approved="yes">
         <source>First Name</source>
-				<target approved="Yes">Ad</target>
+				<target approved="Yes" state="translated">Ad</target>
         <note>Class = "UILabel"; accessibilityLabel = "First Name"; ObjectID = "58";</note>
       </trans-unit>
-      <trans-unit id="58.text">
+      <trans-unit id="58.text" approved="yes">
         <source>First Name</source>
-				<target approved="Yes">Ad</target>
+				<target approved="Yes" state="translated">Ad</target>
         <note>Class = "UILabel"; text = "First Name"; ObjectID = "58";</note>
       </trans-unit>
-      <trans-unit id="63.accessibilityLabel">
+      <trans-unit id="63.accessibilityLabel" approved="yes">
         <source>Password</source>
-				<target approved="Yes">Şifre</target>
+				<target approved="Yes" state="translated">Şifre</target>
         <note>Class = "UILabel"; accessibilityLabel = "Password"; ObjectID = "63";</note>
       </trans-unit>
-      <trans-unit id="63.text">
+      <trans-unit id="63.text" approved="yes">
         <source>Password</source>
-				<target approved="Yes">Şifre</target>
+				<target approved="Yes" state="translated">Şifre</target>
         <note>Class = "UILabel"; text = "Password"; ObjectID = "63";</note>
       </trans-unit>
-      <trans-unit id="64.accessibilityHint">
+      <trans-unit id="64.accessibilityHint" approved="yes">
         <source>Please choose a password you'd like to use with TunnelBear</source>
-				<target approved="Yes">Lütfen TunnelBear için bir şifre seç</target>
+				<target approved="Yes" state="translated">Lütfen TunnelBear için bir şifre seç</target>
         <note>Class = "UITextField"; accessibilityHint = "Please choose a password you'd like to use with TunnelBear"; ObjectID = "64";</note>
       </trans-unit>
-      <trans-unit id="64.accessibilityLabel">
+      <trans-unit id="64.accessibilityLabel" approved="yes">
         <source>Password</source>
-				<target approved="Yes">Şifre</target>
+				<target approved="Yes" state="translated">Şifre</target>
         <note>Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "64";</note>
       </trans-unit>
-      <trans-unit id="64.placeholder">
+      <trans-unit id="64.placeholder" approved="yes">
         <source>required</source>
-				<target approved="Yes">gerekli</target>
+				<target approved="Yes" state="translated">gerekli</target>
         <note>Class = "UITextField"; placeholder = "required"; ObjectID = "64";</note>
       </trans-unit>
-      <trans-unit id="69.text">
+      <trans-unit id="69.text" approved="yes">
         <source>Have an account?</source>
-				<target approved="Yes">Hesabın var mı?</target>
+				<target approved="Yes" state="translated">Hesabın var mı?</target>
         <note>Class = "UILabel"; text = "Have an account?"; ObjectID = "69";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBLaunchViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
-    <body></body>
+    <body/>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBLoginViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="46.text">
+      <trans-unit id="46.text" approved="yes">
         <source>Password</source>
-				<target approved="Yes">Şifre</target>
+				<target approved="Yes" state="translated">Şifre</target>
         <note>Class = "UILabel"; text = "Password"; ObjectID = "46";</note>
       </trans-unit>
-      <trans-unit id="47.accessibilityHint">
+      <trans-unit id="47.accessibilityHint" approved="yes">
         <source>Please enter your TunnelBear password</source>
-				<target approved="Yes">Lütfen TunnelBear şifreni gir</target>
+				<target approved="Yes" state="translated">Lütfen TunnelBear şifreni gir</target>
         <note>Class = "UITextField"; accessibilityHint = "Please enter your TunnelBear password"; ObjectID = "47";</note>
       </trans-unit>
-      <trans-unit id="47.accessibilityLabel">
+      <trans-unit id="47.accessibilityLabel" approved="yes">
         <source>Password</source>
-				<target approved="Yes">Şifre</target>
+				<target approved="Yes" state="translated">Şifre</target>
         <note>Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "47";</note>
       </trans-unit>
-      <trans-unit id="47.placeholder">
+      <trans-unit id="47.placeholder" approved="yes">
         <source>required</source>
-				<target approved="Yes">gerekli</target>
+				<target approved="Yes" state="translated">gerekli</target>
         <note>Class = "UITextField"; placeholder = "required"; ObjectID = "47";</note>
       </trans-unit>
-      <trans-unit id="48.accessibilityLabel">
+      <trans-unit id="48.accessibilityLabel" approved="yes">
         <source>Email</source>
-				<target approved="Yes">E-posta</target>
+				<target approved="Yes" state="translated">E-posta</target>
         <note>Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "48";</note>
       </trans-unit>
-      <trans-unit id="48.placeholder">
+      <trans-unit id="48.placeholder" approved="yes">
         <source>example@gmail.com</source>
-				<target approved="Yes">ornek@email.com</target>
+				<target approved="Yes" state="translated">ornek@email.com</target>
         <note>Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "48";</note>
       </trans-unit>
-      <trans-unit id="49.text">
+      <trans-unit id="49.text" approved="yes">
         <source>Email</source>
-				<target approved="Yes">E-posta</target>
+				<target approved="Yes" state="translated">E-posta</target>
         <note>Class = "UILabel"; text = "Email"; ObjectID = "49";</note>
       </trans-unit>
-      <trans-unit id="55.text">
+      <trans-unit id="55.text" approved="yes">
         <source>New to TunnelBear?</source>
-				<target approved="Yes">TunnelBear'e yeni mi katıldın?</target>
+				<target approved="Yes" state="translated">TunnelBear'e yeni mi katıldın?</target>
         <note>Class = "UILabel"; text = "New to TunnelBear?"; ObjectID = "55";</note>
       </trans-unit>
-      <trans-unit id="57.normalTitle">
+      <trans-unit id="57.normalTitle" approved="yes">
         <source>Create an account</source>
-				<target approved="Yes">Hesap aç</target>
+				<target approved="Yes" state="translated">Hesap aç</target>
         <note>Class = "UIButton"; normalTitle = "Create an account"; ObjectID = "57";</note>
       </trans-unit>
-      <trans-unit id="58.normalTitle">
+      <trans-unit id="58.normalTitle" approved="yes">
         <source>Log In</source>
-				<target approved="Yes">Giriş</target>
+				<target approved="Yes" state="translated">Giriş</target>
         <note>Class = "UIButton"; normalTitle = "Log In"; ObjectID = "58";</note>
       </trans-unit>
-      <trans-unit id="77.accessibilityHint">
+      <trans-unit id="77.accessibilityHint" approved="yes">
         <source>Opens password reset form in Safari</source>
-				<target approved="Yes">Şifre sıfırlama formunu Safari'de aç</target>
+				<target approved="Yes" state="translated">Şifre sıfırlama formunu Safari'de aç</target>
         <note>Class = "UIButton"; accessibilityHint = "Opens password reset form in Safari"; ObjectID = "77";</note>
       </trans-unit>
-      <trans-unit id="77.normalTitle">
+      <trans-unit id="77.normalTitle" approved="yes">
         <source>Forgot Password?</source>
-				<target approved="Yes">Şifreni mi unuttun?</target>
+				<target approved="Yes" state="translated">Şifreni mi unuttun?</target>
         <note>Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "77";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBMainViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="3Bl-5R-ae6.accessibilityLabel">
+      <trans-unit id="3Bl-5R-ae6.accessibilityLabel" approved="yes">
         <source>Current status</source>
-				<target approved="Yes">Güncel durum</target>
+				<target approved="Yes" state="translated">Güncel durum</target>
         <note>Class = "UILabel"; accessibilityLabel = "Current status"; ObjectID = "3Bl-5R-ae6";</note>
       </trans-unit>
-      <trans-unit id="3Bl-5R-ae6.text">
+      <trans-unit id="3Bl-5R-ae6.text" approved="yes">
         <source>Disconnected</source>
-				<target approved="Yes">Bağlantı kesildi</target>
+				<target approved="Yes" state="translated">Bağlantı kesildi</target>
         <note>Class = "UILabel"; text = "Disconnected"; ObjectID = "3Bl-5R-ae6";</note>
       </trans-unit>
-      <trans-unit id="AH2-0Z-KnF.accessibilityHint">
+      <trans-unit id="AH2-0Z-KnF.accessibilityHint" approved="yes">
         <source>Got it</source>
-				<target approved="Yes">Tamamdır</target>
+				<target approved="Yes" state="translated">Tamamdır</target>
         <note>Class = "UIButton"; accessibilityHint = "Got it"; ObjectID = "AH2-0Z-KnF";</note>
       </trans-unit>
-      <trans-unit id="AH2-0Z-KnF.accessibilityLabel">
+      <trans-unit id="AH2-0Z-KnF.accessibilityLabel" approved="yes">
         <source>Got it</source>
-				<target approved="Yes">Tamamdır</target>
+				<target approved="Yes" state="translated">Tamamdır</target>
         <note>Class = "UIButton"; accessibilityLabel = "Got it"; ObjectID = "AH2-0Z-KnF";</note>
       </trans-unit>
-      <trans-unit id="AH2-0Z-KnF.normalTitle">
+      <trans-unit id="AH2-0Z-KnF.normalTitle" approved="yes">
         <source>Got it</source>
-				<target approved="Yes">Tamamdır</target>
+				<target approved="Yes" state="translated">Tamamdır</target>
         <note>Class = "UIButton"; normalTitle = "Got it"; ObjectID = "AH2-0Z-KnF";</note>
       </trans-unit>
-      <trans-unit id="G8d-yD-fXp.text">
+      <trans-unit id="G8d-yD-fXp.text" approved="yes">
         <source>Change countries here.</source>
-				<target approved="Yes">Buradan ülke değiştir.</target>
+				<target approved="Yes" state="translated">Buradan ülke değiştir.</target>
         <note>Class = "UILabel"; text = "Change countries here."; ObjectID = "G8d-yD-fXp";</note>
       </trans-unit>
-      <trans-unit id="IN1-Dq-51U.accessibilityHint">
+      <trans-unit id="IN1-Dq-51U.accessibilityHint" approved="yes">
         <source>Change connection countries</source>
-				<target approved="Yes">Bağlantı ülkesi değiştir</target>
+				<target approved="Yes" state="translated">Bağlantı ülkesi değiştir</target>
         <note>Class = "UIButton"; accessibilityHint = "Change connection countries"; ObjectID = "IN1-Dq-51U";</note>
       </trans-unit>
-      <trans-unit id="IN1-Dq-51U.accessibilityLabel">
+      <trans-unit id="IN1-Dq-51U.accessibilityLabel" approved="yes">
         <source>Change countries</source>
-				<target approved="Yes">Ülke değiştir</target>
+				<target approved="Yes" state="translated">Ülke değiştir</target>
         <note>Class = "UIButton"; accessibilityLabel = "Change countries"; ObjectID = "IN1-Dq-51U";</note>
       </trans-unit>
-      <trans-unit id="IN1-Dq-51U.normalTitle">
+      <trans-unit id="IN1-Dq-51U.normalTitle" approved="yes">
         <source> Germany</source>
-				<target approved="Yes"> Almanya</target>
+				<target approved="Yes" state="translated"> Almanya</target>
         <note>Class = "UIButton"; normalTitle = " Germany"; ObjectID = "IN1-Dq-51U";</note>
       </trans-unit>
-      <trans-unit id="WN0-Nv-lk5.text">
+      <trans-unit id="WN0-Nv-lk5.text" approved="yes">
         <source>Turn TunnelBear ON here.</source>
-				<target approved="Yes">Buradan TunnelBear'i aç.</target>
+				<target approved="Yes" state="translated">Buradan TunnelBear'i aç.</target>
         <note>Class = "UILabel"; text = "Turn TunnelBear ON here."; ObjectID = "WN0-Nv-lk5";</note>
       </trans-unit>
-      <trans-unit id="nH8-qR-TXv.accessibilityHint">
+      <trans-unit id="nH8-qR-TXv.accessibilityHint" approved="yes">
         <source>Open menu</source>
-				<target approved="Yes">Menüyü aç</target>
+				<target approved="Yes" state="translated">Menüyü aç</target>
         <note>Class = "UIButton"; accessibilityHint = "Open menu"; ObjectID = "nH8-qR-TXv";</note>
       </trans-unit>
-      <trans-unit id="nH8-qR-TXv.accessibilityLabel">
+      <trans-unit id="nH8-qR-TXv.accessibilityLabel" approved="yes">
         <source>Menu</source>
-				<target approved="Yes">Menü</target>
+				<target approved="Yes" state="translated">Menü</target>
         <note>Class = "UIButton"; accessibilityLabel = "Menu"; ObjectID = "nH8-qR-TXv";</note>
       </trans-unit>
-      <trans-unit id="s6f-ak-6To.accessibilityHint">
+      <trans-unit id="s6f-ak-6To.accessibilityHint" approved="yes">
         <source>Upgrade your bear</source>
-				<target approved="Yes">Ayını üst sürüme geçir</target>
+				<target approved="Yes" state="translated">Ayını üst sürüme geçir</target>
         <note>Class = "UIButton"; accessibilityHint = "Upgrade your bear"; ObjectID = "s6f-ak-6To";</note>
       </trans-unit>
-      <trans-unit id="s6f-ak-6To.accessibilityLabel">
+      <trans-unit id="s6f-ak-6To.accessibilityLabel" approved="yes">
         <source>Upgrade</source>
-				<target approved="Yes">Üst sürüme geç</target>
+				<target approved="Yes" state="translated">Üst sürüme geç</target>
         <note>Class = "UIButton"; accessibilityLabel = "Upgrade"; ObjectID = "s6f-ak-6To";</note>
       </trans-unit>
-      <trans-unit id="s6f-ak-6To.normalTitle">
+      <trans-unit id="s6f-ak-6To.normalTitle" approved="yes">
         <source>Upgrade</source>
-				<target approved="Yes">Üst sürüme geç</target>
+				<target approved="Yes" state="translated">Üst sürüme geç</target>
         <note>Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "s6f-ak-6To";</note>
       </trans-unit>
-      <trans-unit id="x71-gq-8Bu.accessibilityHint">
+      <trans-unit id="x71-gq-8Bu.accessibilityHint" approved="yes">
         <source>Connect to TunnelBear</source>
-				<target approved="Yes">TunnelBear'e bağlan</target>
+				<target approved="Yes" state="translated">TunnelBear'e bağlan</target>
         <note>Class = "UIView"; accessibilityHint = "Connect to TunnelBear"; ObjectID = "x71-gq-8Bu";</note>
       </trans-unit>
-      <trans-unit id="x71-gq-8Bu.accessibilityLabel">
+      <trans-unit id="x71-gq-8Bu.accessibilityLabel" approved="yes">
         <source>Toggle Connection</source>
-				<target approved="Yes">Bağlantı Değiştir</target>
+				<target approved="Yes" state="translated">Bağlantı Değiştir</target>
         <note>Class = "UIView"; accessibilityLabel = "Toggle Connection"; ObjectID = "x71-gq-8Bu";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBManageSubscriptionViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="FS5-2o-nej.normalTitle">
+      <trans-unit id="FS5-2o-nej.normalTitle" approved="yes">
         <source>Manage Subscription Settings</source>
-				<target approved="Yes">Üyelik Ayarlarını Yönet</target>
+				<target approved="Yes" state="translated">Üyelik Ayarlarını Yönet</target>
         <note>Class = "UIButton"; normalTitle = "Manage Subscription Settings"; ObjectID = "FS5-2o-nej";</note>
       </trans-unit>
-      <trans-unit id="d5Q-6h-6Nb.text">
+      <trans-unit id="d5Q-6h-6Nb.text" approved="yes">
         <source>Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours.</source>
-				<target approved="Yes">Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.</target>
+				<target approved="Yes" state="translated">Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.</target>
         <note>Class = "UITextView"; text = "Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours."; ObjectID = "d5Q-6h-6Nb";</note>
       </trans-unit>
-      <trans-unit id="gDF-Lc-s5O.normalTitle">
+      <trans-unit id="gDF-Lc-s5O.normalTitle" approved="yes">
         <source>Need Instructions?</source>
-				<target approved="Yes">Yardım lazım mı?</target>
+				<target approved="Yes" state="translated">Yardım lazım mı?</target>
         <note>Class = "UIButton"; normalTitle = "Need Instructions?"; ObjectID = "gDF-Lc-s5O";</note>
       </trans-unit>
-      <trans-unit id="ucj-Mr-yLq.title">
+      <trans-unit id="ucj-Mr-yLq.title" approved="yes">
         <source>Manage Subscription</source>
-				<target approved="Yes">Üyeliği Yönet</target>
+				<target approved="Yes" state="translated">Üyeliği Yönet</target>
         <note>Class = "UINavigationItem"; title = "Manage Subscription"; ObjectID = "ucj-Mr-yLq";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBManualVPNSettingsViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="0Gj-sl-JBI.text">
+      <trans-unit id="0Gj-sl-JBI.text" approved="yes">
         <source>Go to “Settings” to choose your country and turn VPN on and off.</source>
-				<target approved="Yes">Ülkeni seçmek ve VPN'i açmak veya kapatmak için “Ayarlar” menüsüne git.</target>
+				<target approved="Yes" state="translated">Ülkeni seçmek ve VPN'i açmak veya kapatmak için “Ayarlar” menüsüne git.</target>
         <note>Class = "UILabel"; text = "Go to “Settings” to choose your country and turn VPN on and off."; ObjectID = "0Gj-sl-JBI";</note>
       </trans-unit>
-      <trans-unit id="JU5-Dk-53I.text">
+      <trans-unit id="JU5-Dk-53I.text" approved="yes">
         <source>You're currently using manual controls.</source>
-				<target approved="Yes">Şu anda manuel kontrolleri kullanıyorsun.</target>
+				<target approved="Yes" state="translated">Şu anda manuel kontrolleri kullanıyorsun.</target>
         <note>Class = "UILabel"; text = "You're currently using manual controls."; ObjectID = "JU5-Dk-53I";</note>
       </trans-unit>
-      <trans-unit id="Scc-ra-AR5.normalTitle">
+      <trans-unit id="Scc-ra-AR5.normalTitle" approved="yes">
         <source>Switch to In-App Controls?</source>
-				<target approved="Yes">Uygulama içi kontrollere geçilsin mi?</target>
+				<target approved="Yes" state="translated">Uygulama içi kontrollere geçilsin mi?</target>
         <note>Class = "UIButton"; normalTitle = "Switch to In-App Controls?"; ObjectID = "Scc-ra-AR5";</note>
       </trans-unit>
-      <trans-unit id="Xas-B4-C4d.title">
+      <trans-unit id="Xas-B4-C4d.title" approved="yes">
         <source>VPN Settings</source>
-				<target approved="Yes">VPN Ayarları</target>
+				<target approved="Yes" state="translated">VPN Ayarları</target>
         <note>Class = "UINavigationItem"; title = "VPN Settings"; ObjectID = "Xas-B4-C4d";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBMenuViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="3Pc-kZ-ZSJ.text">
+      <trans-unit id="3Pc-kZ-ZSJ.text" approved="yes">
         <source>ibear@tunnelbear.com</source>
-				<target approved="Yes">ibear@tunnelbear.com</target>
+				<target approved="Yes" state="translated">ibear@tunnelbear.com</target>
         <note>Class = "UILabel"; text = "ibear@tunnelbear.com"; ObjectID = "3Pc-kZ-ZSJ";</note>
       </trans-unit>
-      <trans-unit id="7XZ-hx-yE5.text">
+      <trans-unit id="7XZ-hx-yE5.text" approved="yes">
         <source>Free TunnelBear</source>
-				<target approved="Yes">Ücretsiz TunnelBear</target>
+				<target approved="Yes" state="translated">Ücretsiz TunnelBear</target>
         <note>Class = "UILabel"; text = "Free TunnelBear"; ObjectID = "7XZ-hx-yE5";</note>
       </trans-unit>
-      <trans-unit id="67w-wE-FRz.text">
+      <trans-unit id="67w-wE-FRz.text" approved="yes">
         <source>v2.0</source>
-				<target approved="Yes">v2.0</target>
+				<target approved="Yes" state="translated">v2.0</target>
         <note>Class = "UILabel"; text = "v2.0"; ObjectID = "67w-wE-FRz";</note>
       </trans-unit>
-      <trans-unit id="Izg-3I-HtI.normalTitle">
+      <trans-unit id="Izg-3I-HtI.normalTitle" approved="yes">
         <source>Bug Report</source>
-				<target approved="Yes">Hata Raporu</target>
+				<target approved="Yes" state="translated">Hata Raporu</target>
         <note>Class = "UIButton"; normalTitle = "Bug Report"; ObjectID = "Izg-3I-HtI";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPrivacyInfoViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="fpX-y1-jyN.normalTitle">
+      <trans-unit id="fpX-y1-jyN.normalTitle" approved="yes">
         <source>OK</source>
-				<target approved="Yes">Tamam</target>
+				<target approved="Yes" state="translated">Tamam</target>
         <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "fpX-y1-jyN";</note>
       </trans-unit>
-      <trans-unit id="jlR-rX-XRe.title">
+      <trans-unit id="jlR-rX-XRe.title" approved="yes">
         <source>We don't collect your data!</source>
-				<target approved="Yes">Verilerini toplamıyoruz!</target>
+				<target approved="Yes" state="translated">Verilerini toplamıyoruz!</target>
         <note>Class = "UINavigationItem"; title = "We don't collect your data!"; ObjectID = "jlR-rX-XRe";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBProfileInstallViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="Bui-2t-tC6.normalTitle">
+      <trans-unit id="Bui-2t-tC6.normalTitle" approved="yes">
         <source>I'm Ready</source>
-				<target approved="Yes">Hazırım</target>
+				<target approved="Yes" state="translated">Hazırım</target>
         <note>Class = "UIButton"; normalTitle = "I'm Ready"; ObjectID = "Bui-2t-tC6";</note>
       </trans-unit>
-      <trans-unit id="VB8-wO-0Di.text">
+      <trans-unit id="VB8-wO-0Di.text" approved="yes">
         <source>TunnelBear needs to install “VPN” settings on your iPhone. Tap Install when you're prompted.</source>
-        <target approved="Yes">TunnelBear'in iPhone'una “VPN” ayarları yüklemesi gerekiyor. Sorulduğunda “yükle”ye bas.</target>
+        <target approved="Yes" state="translated">TunnelBear'in iPhone'una “VPN” ayarları yüklemesi gerekiyor. Sorulduğunda “yükle”ye bas.</target>
         <note>Class = "UILabel"; text = "TunnelBear needs to install “VPN” settings on your iPhone. Tap Install when you're prompted."; ObjectID = "VB8-wO-0Di";</note>
       </trans-unit>
-      <trans-unit id="egT-Xs-w6P.text">
+      <trans-unit id="egT-Xs-w6P.text" approved="yes">
         <source>Install iOS Settings</source>
-				<target approved="Yes">iOS Ayarlarını Yükle</target>
+				<target approved="Yes" state="translated">iOS Ayarlarını Yükle</target>
         <note>Class = "UILabel"; text = "Install iOS Settings"; ObjectID = "egT-Xs-w6P";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBProfileReinstallViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="3GF-DA-YqY.title">
+      <trans-unit id="3GF-DA-YqY.title" approved="yes">
         <source>Choose a way to tunnel</source>
-				<target approved="Yes">Tünel açma yöntemi seç</target>
+				<target approved="Yes" state="translated">Tünel açma yöntemi seç</target>
         <note>Class = "UINavigationItem"; title = "Choose a way to tunnel"; ObjectID = "3GF-DA-YqY";</note>
       </trans-unit>
-      <trans-unit id="US9-2U-1JM.normalTitle">
+      <trans-unit id="US9-2U-1JM.normalTitle" approved="yes">
         <source>In-App</source>
-				<target approved="Yes">Uygulama içi</target>
+				<target approved="Yes" state="translated">Uygulama içi</target>
         <note>Class = "UIButton"; normalTitle = "In-App"; ObjectID = "US9-2U-1JM";</note>
       </trans-unit>
-      <trans-unit id="ZdH-hT-C3L.text">
+      <trans-unit id="ZdH-hT-C3L.text" approved="yes">
         <source>I want to control TunnelBear from within the app (recommended)</source>
-				<target approved="Yes">TunnelBear'i uygulama içinden yönetmek istiyorum (tavsiye edilen)</target>
+				<target approved="Yes" state="translated">TunnelBear'i uygulama içinden yönetmek istiyorum (tavsiye edilen)</target>
         <note>Class = "UILabel"; text = "I want to control TunnelBear from within the app (recommended)"; ObjectID = "ZdH-hT-C3L";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPurchaseContainerViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="Pne-4F-Pbh.text">
+      <trans-unit id="Pne-4F-Pbh.text" approved="yes">
         <source>Privacy</source>
-				<target approved="Yes">Gizlilik</target>
+				<target approved="Yes" state="translated">Gizlilik</target>
         <note>Class = "UILabel"; text = "Privacy"; ObjectID = "Pne-4F-Pbh";</note>
       </trans-unit>
-      <trans-unit id="WE8-KB-Whr.segmentTitles[0]">
+      <trans-unit id="WE8-KB-Whr.segmentTitles[0]" approved="yes">
         <source>Full Plans</source>
-				<target approved="Yes">Tam Planlar</target>
+				<target approved="Yes" state="translated">Tam Planlar</target>
         <note>Class = "UISegmentedControl"; WE8-KB-Whr.segmentTitles[0] = "Full Plans"; ObjectID = "WE8-KB-Whr";</note>
       </trans-unit>
-      <trans-unit id="WE8-KB-Whr.segmentTitles[1]">
+      <trans-unit id="WE8-KB-Whr.segmentTitles[1]" approved="yes">
         <source>For iOS Only</source>
-				<target approved="Yes">Sadece iOS İçin</target>
+				<target approved="Yes" state="translated">Sadece iOS İçin</target>
         <note>Class = "UISegmentedControl"; WE8-KB-Whr.segmentTitles[1] = "For iOS Only"; ObjectID = "WE8-KB-Whr";</note>
       </trans-unit>
-      <trans-unit id="jCX-eZ-T0E.text">
+      <trans-unit id="jCX-eZ-T0E.text" approved="yes">
         <source>Restore Purchases</source>
-				<target approved="Yes">Satın Alımları Geri Yükle</target>
+				<target approved="Yes" state="translated">Satın Alımları Geri Yükle</target>
         <note>Class = "UILabel"; text = "Restore Purchases"; ObjectID = "jCX-eZ-T0E";</note>
       </trans-unit>
-      <trans-unit id="rtb-3h-X6l.title">
+      <trans-unit id="rtb-3h-X6l.title" approved="yes">
         <source>Get Unlimited Data</source>
-				<target approved="Yes">Sınırsız Veri Al</target>
+				<target approved="Yes" state="translated">Sınırsız Veri Al</target>
         <note>Class = "UINavigationItem"; title = "Get Unlimited Data"; ObjectID = "rtb-3h-X6l";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPurchaseViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="2XY-cC-bu3.text">
+      <trans-unit id="2XY-cC-bu3.text" approved="yes">
         <source>Yearly</source>
-				<target approved="Yes">Yıllık</target>
+				<target approved="Yes" state="translated">Yıllık</target>
         <note>Class = "UILabel"; text = "Yearly"; ObjectID = "2XY-cC-bu3";</note>
       </trans-unit>
-      <trans-unit id="8Vj-Fx-gOQ.text">
+      <trans-unit id="8Vj-Fx-gOQ.text" approved="yes">
         <source>Free</source>
-				<target approved="Yes">Ücretsiz</target>
+				<target approved="Yes" state="translated">Ücretsiz</target>
         <note>Class = "UILabel"; text = "Free"; ObjectID = "8Vj-Fx-gOQ";</note>
       </trans-unit>
-      <trans-unit id="CK8-26-k2m.text">
+      <trans-unit id="CK8-26-k2m.text" approved="yes">
         <source>Monthly</source>
-				<target approved="Yes">Aylık</target>
+				<target approved="Yes" state="translated">Aylık</target>
         <note>Class = "UILabel"; text = "Monthly"; ObjectID = "CK8-26-k2m";</note>
       </trans-unit>
-      <trans-unit id="Kkn-rl-mak.text">
+      <trans-unit id="Kkn-rl-mak.text" approved="yes">
         <source>For up to 5 computers, phones or tablets</source>
-				<target approved="Yes">5 tane bilgisayar, telefon, tablet için</target>
+				<target approved="Yes" state="translated">5 tane bilgisayar, telefon, tablet için</target>
         <note>Class = "UILabel"; text = "For up to 5 computers, phones or tablets"; ObjectID = "Kkn-rl-mak";</note>
       </trans-unit>
-      <trans-unit id="MKs-Cg-QVV.normalTitle">
+      <trans-unit id="MKs-Cg-QVV.normalTitle" approved="yes">
         <source>$$$</source>
-				<target approved="Yes">$$$</target>
+				<target approved="Yes" state="translated">$$$</target>
         <note>Class = "UIButton"; normalTitle = "$$$"; ObjectID = "MKs-Cg-QVV";</note>
       </trans-unit>
-      <trans-unit id="Owc-FT-4oe.text">
+      <trans-unit id="Owc-FT-4oe.text" approved="yes">
         <source>Save 0%</source>
-				<target approved="Yes">%0 kâr et</target>
+				<target approved="Yes" state="translated">%0 kâr et</target>
         <note>Class = "UILabel"; text = "Save 0%"; ObjectID = "Owc-FT-4oe";</note>
       </trans-unit>
-      <trans-unit id="fRo-l6-Vzu.text">
+      <trans-unit id="fRo-l6-Vzu.text" approved="yes">
         <source>500 MB Data remaining</source>
-				<target approved="Yes">500 MB veri kaldı</target>
+				<target approved="Yes" state="translated">500 MB veri kaldı</target>
         <note>Class = "UILabel"; text = "500 MB Data remaining"; ObjectID = "fRo-l6-Vzu";</note>
       </trans-unit>
-      <trans-unit id="ypv-f3-lLx.normalTitle">
+      <trans-unit id="ypv-f3-lLx.normalTitle" approved="yes">
         <source>$$</source>
-				<target approved="Yes">$$</target>
+				<target approved="Yes" state="translated">$$</target>
         <note>Class = "UIButton"; normalTitle = "$$"; ObjectID = "ypv-f3-lLx";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterConfirmViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="3YB-rY-Wxe.title">
+      <trans-unit id="3YB-rY-Wxe.title" approved="yes">
         <source>Please enter your Twitter ID</source>
-				<target approved="Yes">Lütfen Twitter kullanıcı adını gir</target>
+				<target approved="Yes" state="translated">Lütfen Twitter kullanıcı adını gir</target>
         <note>Class = "UINavigationItem"; title = "Please enter your Twitter ID"; ObjectID = "3YB-rY-Wxe";</note>
       </trans-unit>
-      <trans-unit id="32A-vc-cSB.text">
+      <trans-unit id="32A-vc-cSB.text" approved="yes">
         <source>We want to make sure we send the free GB to the right person.</source>
-				<target approved="Yes">Ücretsiz 1 GB'ı doğru kişiye yollamak istiyoruz da.</target>
+				<target approved="Yes" state="translated">Ücretsiz 1 GB'ı doğru kişiye yollamak istiyoruz da.</target>
         <note>Class = "UILabel"; text = "We want to make sure we send the free GB to the right person."; ObjectID = "32A-vc-cSB";</note>
       </trans-unit>
-      <trans-unit id="P75-hz-Z5H.placeholder">
+      <trans-unit id="P75-hz-Z5H.placeholder" approved="yes">
         <source>required</source>
-				<target approved="Yes">gerekli</target>
+				<target approved="Yes" state="translated">gerekli</target>
         <note>Class = "UITextField"; placeholder = "required"; ObjectID = "P75-hz-Z5H";</note>
       </trans-unit>
-      <trans-unit id="bZr-OZ-SC7.normalTitle">
+      <trans-unit id="bZr-OZ-SC7.normalTitle" approved="yes">
         <source>Tweet Now</source>
-				<target approved="Yes">Şimdi tweet at</target>
+				<target approved="Yes" state="translated">Şimdi tweet at</target>
         <note>Class = "UIButton"; normalTitle = "Tweet Now"; ObjectID = "bZr-OZ-SC7";</note>
       </trans-unit>
-      <trans-unit id="rtA-K4-wBL.text">
+      <trans-unit id="rtA-K4-wBL.text" approved="yes">
         <source>Twitter ID</source>
-				<target approved="Yes">Twitter kullanıcı adı</target>
+				<target approved="Yes" state="translated">Twitter kullanıcı adı</target>
         <note>Class = "UILabel"; text = "Twitter ID"; ObjectID = "rtA-K4-wBL";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterInfoViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="LQF-yZ-SMv.text">
+      <trans-unit id="LQF-yZ-SMv.text" approved="yes">
         <source>The always vigilant TunnelBear team will see you've tweeted.</source>
-				<target approved="Yes">Her zaman tetikte olan TunnelBear ekibi tweet attığını görecek.</target>
+				<target approved="Yes" state="translated">Her zaman tetikte olan TunnelBear ekibi tweet attığını görecek.</target>
         <note>Class = "UILabel"; text = "The always vigilant TunnelBear team will see you've tweeted."; ObjectID = "LQF-yZ-SMv";</note>
       </trans-unit>
-      <trans-unit id="j0W-si-tZI.text">
+      <trans-unit id="j0W-si-tZI.text" approved="yes">
         <source>Within the hour, your TunnelBear account will have a bonus GB of free data for the month.</source>
-				<target approved="Yes">Bir saat içinde TunnelBear hesabına bu aylık ekstra 1 GB ücretsiz veri aktarılacak.</target>
+				<target approved="Yes" state="translated">Bir saat içinde TunnelBear hesabına bu aylık ekstra 1 GB ücretsiz veri aktarılacak.</target>
         <note>Class = "UILabel"; text = "Within the hour, your TunnelBear account will have a bonus GB of free data for the month."; ObjectID = "j0W-si-tZI";</note>
       </trans-unit>
-      <trans-unit id="mxl-i6-1Fu.text">
+      <trans-unit id="mxl-i6-1Fu.text" approved="yes">
         <source>Tweet @theTunnelBear asking for 1 free GB of data.</source>
-				<target approved="Yes">@theTunnelBear'e tweet atıp ücretsiz 1 GB verini iste.</target>
+				<target approved="Yes" state="translated">@theTunnelBear'e tweet atıp ücretsiz 1 GB verini iste.</target>
         <note>Class = "UILabel"; text = "Tweet @theTunnelBear asking for 1 free GB of data."; ObjectID = "mxl-i6-1Fu";</note>
       </trans-unit>
-      <trans-unit id="nmI-Ks-9gO.title">
+      <trans-unit id="nmI-Ks-9gO.title" approved="yes">
         <source>Tweet for a FREE GB!</source>
-				<target approved="Yes">ÜCRETSİZ 1 GB için tweet at!</target>
+				<target approved="Yes" state="translated">ÜCRETSİZ 1 GB için tweet at!</target>
         <note>Class = "UINavigationItem"; title = "Tweet for a FREE GB!"; ObjectID = "nmI-Ks-9gO";</note>
       </trans-unit>
-      <trans-unit id="uFq-Oi-QlX.accessibilityHint">
+      <trans-unit id="uFq-Oi-QlX.accessibilityHint" approved="yes">
         <source>Let's do this!</source>
-				<target approved="Yes">Hadi başlayalım!</target>
+				<target approved="Yes" state="translated">Hadi başlayalım!</target>
         <note>Class = "UIButton"; accessibilityHint = "Let's do this!"; ObjectID = "uFq-Oi-QlX";</note>
       </trans-unit>
-      <trans-unit id="uFq-Oi-QlX.accessibilityLabel">
+      <trans-unit id="uFq-Oi-QlX.accessibilityLabel" approved="yes">
         <source>Let's do this!</source>
-				<target approved="Yes">Hadi başlayalım!</target>
+				<target approved="Yes" state="translated">Hadi başlayalım!</target>
         <note>Class = "UIButton"; accessibilityLabel = "Let's do this!"; ObjectID = "uFq-Oi-QlX";</note>
       </trans-unit>
-      <trans-unit id="uFq-Oi-QlX.normalTitle">
+      <trans-unit id="uFq-Oi-QlX.normalTitle" approved="yes">
         <source>Let's do this!</source>
-				<target approved="Yes">Hadi başlayalım!</target>
+				<target approved="Yes" state="translated">Hadi başlayalım!</target>
         <note>Class = "UIButton"; normalTitle = "Let's do this!"; ObjectID = "uFq-Oi-QlX";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterThanksViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="Fd1-X4-kYs.text">
+      <trans-unit id="Fd1-X4-kYs.text" approved="yes">
         <source>Your 1GB of free data should appear within the hour.</source>
-				<target approved="Yes">1 GB ücretsiz verin bir saat içinde gelecek.</target>
+				<target approved="Yes" state="translated">1 GB ücretsiz verin bir saat içinde gelecek.</target>
         <note>Class = "UILabel"; text = "Your 1GB of free data should appear within the hour."; ObjectID = "Fd1-X4-kYs";</note>
       </trans-unit>
-      <trans-unit id="Xas-B4-C4d.title">
+      <trans-unit id="Xas-B4-C4d.title" approved="yes">
         <source>Rawr! Thanks!</source>
-				<target approved="Yes">Rorr! Sağ ol!</target>
+				<target approved="Yes" state="translated">Rorr! Sağ ol!</target>
         <note>Class = "UINavigationItem"; title = "Rawr! Thanks!"; ObjectID = "Xas-B4-C4d";</note>
       </trans-unit>
-      <trans-unit id="mRJ-U1-Sc9.text">
+      <trans-unit id="mRJ-U1-Sc9.text" approved="yes">
         <source>You can tweet again next month for another free GB!</source>
-				<target approved="Yes">Gelecek ay ücretsiz 1 GB kazanmak için tekrar tweet atabilirsin!</target>
+				<target approved="Yes" state="translated">Gelecek ay ücretsiz 1 GB kazanmak için tekrar tweet atabilirsin!</target>
         <note>Class = "UILabel"; text = "You can tweet again next month for another free GB!"; ObjectID = "mRJ-U1-Sc9";</note>
       </trans-unit>
-      <trans-unit id="mu4-iI-Tgy.normalTitle">
+      <trans-unit id="mu4-iI-Tgy.normalTitle" approved="yes">
         <source>OK</source>
-				<target approved="Yes">Tamam</target>
+				<target approved="Yes" state="translated">Tamam</target>
         <note>Class = "UIButton"; normalTitle = "OK"; ObjectID = "mu4-iI-Tgy";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBVerifyEmailViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="2JP-sf-gYi.text">
+      <trans-unit id="2JP-sf-gYi.text" approved="yes">
         <source>We've sent you a bear!</source>
-				<target approved="Yes">Sana ayı gönderdik!</target>
+				<target approved="Yes" state="translated">Sana ayı gönderdik!</target>
         <note>Class = "UILabel"; text = "We've sent you a bear!"; ObjectID = "2JP-sf-gYi";</note>
       </trans-unit>
-      <trans-unit id="PXg-NA-y5J.text">
+      <trans-unit id="PXg-NA-y5J.text" approved="yes">
         <source>Please check your email to confirm we’ve sent your bear to the right address:</source>
-				<target approved="Yes">Ayını doğru adrese gönderip göndermediğimizi kontrol etmek için lütfen e-postana bak:</target>
+				<target approved="Yes" state="translated">Ayını doğru adrese gönderip göndermediğimizi kontrol etmek için lütfen e-postana bak:</target>
         <note>Class = "UILabel"; text = "Please check your email to confirm we’ve sent your bear to the right address:"; ObjectID = "PXg-NA-y5J";</note>
       </trans-unit>
-      <trans-unit id="TwT-VL-3Lv.normalTitle">
+      <trans-unit id="TwT-VL-3Lv.normalTitle" approved="yes">
         <source>Change Email</source>
-				<target approved="Yes">E-posta Değiştir</target>
+				<target approved="Yes" state="translated">E-posta Değiştir</target>
         <note>Class = "UIButton"; normalTitle = "Change Email"; ObjectID = "TwT-VL-3Lv";</note>
       </trans-unit>
-      <trans-unit id="Xtg-k8-1fo.normalTitle">
+      <trans-unit id="Xtg-k8-1fo.normalTitle" approved="yes">
         <source>Continue</source>
-				<target approved="Yes">Devam</target>
+				<target approved="Yes" state="translated">Devam</target>
         <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Xtg-k8-1fo";</note>
       </trans-unit>
-      <trans-unit id="aBV-m1-R0q.text">
+      <trans-unit id="aBV-m1-R0q.text" approved="yes">
         <source>ibear@tunnelbear.com</source>
-				<target approved="Yes">ibear@tunnelbear.com</target>
+				<target approved="Yes" state="translated">ibear@tunnelbear.com</target>
         <note>Class = "UILabel"; text = "ibear@tunnelbear.com"; ObjectID = "aBV-m1-R0q";</note>
       </trans-unit>
-      <trans-unit id="vVd-jG-HCZ.normalTitle">
+      <trans-unit id="vVd-jG-HCZ.normalTitle" approved="yes">
         <source>Resend Email</source>
-				<target approved="Yes">E-postayı Tekrar Gönder</target>
+				<target approved="Yes" state="translated">E-postayı Tekrar Gönder</target>
         <note>Class = "UIButton"; normalTitle = "Resend Email"; ObjectID = "vVd-jG-HCZ";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBWebViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="17.title">
+      <trans-unit id="17.title" approved="yes">
         <source>Done</source>
-				<target approved="Yes">Tamam</target>
+				<target approved="Yes" state="translated">Tamam</target>
         <note>Class = "UIBarButtonItem"; title = "Done"; ObjectID = "17";</note>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Support/Info.plist" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName">
+      <trans-unit id="CFBundleDisplayName" approved="yes">
         <source>${BUNDLE_NAME}</source>
-        <target approved="Yes">TunnelBear</target>
+        <target approved="Yes" state="translated">TunnelBear</target>
       </trans-unit>
-      <trans-unit id="CFBundleName">
+      <trans-unit id="CFBundleName" approved="yes">
         <source>${BUNDLE_NAME}</source>
-        <target approved="Yes">TunnelBear</target>
+        <target approved="Yes" state="translated">TunnelBear</target>
       </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
+      <trans-unit id="CFBundleShortVersionString" approved="yes">
         <source>2.4.1</source>
-				<target approved="Yes">2.4.1</target>
+				<target approved="Yes" state="translated">2.4.1</target>
       </trans-unit>
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Support/Localizable.strings" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
-      <trans-unit id=" Double check your connection?">
+      <trans-unit id=" Double check your connection?" approved="yes">
         <source> Double check your connection?</source>
-				<target approved="Yes">Bağlantını tekrar kontrol eder misin?</target>
+				<target approved="Yes" state="translated">Bağlantını tekrar kontrol eder misin?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%lldMB">
+      <trans-unit id="%lldMB" approved="yes">
         <source>%lldMB</source>
-				<target approved="Yes">%lld MB</target>
+				<target approved="Yes" state="translated">%lld MB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%lldMB Data remaining">
+      <trans-unit id="%lldMB Data remaining" approved="yes">
         <source>%lldMB Data remaining</source>
-				<target approved="Yes">%lld MB veri kaldı</target>
+				<target approved="Yes" state="translated">%lld MB veri kaldı</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%lldMB Remaining this month">
+      <trans-unit id="%lldMB Remaining this month" approved="yes">
         <source>%lldMB Remaining this month</source>
-				<target approved="Yes">Bu aylık %lldMB kaldı</target>
+				<target approved="Yes" state="translated">Bu aylık %lldMB kaldı</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="(recommended)">
+      <trans-unit id="(recommended)" approved="yes">
         <source>(recommended)</source>
-        <target approved="Yes">(tavsiye edilen)</target>
+        <target approved="Yes" state="translated">(tavsiye edilen)</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="1 FREE GB">
+      <trans-unit id="1 FREE GB" approved="yes">
         <source>1 FREE GB</source>
-				<target approved="Yes">ÜCRETSİZ 1 GB</target>
+				<target approved="Yes" state="translated">ÜCRETSİZ 1 GB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="692566">
+      <trans-unit id="692566" approved="yes">
         <source>692566</source>
-				<target approved="Yes">692566</target>
+				<target approved="Yes" state="translated">692566</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Another purchase is in progress">
+      <trans-unit id="Another purchase is in progress" approved="yes">
         <source>Another purchase is in progress</source>
-				<target approved="Yes">Bir başka satın alım sürüyor</target>
+				<target approved="Yes" state="translated">Bir başka satın alım sürüyor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="BUY">
+      <trans-unit id="BUY" approved="yes">
         <source>BUY</source>
-				<target approved="Yes">SATIN AL</target>
+				<target approved="Yes" state="translated">SATIN AL</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Bear Sounds">
+      <trans-unit id="Bear Sounds" approved="yes">
         <source>Bear Sounds</source>
-				<target approved="Yes">Ayı Sesleri</target>
+				<target approved="Yes" state="translated">Ayı Sesleri</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Bearmuda Triangle">
+      <trans-unit id="Bearmuda Triangle" approved="yes">
         <source>Bearmuda Triangle</source>
-				<target approved="Yes">Bearmuda Üçgeni</target>
+				<target approved="Yes" state="translated">Bearmuda Üçgeni</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="By confirming you will send TunnelBear a report that might help us further diagnose your bear.">
+      <trans-unit id="By confirming you will send TunnelBear a report that might help us further diagnose your bear." approved="yes">
         <source>By confirming you will send TunnelBear a report that might help us further diagnose your bear.</source>
-				<target approved="Yes">Bunu onaylayarak ayına daha iyi teşhis koyabilmemiz için TunnelBear'e rapor göndermeyi kabul ediyorsun.</target>
+				<target approved="Yes" state="translated">Bunu onaylayarak ayına daha iyi teşhis koyabilmemiz için TunnelBear'e rapor göndermeyi kabul ediyorsun.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Can't connect while disconnecting">
+      <trans-unit id="Can't connect while disconnecting" approved="yes">
         <source>Can't connect while disconnecting</source>
-				<target approved="Yes">Bağlantı kesilirken bağlanılamaz</target>
+				<target approved="Yes" state="translated">Bağlantı kesilirken bağlanılamaz</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Cancel">
+      <trans-unit id="Cancel" approved="yes">
         <source>Cancel</source>
-				<target approved="Yes">İptal</target>
+				<target approved="Yes" state="translated">İptal</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Cannot Purchase Upgrade">
+      <trans-unit id="Cannot Purchase Upgrade" approved="yes">
         <source>Cannot Purchase Upgrade</source>
-				<target approved="Yes">Üst Sürüm Satın Alınamıyor</target>
+				<target approved="Yes" state="translated">Üst Sürüm Satın Alınamıyor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Cannot Tunnel">
+      <trans-unit id="Cannot Tunnel" approved="yes">
         <source>Cannot Tunnel</source>
-				<target approved="Yes">Tünel Açılamıyor</target>
+				<target approved="Yes" state="translated">Tünel Açılamıyor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Change Location">
+      <trans-unit id="Change Location" approved="yes">
         <source>Change Location</source>
-				<target approved="Yes">Konum Değiştir</target>
+				<target approved="Yes" state="translated">Konum Değiştir</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Changing countries…">
+      <trans-unit id="Changing countries…" approved="yes">
         <source>Changing countries…</source>
-				<target approved="Yes">Ülke değiştiriliyor…</target>
+				<target approved="Yes" state="translated">Ülke değiştiriliyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Checking email…">
+      <trans-unit id="Checking email…" approved="yes">
         <source>Checking email…</source>
-				<target approved="Yes">E-posta kontrol ediliyor…</target>
+				<target approved="Yes" state="translated">E-posta kontrol ediliyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Choose Location">
+      <trans-unit id="Choose Location" approved="yes">
         <source>Choose Location</source>
-				<target approved="Yes">Konum Seç</target>
+				<target approved="Yes" state="translated">Konum Seç</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Closest Tunnel">
+      <trans-unit id="Closest Tunnel" approved="yes">
         <source>Closest Tunnel</source>
-				<target approved="Yes">En Yakın Tünel</target>
+				<target approved="Yes" state="translated">En Yakın Tünel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Connect">
+      <trans-unit id="Connect" approved="yes">
         <source>Connect</source>
-				<target approved="Yes">Bağlan</target>
+				<target approved="Yes" state="translated">Bağlan</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Connect to %@">
+      <trans-unit id="Connect to %@" approved="yes">
         <source>Connect to %@</source>
-				<target approved="Yes">Bağlanılacak ülke: %@</target>
+				<target approved="Yes" state="translated">Bağlanılacak ülke: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Connect to TunnelBear">
+      <trans-unit id="Connect to TunnelBear" approved="yes">
         <source>Connect to TunnelBear</source>
-				<target approved="Yes">TunnelBear'e bağlan</target>
+				<target approved="Yes" state="translated">TunnelBear'e bağlan</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Connecting…">
+      <trans-unit id="Connecting…" approved="yes">
         <source>Connecting…</source>
-				<target approved="Yes">Bağlanıyor...</target>
+				<target approved="Yes" state="translated">Bağlanıyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Connection Secure!">
+      <trans-unit id="Connection Secure!" approved="yes">
         <source>Connection Secure!</source>
-				<target approved="Yes">Bağlantı Güvenli!</target>
+				<target approved="Yes" state="translated">Bağlantı Güvenli!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Connection Secure!\n While connected, you can use other apps as if you're in %@!">
+      <trans-unit id="Connection Secure!\n While connected, you can use other apps as if you're in %@!" approved="yes">
         <source>Connection Secure!
  While connected, you can use other apps as if you're in %@!</source>
-        <target approved="Yes">Bağlantı Güvenli!
+        <target approved="Yes" state="translated">Bağlantı Güvenli!
  Bağlantı varken diğer uygulamaları şu ülkedeymiş gibi kullanabilirsin: %@.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Continue">
+      <trans-unit id="Continue" approved="yes">
         <source>Continue</source>
-				<target approved="Yes">Devam</target>
+				<target approved="Yes" state="translated">Devam</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Could not complete purchase">
+      <trans-unit id="Could not complete purchase" approved="yes">
         <source>Could not complete purchase</source>
-				<target approved="Yes">Satın alma tamamlanamadı</target>
+				<target approved="Yes" state="translated">Satın alma tamamlanamadı</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Could not create an account">
+      <trans-unit id="Could not create an account" approved="yes">
         <source>Could not create an account</source>
-				<target approved="Yes">Hesap açılamadı</target>
+				<target approved="Yes" state="translated">Hesap açılamadı</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Could not log in">
+      <trans-unit id="Could not log in" approved="yes">
         <source>Could not log in</source>
-				<target approved="Yes">Giriş yapılamadı</target>
+				<target approved="Yes" state="translated">Giriş yapılamadı</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Couldn't connect, please try again later">
+      <trans-unit id="Couldn't connect, please try again later" approved="yes">
         <source>Couldn't connect, please try again later</source>
-				<target approved="Yes">Bağlanılamadı, lütfen daha sonra tekrar dene</target>
+				<target approved="Yes" state="translated">Bağlanılamadı, lütfen daha sonra tekrar dene</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Creating account…">
+      <trans-unit id="Creating account…" approved="yes">
         <source>Creating account…</source>
-				<target approved="Yes">Hesap açılıyor…</target>
+				<target approved="Yes" state="translated">Hesap açılıyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="DONE">
+      <trans-unit id="DONE" approved="yes">
         <source>DONE</source>
-				<target approved="Yes">TAMAM</target>
+				<target approved="Yes" state="translated">TAMAM</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Did you mean %@?">
+      <trans-unit id="Did you mean %@?" approved="yes">
         <source>Did you mean %@?</source>
-				<target approved="Yes">Şunu mu kastettin: %@?</target>
+				<target approved="Yes" state="translated">Şunu mu kastettin: %@?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Disconnect">
+      <trans-unit id="Disconnect" approved="yes">
         <source>Disconnect</source>
-				<target approved="Yes">Bağlantıyı kes</target>
+				<target approved="Yes" state="translated">Bağlantıyı kes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Disconnect from TunnelBear">
+      <trans-unit id="Disconnect from TunnelBear" approved="yes">
         <source>Disconnect from TunnelBear</source>
-				<target approved="Yes">TunnelBear bağlantısını kes</target>
+				<target approved="Yes" state="translated">TunnelBear bağlantısını kes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Disconnected">
+      <trans-unit id="Disconnected" approved="yes">
         <source>Disconnected</source>
-				<target approved="Yes">Bağlantı kesildi</target>
+				<target approved="Yes" state="translated">Bağlantı kesildi</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Disconnecting…">
+      <trans-unit id="Disconnecting…" approved="yes">
         <source>Disconnecting…</source>
-				<target approved="Yes">Bağlantı kesiliyor…</target>
+				<target approved="Yes" state="translated">Bağlantı kesiliyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Encrypted Tunnel">
+      <trans-unit id="Encrypted Tunnel" approved="yes">
         <source>Encrypted Tunnel</source>
-				<target approved="Yes">Şifreli Tünel</target>
+				<target approved="Yes" state="translated">Şifreli Tünel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="For iPhones and iPads only">
+      <trans-unit id="For iPhones and iPads only" approved="yes">
         <source>For iPhones and iPads only</source>
-				<target approved="Yes">Sadece iPhone ve iPad için</target>
+				<target approved="Yes" state="translated">Sadece iPhone ve iPad için</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="For up to 5 computers, phones or tablets">
+      <trans-unit id="For up to 5 computers, phones or tablets" approved="yes">
         <source>For up to 5 computers, phones or tablets</source>
-				<target approved="Yes">5 tane bilgisayar, telefon, tablet için</target>
+				<target approved="Yes" state="translated">5 tane bilgisayar, telefon, tablet için</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Free TunnelBear">
+      <trans-unit id="Free TunnelBear" approved="yes">
         <source>Free TunnelBear</source>
-				<target approved="Yes">Ücretsiz TunnelBear</target>
+				<target approved="Yes" state="translated">Ücretsiz TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Free data!">
+      <trans-unit id="Free data!" approved="yes">
         <source>Free data!</source>
-				<target approved="Yes">Ücretsiz veri!</target>
+				<target approved="Yes" state="translated">Ücretsiz veri!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Giant TunnelBear">
+      <trans-unit id="Giant TunnelBear" approved="yes">
         <source>Giant TunnelBear</source>
-				<target approved="Yes">Dev TunnelBear</target>
+				<target approved="Yes" state="translated">Dev TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Go Tunneling!">
+      <trans-unit id="Go Tunneling!" approved="yes">
         <source>Go Tunneling!</source>
-				<target approved="Yes">Hadi Tünel Aç!</target>
+				<target approved="Yes" state="translated">Hadi Tünel Aç!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Got it">
+      <trans-unit id="Got it" approved="yes">
         <source>Got it</source>
-				<target approved="Yes">Tamamdır</target>
+				<target approved="Yes" state="translated">Tamamdır</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Grizzly TunnelBear">
+      <trans-unit id="Grizzly TunnelBear" approved="yes">
         <source>Grizzly TunnelBear</source>
-				<target approved="Yes">Gri TunnelBear</target>
+				<target approved="Yes" state="translated">Gri TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Grr! TunnelBear couldn't reach the internet! Please try again.">
+      <trans-unit id="Grr! TunnelBear couldn't reach the internet! Please try again." approved="yes">
         <source>Grr! TunnelBear couldn't reach the internet! Please try again.</source>
-				<target approved="Yes">Gırr! TunnelBear internete erişemedi! Lütfen tekrar dene.</target>
+				<target approved="Yes" state="translated">Gırr! TunnelBear internete erişemedi! Lütfen tekrar dene.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Grr! TunnelBear device settings not  installed. Please try again.">
+      <trans-unit id="Grr! TunnelBear device settings not  installed. Please try again." approved="yes">
         <source>Grr! TunnelBear device settings not  installed. Please try again.</source>
-				<target approved="Yes">Gırr! TunnelBear cihaz ayarları yüklenmedi. Lütfen tekrar dene.</target>
+				<target approved="Yes" state="translated">Gırr! TunnelBear cihaz ayarları yüklenmedi. Lütfen tekrar dene.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Grr! TunnelBear device settings not installed. Please try again.">
+      <trans-unit id="Grr! TunnelBear device settings not installed. Please try again." approved="yes">
         <source>Grr! TunnelBear device settings not installed. Please try again.</source>
-				<target approved="Yes">Gırr! TunnelBear cihaz ayarları yüklenmedi. Lütfen tekrar dene.</target>
+				<target approved="Yes" state="translated">Gırr! TunnelBear cihaz ayarları yüklenmedi. Lütfen tekrar dene.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Grr! TunnelBear needs to install additional device settings. Tap “install” when you are prompted.">
+      <trans-unit id="Grr! TunnelBear needs to install additional device settings. Tap “install” when you are prompted." approved="yes">
         <source>Grr! TunnelBear needs to install additional device settings. Tap “install” when you are prompted.</source>
-        <target approved="Yes">Gırr! TunnelBear'in ek cihaz ayarları yüklemesi gerek. Sorulduğunda “yükle”ye bas.</target>
+        <target approved="Yes" state="translated">Gırr! TunnelBear'in ek cihaz ayarları yüklemesi gerek. Sorulduğunda “yükle”ye bas.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Grrr… Out of data for the month. Upgrade your Bear for unlimited data!">
+      <trans-unit id="Grrr… Out of data for the month. Upgrade your Bear for unlimited data!" approved="yes">
         <source>Grrr… Out of data for the month. Upgrade your Bear for unlimited data!</source>
-				<target approved="Yes">Gırrr… Bu aylık veri bitti. Sınırsız veri için ayını üst sürüme geçir!</target>
+				<target approved="Yes" state="translated">Gırrr… Bu aylık veri bitti. Sınırsız veri için ayını üst sürüme geçir!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Help">
+      <trans-unit id="Help" approved="yes">
         <source>Help</source>
-				<target approved="Yes">Yardım</target>
+				<target approved="Yes" state="translated">Yardım</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="How about a quick rating on the App Store, then?">
+      <trans-unit id="How about a quick rating on the App Store, then?" approved="yes">
         <source>How about a quick rating on the App Store, then?</source>
-				<target approved="Yes">App Store'da çabucak puan vermeye ne dersin?</target>
+				<target approved="Yes" state="translated">App Store'da çabucak puan vermeye ne dersin?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="I Agree">
+      <trans-unit id="I Agree" approved="yes">
         <source>I Agree</source>
-				<target approved="Yes">Kabul ediyorum</target>
+				<target approved="Yes" state="translated">Kabul ediyorum</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="I really like doing things the hard way. I want to tunnel with manual settings.">
+      <trans-unit id="I really like doing things the hard way. I want to tunnel with manual settings." approved="yes">
         <source>I really like doing things the hard way. I want to tunnel with manual settings.</source>
-				<target approved="Yes">İşleri zor yoldan yapmayı çok seviyorum. Manuel ayarlarla tünel açmak istiyorum.</target>
+				<target approved="Yes" state="translated">İşleri zor yoldan yapmayı çok seviyorum. Manuel ayarlarla tünel açmak istiyorum.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Initiating connection…">
+      <trans-unit id="Initiating connection…" approved="yes">
         <source>Initiating connection…</source>
-				<target approved="Yes">Bağlantı başlatılıyor…</target>
+				<target approved="Yes" state="translated">Bağlantı başlatılıyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Is this your Twitter ID?">
+      <trans-unit id="Is this your Twitter ID?" approved="yes">
         <source>Is this your Twitter ID?</source>
-				<target approved="Yes">Twitter kullanıcı adın bu mu?</target>
+				<target approved="Yes" state="translated">Twitter kullanıcı adın bu mu?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Log In">
+      <trans-unit id="Log In" approved="yes">
         <source>Log In</source>
-				<target approved="Yes">Giriş</target>
+				<target approved="Yes" state="translated">Giriş</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Log Out">
+      <trans-unit id="Log Out" approved="yes">
         <source>Log Out</source>
-				<target approved="Yes">Çıkış</target>
+				<target approved="Yes" state="translated">Çıkış</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Logging in…">
+      <trans-unit id="Logging in…" approved="yes">
         <source>Logging in…</source>
-				<target approved="Yes">Giriş yapılıyor…</target>
+				<target approved="Yes" state="translated">Giriş yapılıyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Logging out…">
+      <trans-unit id="Logging out…" approved="yes">
         <source>Logging out…</source>
-				<target approved="Yes">Çıkış yapılıyor…</target>
+				<target approved="Yes" state="translated">Çıkış yapılıyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Make Another Purchase?">
+      <trans-unit id="Make Another Purchase?" approved="yes">
         <source>Make Another Purchase?</source>
-        <target approved="Yes">Bir satın alım daha yapılsın mı?</target>
+        <target approved="Yes" state="translated">Bir satın alım daha yapılsın mı?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Manage Subscription">
+      <trans-unit id="Manage Subscription" approved="yes">
         <source>Manage Subscription</source>
-				<target approved="Yes">Üyeliği Yönet</target>
+				<target approved="Yes" state="translated">Üyeliği Yönet</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Mobile Giant TunnelBear">
+      <trans-unit id="Mobile Giant TunnelBear" approved="yes">
         <source>Mobile Giant TunnelBear</source>
-				<target approved="Yes">Mobil Dev TunnelBear</target>
+				<target approved="Yes" state="translated">Mobil Dev TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Mobile Grizzly TunnelBear">
+      <trans-unit id="Mobile Grizzly TunnelBear" approved="yes">
         <source>Mobile Grizzly TunnelBear</source>
-				<target approved="Yes">Mobil Gri TunnelBear</target>
+				<target approved="Yes" state="translated">Mobil Gri TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Must be logged in to process purchase.">
+      <trans-unit id="Must be logged in to process purchase." approved="yes">
         <source>Must be logged in to process purchase.</source>
-				<target approved="Yes">Satın alım için giriş yapılması gerekir.</target>
+				<target approved="Yes" state="translated">Satın alım için giriş yapılması gerekir.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="No">
+      <trans-unit id="No" approved="yes">
         <source>No</source>
-				<target approved="Yes">Hayır</target>
+				<target approved="Yes" state="translated">Hayır</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Not connected">
+      <trans-unit id="Not connected" approved="yes">
         <source>Not connected</source>
-				<target approved="Yes">Bağlı değil</target>
+				<target approved="Yes" state="translated">Bağlı değil</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="OK">
+      <trans-unit id="OK" approved="yes">
         <source>OK</source>
-				<target approved="Yes">Tamam</target>
+				<target approved="Yes" state="translated">Tamam</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Oi mate! %@ is only available for upgraded bears.">
+      <trans-unit id="Oi mate! %@ is only available for upgraded bears." approved="yes">
         <source>Oi mate! %@ is only available for upgraded bears.</source>
-				<target approved="Yes">Selam dostum! %@ sadece üst sürümdeki ayılara açıktır.</target>
+				<target approved="Yes" state="translated">Selam dostum! %@ sadece üst sürümdeki ayılara açıktır.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Out of Data for the month">
+      <trans-unit id="Out of Data for the month" approved="yes">
         <source>Out of Data for the month</source>
-				<target approved="Yes">Bu aylık Veri bitti</target>
+				<target approved="Yes" state="translated">Bu aylık Veri bitti</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Please enter a valid Twitter ID.">
+      <trans-unit id="Please enter a valid Twitter ID." approved="yes">
         <source>Please enter a valid Twitter ID.</source>
-				<target approved="Yes">Lütfen geçerli bir Twitter kullanıcı adı gir.</target>
+				<target approved="Yes" state="translated">Lütfen geçerli bir Twitter kullanıcı adı gir.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Please enter your Twitter ID">
+      <trans-unit id="Please enter your Twitter ID" approved="yes">
         <source>Please enter your Twitter ID</source>
-				<target approved="Yes">Lütfen Twitter kullanıcı adını gir</target>
+				<target approved="Yes" state="translated">Lütfen Twitter kullanıcı adını gir</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Please log in.">
+      <trans-unit id="Please log in." approved="yes">
         <source>Please log in.</source>
-				<target approved="Yes">Lütfen giriş yap.</target>
+				<target approved="Yes" state="translated">Lütfen giriş yap.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Processing Purchase…">
+      <trans-unit id="Processing Purchase…" approved="yes">
         <source>Processing Purchase…</source>
-				<target approved="Yes">Satın Alınıyor…</target>
+				<target approved="Yes" state="translated">Satın Alınıyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Purchase Cancelled">
+      <trans-unit id="Purchase Cancelled" approved="yes">
         <source>Purchase Cancelled</source>
-				<target approved="Yes">Satın Alım İptal Edildi</target>
+				<target approved="Yes" state="translated">Satın Alım İptal Edildi</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Purchase Completed">
+      <trans-unit id="Purchase Completed" approved="yes">
         <source>Purchase Completed</source>
-				<target approved="Yes">Satın Alım Tamamlandı</target>
+				<target approved="Yes" state="translated">Satın Alım Tamamlandı</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Purchase pending user action">
+      <trans-unit id="Purchase pending user action" approved="yes">
         <source>Purchase pending user action</source>
-				<target approved="Yes">Satın alma için kullanıcı bekleniyor</target>
+				<target approved="Yes" state="translated">Satın alma için kullanıcı bekleniyor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Rawr! Enjoying your TunnelBear?">
+      <trans-unit id="Rawr! Enjoying your TunnelBear?" approved="yes">
         <source>Rawr! Enjoying your TunnelBear?</source>
-				<target approved="Yes">Rorr! TunnelBear'den memnun musun?</target>
+				<target approved="Yes" state="translated">Rorr! TunnelBear'den memnun musun?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Rawr! It seems that your %@ is not connected to the Internet.">
+      <trans-unit id="Rawr! It seems that your %@ is not connected to the Internet." approved="yes">
         <source>Rawr! It seems that your %@ is not connected to the Internet.</source>
-				<target approved="Yes">Rorr! Görünüşe göre %@ cihazın internete bağlı değil.</target>
+				<target approved="Yes" state="translated">Rorr! Görünüşe göre %@ cihazın internete bağlı değil.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Rawr! Looks like Twitter is either having issues or is blocked by your service provider.">
+      <trans-unit id="Rawr! Looks like Twitter is either having issues or is blocked by your service provider." approved="yes">
         <source>Rawr! Looks like Twitter is either having issues or is blocked by your service provider.</source>
-				<target approved="Yes">Rorr! Görünüşe göre Twitter sorun yaşıyor ya da servis sağlayıcın tarafından engellenmiş.</target>
+				<target approved="Yes" state="translated">Rorr! Görünüşe göre Twitter sorun yaşıyor ya da servis sağlayıcın tarafından engellenmiş.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Rawr! TunnelBear is having trouble fetching product information. Try again later?">
+      <trans-unit id="Rawr! TunnelBear is having trouble fetching product information. Try again later?" approved="yes">
         <source>Rawr! TunnelBear is having trouble fetching product information. Try again later?</source>
-				<target approved="Yes">Rorr! TunnelBear ürün bilgisini alamıyor. Daha sonra tekrar dener misin?</target>
+				<target approved="Yes" state="translated">Rorr! TunnelBear ürün bilgisini alamıyor. Daha sonra tekrar dener misin?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Rawr! Your TunnelBear is having trouble fetching products from the App Store. Try again later?">
+      <trans-unit id="Rawr! Your TunnelBear is having trouble fetching products from the App Store. Try again later?" approved="yes">
         <source>Rawr! Your TunnelBear is having trouble fetching products from the App Store. Try again later?</source>
-				<target approved="Yes">Rorr! TunnelBear, App Store'dan ürün alamıyor. Daha sonra tekrar dener misin?</target>
+				<target approved="Yes" state="translated">Rorr! TunnelBear, App Store'dan ürün alamıyor. Daha sonra tekrar dener misin?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Rawr! Your TunnelBear is having trouble reaching the App Store. Try again later?">
+      <trans-unit id="Rawr! Your TunnelBear is having trouble reaching the App Store. Try again later?" approved="yes">
         <source>Rawr! Your TunnelBear is having trouble reaching the App Store. Try again later?</source>
-				<target approved="Yes">Rorr! TunnelBear, App Store'a ulaşamıyor. Daha sonra tekrar dener misin?</target>
+				<target approved="Yes" state="translated">Rorr! TunnelBear, App Store'a ulaşamıyor. Daha sonra tekrar dener misin?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Rawrr! Problem confirming Twitter ID">
+      <trans-unit id="Rawrr! Problem confirming Twitter ID" approved="yes">
         <source>Rawrr! Problem confirming Twitter ID</source>
-				<target approved="Yes">Roorrr! Twitter kullanıcı adı doğrulanamıyor</target>
+				<target approved="Yes" state="translated">Roorrr! Twitter kullanıcı adı doğrulanamıyor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours.">
+      <trans-unit id="Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours." approved="yes">
         <source>Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours.</source>
-				<target approved="Yes">Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.</target>
+				<target approved="Yes" state="translated">Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Rawrrr! Your bear has been upgraded.">
+      <trans-unit id="Rawrrr! Your bear has been upgraded." approved="yes">
         <source>Rawrrr! Your bear has been upgraded.</source>
-				<target approved="Yes">Rorrrr! Ayın üst sürüme geçti.</target>
+				<target approved="Yes" state="translated">Rorrrr! Ayın üst sürüme geçti.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Reinstall Profile">
+      <trans-unit id="Reinstall Profile" approved="yes">
         <source>Reinstall Profile</source>
-				<target approved="Yes">Profili Yeniden Yükle</target>
+				<target approved="Yes" state="translated">Profili Yeniden Yükle</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Restoring Purchases…">
+      <trans-unit id="Restoring Purchases…" approved="yes">
         <source>Restoring Purchases…</source>
-				<target approved="Yes">Satın Alımlar Geri Yükleniyor…</target>
+				<target approved="Yes" state="translated">Satın Alımlar Geri Yükleniyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Review on iTunes">
+      <trans-unit id="Review on iTunes" approved="yes">
         <source>Review on iTunes</source>
-				<target approved="Yes">iTunes'da değerlendir</target>
+				<target approved="Yes" state="translated">iTunes'da değerlendir</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Save %d%%">
+      <trans-unit id="Save %d%%" approved="yes">
         <source>Save %d%%</source>
-        <target approved="Yes">%%%d kâr et</target>
+        <target approved="Yes" state="translated">%%%d kâr et</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Send Bug report?">
+      <trans-unit id="Send Bug report?" approved="yes">
         <source>Send Bug report?</source>
-				<target approved="Yes">Hata raporu göndermek ister misin?</target>
+				<target approved="Yes" state="translated">Hata raporu göndermek ister misin?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Sending Logs…">
+      <trans-unit id="Sending Logs…" approved="yes">
         <source>Sending Logs…</source>
-				<target approved="Yes">Günlük gönderiliyor…</target>
+				<target approved="Yes" state="translated">Günlük gönderiliyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Still changing countries…">
+      <trans-unit id="Still changing countries…" approved="yes">
         <source>Still changing countries…</source>
-				<target approved="Yes">Hâlâ ülke değiştiriliyor…</target>
+				<target approved="Yes" state="translated">Hâlâ ülke değiştiriliyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Still connected">
+      <trans-unit id="Still connected" approved="yes">
         <source>Still connected</source>
-				<target approved="Yes">Hâlâ bağlı</target>
+				<target approved="Yes" state="translated">Hâlâ bağlı</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Tap Install when you’re prompted.">
+      <trans-unit id="Tap Install when you’re prompted." approved="yes">
         <source>Tap Install when you’re prompted.</source>
-        <target approved="Yes">Sorulduğunda “yükle”ye bas.</target>
+        <target approved="Yes" state="translated">Sorulduğunda “yükle”ye bas.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Terms of Service">
+      <trans-unit id="Terms of Service" approved="yes">
         <source>Terms of Service</source>
-				<target approved="Yes">Hizmet Şartları</target>
+				<target approved="Yes" state="translated">Hizmet Şartları</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="To use a TunnelBear, you'll need to accept the TunnelBear Terms of Service.">
+      <trans-unit id="To use a TunnelBear, you'll need to accept the TunnelBear Terms of Service." approved="yes">
         <source>To use a TunnelBear, you'll need to accept the TunnelBear Terms of Service.</source>
-				<target approved="Yes">TunnelBear'i kullanabilmek için TunnelBear Hizmet Şartları'nı kabul etmen gerek.</target>
+				<target approved="Yes" state="translated">TunnelBear'i kullanabilmek için TunnelBear Hizmet Şartları'nı kabul etmen gerek.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Tunnel to %@?">
+      <trans-unit id="Tunnel to %@?" approved="yes">
         <source>Tunnel to %@?</source>
-				<target approved="Yes">Şu ülkeye tünel açılsın mı: %@?</target>
+				<target approved="Yes" state="translated">Şu ülkeye tünel açılsın mı: %@?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="TunnelBear">
+      <trans-unit id="TunnelBear" approved="yes">
         <source>TunnelBear</source>
-				<target approved="Yes">TunnelBear</target>
+				<target approved="Yes" state="translated">TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="TunnelBear Notifications">
+      <trans-unit id="TunnelBear Notifications" approved="yes">
         <source>TunnelBear Notifications</source>
-				<target approved="Yes">TunnelBear Bildirimleri</target>
+				<target approved="Yes" state="translated">TunnelBear Bildirimleri</target>
         <note>Notify notifications title</note>
       </trans-unit>
-      <trans-unit id="TunnelBear can send you notifications when you are low on data. Tap “OK” when prompted to receive them.">
+      <trans-unit id="TunnelBear can send you notifications when you are low on data. Tap “OK” when prompted to receive them." approved="yes">
         <source>TunnelBear can send you notifications when you are low on data. Tap “OK” when prompted to receive them.</source>
-        <target approved="Yes">TunnelBear verin azaldığında bildirim gönderebilir. Bildirimleri almak için sorulduğunda “Tamam”a bas.</target>
+        <target approved="Yes" state="translated">TunnelBear verin azaldığında bildirim gönderebilir. Bildirimleri almak için sorulduğunda “Tamam”a bas.</target>
         <note>Notifying users why we use notifications.</note>
       </trans-unit>
-      <trans-unit id="TunnelBear needs to install “VPN” settings on your %@. Tap Install when you’re prompted.">
+      <trans-unit id="TunnelBear needs to install “VPN” settings on your %@. Tap Install when you’re prompted." approved="yes">
         <source>TunnelBear needs to install “VPN” settings on your %@. Tap Install when you’re prompted.</source>
-        <target approved="Yes">TunnelBear'in %@ cihazına “VPN” ayarları yüklemesi gerekiyor. Sorulduğunda “yükle”ye bas.</target>
+        <target approved="Yes" state="translated">TunnelBear'in %@ cihazına “VPN” ayarları yüklemesi gerekiyor. Sorulduğunda “yükle”ye bas.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Turn TunnelBear ON to make your location and data private!\n\n">
+      <trans-unit id="Turn TunnelBear ON to make your location and data private!\n\n" approved="yes">
         <source>Turn TunnelBear ON to make your location and data private!
 
 </source>
-        <target approved="Yes">Konumunu ve verini gizlemek için TunnelBear'i aç!
+        <target approved="Yes" state="translated">Konumunu ve verini gizlemek için TunnelBear'i aç!
 </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Tweet for 1 FREE GB?">
+      <trans-unit id="Tweet for 1 FREE GB?" approved="yes">
         <source>Tweet for 1 FREE GB?</source>
-				<target approved="Yes">ÜCRETSİZ 1 GB için tweet atar mısın?</target>
+				<target approved="Yes" state="translated">ÜCRETSİZ 1 GB için tweet atar mısın?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Twitter Not Reachable">
+      <trans-unit id="Twitter Not Reachable" approved="yes">
         <source>Twitter Not Reachable</source>
-				<target approved="Yes">Twitter'a Ulaşılamıyor</target>
+				<target approved="Yes" state="translated">Twitter'a Ulaşılamıyor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Unable to install VPN profile">
+      <trans-unit id="Unable to install VPN profile" approved="yes">
         <source>Unable to install VPN profile</source>
-				<target approved="Yes">VPN profili yüklenemiyor</target>
+				<target approved="Yes" state="translated">VPN profili yüklenemiyor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Updating Account…">
+      <trans-unit id="Updating Account…" approved="yes">
         <source>Updating Account…</source>
-				<target approved="Yes">Hesap güncelleniyor…</target>
+				<target approved="Yes" state="translated">Hesap güncelleniyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Upgrade">
+      <trans-unit id="Upgrade" approved="yes">
         <source>Upgrade</source>
-				<target approved="Yes">Üst sürüme geç</target>
+				<target approved="Yes" state="translated">Üst sürüme geç</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="VPN Profile Not Found">
+      <trans-unit id="VPN Profile Not Found" approved="yes">
         <source>VPN Profile Not Found</source>
-				<target approved="Yes">VPN Profili Bulunamadı</target>
+				<target approved="Yes" state="translated">VPN Profili Bulunamadı</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="VPN connection timed out">
+      <trans-unit id="VPN connection timed out" approved="yes">
         <source>VPN connection timed out</source>
-				<target approved="Yes">VPN bağlantı süresi doldu</target>
+				<target approved="Yes" state="translated">VPN bağlantı süresi doldu</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Verifying connection…">
+      <trans-unit id="Verifying connection…" approved="yes">
         <source>Verifying connection…</source>
-				<target approved="Yes">Bağlantı doğrulanıyor…</target>
+				<target approved="Yes" state="translated">Bağlantı doğrulanıyor…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="View Terms">
+      <trans-unit id="View Terms" approved="yes">
         <source>View Terms</source>
-				<target approved="Yes">Şartları Görüntüle</target>
+				<target approved="Yes" state="translated">Şartları Görüntüle</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="We’ve sent you a bear!">
+      <trans-unit id="We’ve sent you a bear!" approved="yes">
         <source>We’ve sent you a bear!</source>
-				<target approved="Yes">Sana bir ayı gönderdik!</target>
+				<target approved="Yes" state="translated">Sana bir ayı gönderdik!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Yes">
+      <trans-unit id="Yes" approved="yes">
         <source>Yes</source>
-				<target approved="Yes">Evet</target>
+				<target approved="Yes" state="translated">Evet</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Yes!">
+      <trans-unit id="Yes!" approved="yes">
         <source>Yes!</source>
-				<target approved="Yes">Evet!</target>
+				<target approved="Yes" state="translated">Evet!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Yikes! Well would you mind telling us what you don’t like about your Bear?">
+      <trans-unit id="Yikes! Well would you mind telling us what you don’t like about your Bear?" approved="yes">
         <source>Yikes! Well would you mind telling us what you don’t like about your Bear?</source>
-				<target approved="Yes">Amanın!Ayından neden memnun olmadığını söyler misin peki?</target>
+				<target approved="Yes" state="translated">Amanın!Ayından neden memnun olmadığını söyler misin peki?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="You already have a pending purchase that TunnelBear hasn't processed yet. Make another purchase anyway?">
+      <trans-unit id="You already have a pending purchase that TunnelBear hasn't processed yet. Make another purchase anyway?" approved="yes">
         <source>You already have a pending purchase that TunnelBear hasn't processed yet. Make another purchase anyway?</source>
-				<target approved="Yes">TunnelBear'in henüz tamamlamadığı bir satın alım işlemin var.  Bir satın alım daha yapacak mısın?</target>
+				<target approved="Yes" state="translated">TunnelBear'in henüz tamamlamadığı bir satın alım işlemin var.  Bir satın alım daha yapacak mısın?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="You'll see a message when you upgrade. This is the default message shown for all app store subscriptions. Even if you tap “Allow” we don’t actually collect or store this information. You can see our privacy policy here.">
+      <trans-unit id="You'll see a message when you upgrade. This is the default message shown for all app store subscriptions. Even if you tap “Allow” we don’t actually collect or store this information. You can see our privacy policy here." approved="yes">
         <source>You'll see a message when you upgrade. This is the default message shown for all app store subscriptions. Even if you tap “Allow” we don’t actually collect or store this information. You can see our privacy policy here.</source>
-        <target approved="Yes">Üst sürüme geçtiğinde mesaj gelecek. Bu varsayılan mesaj bütün App Store aboneliklerinde gösterilir. “İzin ver”e bassan da aslında bu bilgiyi toplamayız, depolamayız. Gizlilik politikamızı buradan okuyabilirsin.</target>
+        <target approved="Yes" state="translated">Üst sürüme geçtiğinde mesaj gelecek. Bu varsayılan mesaj bütün App Store aboneliklerinde gösterilir. “İzin ver”e bassan da aslında bu bilgiyi toplamayız, depolamayız. Gizlilik politikamızı buradan okuyabilirsin.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="You're already connected to this tunnel.">
+      <trans-unit id="You're already connected to this tunnel." approved="yes">
         <source>You're already connected to this tunnel.</source>
-				<target approved="Yes">Zaten bu tünele bağlısın.</target>
+				<target approved="Yes" state="translated">Zaten bu tünele bağlısın.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="You're currently changing countries">
+      <trans-unit id="You're currently changing countries" approved="yes">
         <source>You're currently changing countries</source>
-				<target approved="Yes">Şu anda ülke değiştiriyorsun</target>
+				<target approved="Yes" state="translated">Şu anda ülke değiştiriyorsun</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="You're currently connected to TunnelBear">
+      <trans-unit id="You're currently connected to TunnelBear" approved="yes">
         <source>You're currently connected to TunnelBear</source>
-				<target approved="Yes">Şu anda TunnelBear'e bağlısın</target>
+				<target approved="Yes" state="translated">Şu anda TunnelBear'e bağlısın</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="You're currently disconnected from TunnelBear">
+      <trans-unit id="You're currently disconnected from TunnelBear" approved="yes">
         <source>You're currently disconnected from TunnelBear</source>
-				<target approved="Yes">Şu anda TunnelBear bağlantın kesik</target>
+				<target approved="Yes" state="translated">Şu anda TunnelBear bağlantın kesik</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Your TunnelBear is out of food (data)!">
+      <trans-unit id="Your TunnelBear is out of food (data)!" approved="yes">
         <source>Your TunnelBear is out of food (data)!</source>
-				<target approved="Yes">TunnelBear'inin yiyeceği (verisi) bitti!</target>
+				<target approved="Yes" state="translated">TunnelBear'inin yiyeceği (verisi) bitti!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Your free 1GB has been delivered!">
+      <trans-unit id="Your free 1GB has been delivered!" approved="yes">
         <source>Your free 1GB has been delivered!</source>
-				<target approved="Yes">Ücretsiz 1 GB'ın aktarıldı!</target>
+				<target approved="Yes" state="translated">Ücretsiz 1 GB'ın aktarıldı!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Your location:">
+      <trans-unit id="Your location:" approved="yes">
         <source>Your location:</source>
-				<target approved="Yes">Konumun:</target>
+				<target approved="Yes" state="translated">Konumun:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Your location: %@">
+      <trans-unit id="Your location: %@" approved="yes">
         <source>Your location: %@</source>
-				<target approved="Yes">Konumun: %@</target>
+				<target approved="Yes" state="translated">Konumun: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Your location: %@, %@">
+      <trans-unit id="Your location: %@, %@" approved="yes">
         <source>Your location: %1$@, %2$@</source>
-				<target approved="Yes">Konumun: %1$@, %2$@</target>
+				<target approved="Yes" state="translated">Konumun: %1$@, %2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Your location:\n %@, %@, %@">
+      <trans-unit id="Your location:\n %@, %@, %@" approved="yes">
         <source>Your location:
  %1$@, %2$@, %3$@</source>
-        <target approved="Yes">Konumun:
+        <target approved="Yes" state="translated">Konumun:
  %1$@, %2$@, %3$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="contact support">
+      <trans-unit id="contact support" approved="yes">
         <source>contact support</source>
-				<target approved="Yes">destek ekibine ulaş</target>
+				<target approved="Yes" state="translated">destek ekibine ulaş</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="free 1GB">
+      <trans-unit id="free 1GB" approved="yes">
         <source>free 1GB</source>
-				<target approved="Yes">Ücretsiz 1 GB</target>
+				<target approved="Yes" state="translated">Ücretsiz 1 GB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="here">
+      <trans-unit id="here" approved="yes">
         <source>here</source>
-				<target approved="Yes">buradan</target>
+				<target approved="Yes" state="translated">buradan</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="manual settings">
+      <trans-unit id="manual settings" approved="yes">
         <source>manual settings</source>
-				<target approved="Yes">Manuel ayarlarla</target>
+				<target approved="Yes" state="translated">Manuel ayarlarla</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="onboard_install_profile">
+      <trans-unit id="onboard_install_profile" approved="yes">
         <source>onboard_install_profile</source>
-        <target approved="Yes">onboard_install_profile_tr</target>
+        <target approved="Yes" state="translated">onboard_install_profile_tr</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="onboard_install_profile_ios8">
+      <trans-unit id="onboard_install_profile_ios8" approved="yes">
         <source>onboard_install_profile_ios8</source>
-        <target approved="Yes">onboard_install_profile_ios8_tr</target>
+        <target approved="Yes" state="translated">onboard_install_profile_ios8_tr</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="other apps">
+      <trans-unit id="other apps" approved="yes">
         <source>other apps</source>
-        <target approved="Yes">diğer uygulamaları</target>
+        <target approved="Yes" state="translated">diğer uygulamaları</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Email has not been confirmed">
+      <trans-unit id="Email has not been confirmed" approved="yes">
           <source>Email has not been confirmed</source>
-				<target approved="Yes">E-posta doğrulanmadı</target>
+				<target approved="Yes" state="translated">E-posta doğrulanmadı</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Email is required">
+      <trans-unit id="Email is required" approved="yes">
           <source>Email is required</source>
-				<target approved="Yes">E-posta gerekiyor</target>
+				<target approved="Yes" state="translated">E-posta gerekiyor</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="First name is required.">
+      <trans-unit id="First name is required." approved="yes">
           <source>First name is required.</source>
-				<target approved="Yes">Ad gerekiyor.</target>
+				<target approved="Yes" state="translated">Ad gerekiyor.</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Password is required">
+      <trans-unit id="Password is required" approved="yes">
           <source>Password is required</source>
-				<target approved="Yes">Şifre gerekiyor</target>
+				<target approved="Yes" state="translated">Şifre gerekiyor</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="The password must be at least %lu characters long.">
+      <trans-unit id="The password must be at least %lu characters long." approved="yes">
           <source>The password must be at least %lu characters long.</source>
-				<target approved="Yes">Şifre en az %lu karakter olmalı.</target>
+				<target approved="Yes" state="translated">Şifre en az %lu karakter olmalı.</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="This doesn't look like a valid email.">
+      <trans-unit id="This doesn't look like a valid email." approved="yes">
           <source>This doesn't look like a valid email.</source>
-				<target approved="Yes">Bu geçerli bir e-postaya benzemiyor.</target>
+				<target approved="Yes" state="translated">Bu geçerli bir e-postaya benzemiyor.</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Unable to fetch image">
+      <trans-unit id="Unable to fetch image" approved="yes">
           <source>Unable to fetch image</source>
-				<target approved="Yes">Görüntü sunulamıyor</target>
+				<target approved="Yes" state="translated">Görüntü sunulamıyor</target>
           <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
