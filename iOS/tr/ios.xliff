@@ -10,14 +10,14 @@
         <target approved="Yes" state="translated">Evet</target>
         <note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYk";</note>
       </trans-unit>
-      <trans-unit id="03z-jr-kYk.normalTitleTEST">
+      <trans-unit id="03z-jr-kYk.normalTitleTEST" approved="yes">
         <source>Sure!</source>
-        <note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYkTEST";</note>
+        <target state="translated">Evet</target><note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYkTEST";</note>
       </trans-unit>      
-      <trans-unit id="58M-PZ-Xk3.normalTitle">
+      <trans-unit id="58M-PZ-Xk3.normalTitle" approved="yes">
         <source>Let's Go Tunneling!</source>
 				
-        <note>Class = "UIButton"; normalTitle = "Go Tunneling!"; ObjectID = "58M-PZ-Xk3";</note>
+        <target state="translated">Tünellemeye gidelim!</target><note>Class = "UIButton"; normalTitle = "Go Tunneling!"; ObjectID = "58M-PZ-Xk3";</note>
       </trans-unit>
       <trans-unit id="ajY-lA-uqt.normalTitle" approved="yes">
         <source>Nah</source>
@@ -887,10 +887,10 @@
 				<target approved="Yes" state="translated">Dev TunnelBear</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Go Tunneling!">
+      <trans-unit id="Go Tunneling!" approved="yes">
         <source>Let's Go Tunneling!</source>
 				
-        <note>No comment provided by engineer.</note>
+        <target state="translated">Tünellemeye gidelim!</target><note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Got it" approved="yes">
         <source>Got it</source>
