@@ -16,7 +16,7 @@
 -->
 <resources>
 
-    <string name="registration_error">İnternet bağlantısında hata</string>
+    <string name="registration_error">İnternet bağlantısında hata YYYYYY</string>
     <string name="server_connection_error">Sunucu bağlantısında hata...</string>
     <string name="ok">Tamam</string>
     <string name="megabytes">MB</string>
@@ -24,7 +24,7 @@
     <string name="update_status_error">Tünel açmada hata</string>
     <string name="login">Giriş</string>
     <string name="connecting">Bağlanıyor...</string>
-    <string name="connected">Bağlandı</string>
+    <string name="connected">Nereye bağlandı?</string>
     <string name="disconnected">Bağlantı kesildi</string>
     <string name="first_name">Ad</string>
     <string name="is_this_your_twitter_id">Twitter kullanıcı adın bu mu?</string>
@@ -117,7 +117,7 @@
     <string name="ignored_pushed_routes">Önerilen rotaları yoksay</string>
     <string name="ignore_routes_summary">Sunucunun önerdiği rotaları yoksay.</string>
     <string name="default_route_summary">Bütün Trafik, VPN\'e yönlendirilir</string>
-    <string name="use_default_title">Varsayılan Rotayı kullan</string>
+    <string name="use_default_title">Her zaman varsayılan Rotayı kullan</string>
     <string name="custom_route_message">Özel rota gir. Hedefi CIDR biçiminde gir. "10.0.0.0/8 2002::/16", 10.0.0.0/8 ve 2002::/16 ağlarını VPN\'e yönlendirir.</string>
     <string name="custom_routes_title">Özel Rotalar</string>
     <string name="edit_vpn">VPN Ayarlarını Düzenle</string>
@@ -313,10 +313,13 @@
 
     <string name="contact_support_url" translatable="false">https://www.tunnelbear.com/support/contact.html</string>
     <string name="downgrade_paragraph">Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.</string>
-<string name="submit">Gönder</string>
+<string name="submit">Neyi Gönder?</string>
     <string name="empty_email_prompt">Lütfen e-postanızı giriniz</string>
     <string name="password_reset_email_sent">Şifre yenileme linki şu adrese gönderilecek: %1$</string>
     <string name="remember_your_password">Şifrenizi hatırlıyor musunuz?</string>
     <string name="remember_your_password_content_description">Şifrenizi hatırlıyor musunuz? Aşağıdaki düğmeye tıklayarak giriş yapın.</string>
     <string name="forgot_your_password">Şifrenizi mi unuttunuz?</string>
+    <string name="connected_not">Belki bağlanmadı</string>
+    <string name="submit_then">Neyi Gönder? Neden?</string>
+    <string name="registration_error_new">İnternet bağlantısında hata XXXXXXXXX</string>
     </resources>

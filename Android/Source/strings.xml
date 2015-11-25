@@ -17,16 +17,20 @@
 
 <resources>
 
-    <string name="registration_error">Error connecting to the internet</string>
-    <string name="server_connection_error">Error connecting to server...</string>
+    <string name="registration_error">Error connecting to the internet OOOOOOOOOOmlkmlklmklmklmk lmklmklmklmklmklmklk</string>
+    <string name="registration_error_new">Error connecting to the internet XXXXXXXXX</string>
+    <string name="server_connection_error">Error connecting to server is no updated...</string>
+    <string name="server_connection_error_new">Hello</string>
     <string name="ok">OK</string>
     <string name="megabytes">MB</string>
     <string name="gigabytes">GB</string>
     <string name="update_status_error">Error digging tunnel</string>
     <string name="login">Log In</string>
-    <string name="submit">Submit</string>
+    <string name="submit">Submit what?</string>
+    <string name="submit_then">Submit no, I am not submitting</string>
     <string name="connecting">Connecting...</string>
-    <string name="connected">Connected</string>
+    <string name="connected">Connected to where?</string>
+    <string name="connected_not">Maybe not?</string>
     <string name="disconnected">Disconnected</string>
     <string name="first_name">First Name</string>
     <string name="is_this_your_twitter_id">Is this your Twitter ID?</string>
