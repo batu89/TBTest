@@ -23,8 +23,8 @@
     <string name="server_connection_error_new">Hello</string>
     <string name="ok">OK</string>
     <string name="megabytes">MB</string>
-    <string name="gigabytes">GB</string>
-    <string name="update_status_error">Error digging tunnel</string>
+    <string name="update_status_error">Error digging tunnel demo for Soo</string>
+    <string name="update_status_error_new">Error digging tunnel demo for Soo</string>
     <string name="login">Log In</string>
     <string name="submit">Submit what?</string>
     <string name="submit_then">Submit no, I am not submitting</string>
