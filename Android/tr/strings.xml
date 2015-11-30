@@ -16,12 +16,12 @@
 -->
 <resources>
 
-    <string name="registration_error">İnternet bağlantısında hata YYYYYY</string>
-    <string name="server_connection_error">Sunucu bağlantısında hata...</string>
+    <string name="registration_error">İnternet bağlantısında hata YYYYYY ueaeüeaieaiaiaiaea</string>
+    <string name="server_connection_error">Sunucu bağlantısında hata lmklmklmklklklmklk...</string>
     <string name="ok">Tamam</string>
     <string name="megabytes">MB</string>
     <string name="gigabytes">GB</string>
-    <string name="update_status_error">Tünel açmada hata</string>
+    <string name="update_status_error">Tünel açmada hata Soo</string>
     <string name="login">Giriş</string>
     <string name="connecting">Bağlanıyor...</string>
     <string name="connected">Nereye bağlandı?</string>
@@ -322,4 +322,6 @@
     <string name="connected_not">Belki bağlanmadı</string>
     <string name="submit_then">Neyi Gönder? Neden?</string>
     <string name="registration_error_new">İnternet bağlantısında hata XXXXXXXXX</string>
+    <string name="server_connection_error_new">Merhaba</string>
+    <string name="update_status_error_new">Tünel açmada hata Soo</string>
     </resources>
