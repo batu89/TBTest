@@ -22,7 +22,7 @@
     <string name="megabytes">MB</string>
     <string name="gigabytes">GB</string>
     <string name="update_status_error">Tünel açmada hata Soo</string>
-    <string name="login">Giriş</string>
+    <string name="login">Giriş XXXXXX</string>
     <string name="connecting">Bağlanıyor...</string>
     <string name="connected">Nereye bağlandı?</string>
     <string name="disconnected">Bağlantı kesildi</string>
@@ -324,4 +324,5 @@
     <string name="registration_error_new">İnternet bağlantısında hata XXXXXXXXX</string>
     <string name="server_connection_error_new">Merhaba</string>
     <string name="update_status_error_new">Tünel açmada hata Soo</string>
+    <string name="login_new">Giriş YYYYY</string>
     </resources>
