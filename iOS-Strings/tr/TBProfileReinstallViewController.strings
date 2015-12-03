@@ -1,0 +1,9 @@
+/* Class = "UINavigationItem"; title = "Choose a way to tunnel"; ObjectID = "3GF-DA-YqY"; */
+"3GF-DA-YqY.title" = "Tünel açma yöntemi seç";
+
+/* Class = "UIButton"; normalTitle = "In-App"; ObjectID = "US9-2U-1JM"; */
+"US9-2U-1JM.normalTitle" = "Uygulama içi";
+
+/* Class = "UILabel"; text = "I want to control TunnelBear from within the app (recommended)"; ObjectID = "ZdH-hT-C3L"; */
+"ZdH-hT-C3L.text" = "TunnelBear'i uygulama içinden yönetmek istiyorum (tavsiye edilen)";
+

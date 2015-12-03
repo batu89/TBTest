@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "Go to “Settings” to choose your country and turn VPN on and off."; ObjectID = "0Gj-sl-JBI"; */
+"0Gj-sl-JBI.text" = "Ülkeni seçmek ve VPN'i açmak veya kapatmak için “Ayarlar” menüsüne git.";
+
+/* Class = "UILabel"; text = "You're currently using manual controls."; ObjectID = "JU5-Dk-53I"; */
+"JU5-Dk-53I.text" = "Şu anda manuel kontrolleri kullanıyorsun.";
+
+/* Class = "UIButton"; normalTitle = "Switch to In-App Controls?"; ObjectID = "Scc-ra-AR5"; */
+"Scc-ra-AR5.normalTitle" = "Uygulama içi kontrollere geçilsin mi?";
+
+/* Class = "UINavigationItem"; title = "VPN Settings"; ObjectID = "Xas-B4-C4d"; */
+"Xas-B4-C4d.title" = "VPN Ayarları";
+

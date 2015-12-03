@@ -1,0 +1,15 @@
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "Pne-4F-Pbh"; */
+"Pne-4F-Pbh.text" = "Gizlilik";
+
+/* Class = "UISegmentedControl"; WE8-KB-Whr.segmentTitles[0] = "Full Plans"; ObjectID = "WE8-KB-Whr"; */
+"WE8-KB-Whr.segmentTitles[0]" = "Tam Planlar";
+
+/* Class = "UISegmentedControl"; WE8-KB-Whr.segmentTitles[1] = "For iOS Only"; ObjectID = "WE8-KB-Whr"; */
+"WE8-KB-Whr.segmentTitles[1]" = "Sadece iOS İçin";
+
+/* Class = "UILabel"; text = "Restore Purchases"; ObjectID = "jCX-eZ-T0E"; */
+"jCX-eZ-T0E.text" = "Satın Alımları Geri Yükle";
+
+/* Class = "UINavigationItem"; title = "Get Unlimited Data"; ObjectID = "rtb-3h-X6l"; */
+"rtb-3h-X6l.title" = "Sınırsız Veri Al";
+

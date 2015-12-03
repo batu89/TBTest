@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "We want to make sure we send the free GB to the right person."; ObjectID = "32A-vc-cSB"; */
+"32A-vc-cSB.text" = "We want to make sure we send the free GB to the right person.";
+
+/* Class = "UINavigationItem"; title = "Please enter your Twitter ID"; ObjectID = "3YB-rY-Wxe"; */
+"3YB-rY-Wxe.title" = "Please enter your Twitter ID";
+
+/* Class = "UITextField"; placeholder = "required"; ObjectID = "P75-hz-Z5H"; */
+"P75-hz-Z5H.placeholder" = "required";
+
+/* Class = "UIButton"; normalTitle = "Tweet Now"; ObjectID = "bZr-OZ-SC7"; */
+"bZr-OZ-SC7.normalTitle" = "Tweet Now";
+
+/* Class = "UILabel"; text = "Twitter ID"; ObjectID = "rtA-K4-wBL"; */
+"rtA-K4-wBL.text" = "Twitter ID";

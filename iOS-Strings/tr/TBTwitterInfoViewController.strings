@@ -1,0 +1,21 @@
+/* Class = "UILabel"; text = "The always vigilant TunnelBear team will see you've tweeted."; ObjectID = "LQF-yZ-SMv"; */
+"LQF-yZ-SMv.text" = "Her zaman tetikte olan TunnelBear ekibi tweet attığını görecek.";
+
+/* Class = "UILabel"; text = "Within the hour, your TunnelBear account will have a bonus GB of free data for the month."; ObjectID = "j0W-si-tZI"; */
+"j0W-si-tZI.text" = "Bir saat içinde TunnelBear hesabına bu aylık ekstra 1 GB ücretsiz veri aktarılacak.";
+
+/* Class = "UILabel"; text = "Tweet @theTunnelBear asking for 1 free GB of data."; ObjectID = "mxl-i6-1Fu"; */
+"mxl-i6-1Fu.text" = "@theTunnelBear'e tweet atıp ücretsiz 1 GB verini iste.";
+
+/* Class = "UINavigationItem"; title = "Tweet for a FREE GB!"; ObjectID = "nmI-Ks-9gO"; */
+"nmI-Ks-9gO.title" = "ÜCRETSİZ 1 GB için tweet at!";
+
+/* Class = "UIButton"; accessibilityHint = "Let's do this!"; ObjectID = "uFq-Oi-QlX"; */
+"uFq-Oi-QlX.accessibilityHint" = "Hadi başlayalım!";
+
+/* Class = "UIButton"; accessibilityLabel = "Let's do this!"; ObjectID = "uFq-Oi-QlX"; */
+"uFq-Oi-QlX.accessibilityLabel" = "Hadi başlayalım!";
+
+/* Class = "UIButton"; normalTitle = "Let's do this!"; ObjectID = "uFq-Oi-QlX"; */
+"uFq-Oi-QlX.normalTitle" = "Hadi başlayalım!";
+

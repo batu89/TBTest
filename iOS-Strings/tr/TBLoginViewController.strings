@@ -1,0 +1,36 @@
+/* Class = "UILabel"; text = "Password"; ObjectID = "46"; */
+"46.text" = "Şifre";
+
+/* Class = "UITextField"; accessibilityHint = "Please enter your TunnelBear password"; ObjectID = "47"; */
+"47.accessibilityHint" = "Lütfen TunnelBear şifreni gir";
+
+/* Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "47"; */
+"47.accessibilityLabel" = "Şifre";
+
+/* Class = "UITextField"; placeholder = "required"; ObjectID = "47"; */
+"47.placeholder" = "gerekli";
+
+/* Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "48"; */
+"48.accessibilityLabel" = "E-posta";
+
+/* Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "48"; */
+"48.placeholder" = "ornek@email.com";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "49"; */
+"49.text" = "E-posta";
+
+/* Class = "UILabel"; text = "New to TunnelBear?"; ObjectID = "55"; */
+"55.text" = "TunnelBear'e yeni mi katıldın?";
+
+/* Class = "UIButton"; normalTitle = "Create an account"; ObjectID = "57"; */
+"57.normalTitle" = "Hesap aç";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "58"; */
+"58.normalTitle" = "Giriş";
+
+/* Class = "UIButton"; accessibilityHint = "Opens password reset form in Safari"; ObjectID = "77"; */
+"77.accessibilityHint" = "Şifre sıfırlama formunu Safari'de aç";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "77"; */
+"77.normalTitle" = "Şifreni mi unuttun?";
+

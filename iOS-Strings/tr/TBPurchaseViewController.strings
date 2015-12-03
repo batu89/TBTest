@@ -1,0 +1,24 @@
+/* Class = "UILabel"; text = "Yearly"; ObjectID = "2XY-cC-bu3"; */
+"2XY-cC-bu3.text" = "Yıllık";
+
+/* Class = "UILabel"; text = "Free"; ObjectID = "8Vj-Fx-gOQ"; */
+"8Vj-Fx-gOQ.text" = "Ücretsiz";
+
+/* Class = "UILabel"; text = "Monthly"; ObjectID = "CK8-26-k2m"; */
+"CK8-26-k2m.text" = "Aylık";
+
+/* Class = "UILabel"; text = "For up to 5 computers, phones or tablets"; ObjectID = "Kkn-rl-mak"; */
+"Kkn-rl-mak.text" = "5 tane bilgisayar, telefon, tablet için";
+
+/* Class = "UIButton"; normalTitle = "$$$"; ObjectID = "MKs-Cg-QVV"; */
+"MKs-Cg-QVV.normalTitle" = "$$$";
+
+/* Class = "UILabel"; text = "Save 0%"; ObjectID = "Owc-FT-4oe"; */
+"Owc-FT-4oe.text" = "%0 kâr et";
+
+/* Class = "UILabel"; text = "500 MB Data remaining"; ObjectID = "fRo-l6-Vzu"; */
+"fRo-l6-Vzu.text" = "500 MB veri kaldı";
+
+/* Class = "UIButton"; normalTitle = "$$"; ObjectID = "ypv-f3-lLx"; */
+"ypv-f3-lLx.normalTitle" = "$$";
+
