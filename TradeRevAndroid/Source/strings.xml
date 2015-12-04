@@ -5,9 +5,10 @@
 
     <!-- General -->
     <string name="ok">OK Test</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Cancel UPdated</string>
     <string name="blank"></string>
-    <string name="yes">Yes</string>
+    <string name="yes">Yes Updated !</string>
+    <string name="yes_new">Yes new Updated !</string>
     <string name="no">No</string>
     <string name="pending">Pending</string>
     <string name="kms">kms</string>
