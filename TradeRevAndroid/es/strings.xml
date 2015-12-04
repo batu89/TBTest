@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+
+    <string name="app_name">TradeRev</string>
+
+    <!-- General -->
+    <string name="ok">Vale</string>
+    <string name="cancel">Cancelar</string>
+    <string name="blank"></string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="pending">Pendiente</string>
+    <string name="kms">kms</string>
+    <string name="mi">mi</string>
+    <string name="search">Búsqueda de</string>
+    <string name="alerts">Alertas</string>
+    <string name="go_to_activity">Ir a todas las actividades</string>
+    <string name="search_header">Resultados de la búsqueda:</string>
+    <string name="capture">Captura de</string>
+    <string name="start_recording">Iniciar grabación</string>
+    <string name="stop_recording">Parada</string>
+    <string name="new_activity">Nueva actividad</string>
+    <string name="update_required">Requerida actualización</string>
+    <string name="explain_update">Una actualización de la aplicación es necesaria para seguir usando TradeRev.</string>
+    <string name="update">Actualización</string>
+    <string name="unknown">Desconocido</string>
+    <string name="away_in">en</string>
+
+    <!-- Settings -->
+    <string name="settings">Configuración</string>
+    <string name="settings_username">Nombre de usuario</string>
+    <string name="settings_password">Contraseña</string>
+    <string name="settings_server_url">Dirección URL del servidor</string>
+    <string name="settings_reset_data">Datos de RESET</string>
+    <string name="settings_device_id">Identificador del dispositivo de</string>
+    <string name="settings_version_id">Versión de la aplicación</string>
+    <string name="provision_me">Solicitar provisión</string>
+    <string name="provision_me_full">Dispositivo de TradeRev solicitud de aprovisionamiento</string>
+
+    <!-- Activities -->
+    <string name="new_bids_received">nuevas ofertas recibidas</string>
+    <string name="activity_list_empty">No ha habido ninguna actividad para mostrar</string>
+
+    <!-- Trade States -->
+    <string name="active">Activo</string>
+    <string name="parked">Estacionado</string>
+    <string name="closing">Cierre</string>
+    <string name="won">Ganó</string>
+    <string name="arrived">Llegó</string>
+    <string name="delivered">Entregado</string>
+    <string name="lost">Perdido</string>
+    
+    <!-- BrowserActivity -->
+    <string name="refresh">Actualización</string>
+    <string name="back">Atrás</string>
+    <string name="forward">Hacia adelante</string>
+
+    <!-- SplashActivity -->
+    <string name="login_success">Éxito de inicio de sesión</string>
+    <string name="login_failed">Fallado el login</string>
+    <string name="login_failed_message">Por favor revise su nombre de usuario y contraseña.</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Tabs -->
+    <string name="dash">Tablero</string>
+    <string name="sell">Venta</string>
+    <string name="buy">Compro</string>
+    <string name="trades">Oficios</string>
+    <string name="create">Crear</string>
+
+    <!-- Dash -->
+    <string name="dash_activity">Actividad</string>
+    <string name="dash_closing">Cierre</string>
+    <string name="dash_profile">Perfil</string>
+    <string name="dash_reports">Informes</string>
+    <string name="dash_tutorial">Tutorial</string>
+
+    <!-- Profile -->
+    <string name="profile_rin">RIN:</string>
+    <string name="profile_dealer_number">Número de distribuidor:</string>
+    <string name="profile_tax_number">Número fiscal:</string>
+    <string name="profile_email">Correo electrónico:</string>
+    <string name="profile_notes">Notas:</string>
+    <string name="profile_address">Dirección:</string>
+
+    <!-- Reports -->
+    <string name="reports_performance">Rendimiento</string>
+    <string name="reports_closing_ratio">Relación de cierre</string>
+    <string name="reports_closing_rank">Cierre de la fila</string>
+    <string name="reports_buyer_rank">Rango de comprador</string>
+    <string name="reports_average_selling_price">Precio de venta promedio</string>
+    <string name="reports_average_acv">ACV promedio</string>
+    <string name="reports_trade_totals_to_date">Comercio totales hasta la fecha</string>
+    <string name="reports_won">Ganó</string>
+    <string name="reports_arrived">Llegó</string>
+    <string name="reports_delivered">Entregado</string>
+    <string name="reports_total_won_dollars">Won\nDollars total</string>
+    <string name="reports_total_arrived_dollars">Arrived\nDollars total</string>
+    <string name="reports_total_delivered_dollars">Delivered\nDollars total</string>
+    <string name="reports_average_trade_buying_price">Precio de compra promedio del comercio</string>
+    <string name="reports_failed_title">No se pudo calcular informes</string>
+
+    <!-- Loading Messages -->
+    <string name="loading_trades">Operaciones de carga...</string>
+    <string name="loading_trade">Carga del comercio...</string>
+    <string name="performing_bid">Haciendo una oferta...</string>
+    <string name="processing">Procesamiento de...</string>
+    <string name="loading_bid_list">Historial de pujas de carga...</string>
+    <string name="buffering">Almacenamiento en búfer...</string>
+    <string name="loading_carproof">Informe de carga...</string>
+    <string name="searching">Buscando...</string>
+    <string name="exploding_vin">Explosión de VIN...</string>
+    <string name="creating_trade">Creación de comercio...</string>
+    <string name="editing_trade">Edición de comercio...</string>
+    <string name="updating">Actualizando...</string>
+    <string name="processing_media">Procesamiento de Multimedia...</string>
+    <string name="rating">Valorar...</string>
+
+    <!-- Trade Details -->
+    <string name="bid">Oferta</string>
+    <string name="details">Datos de</string>
+    <string name="details_title">Datos de comercio</string>
+    <string name="details_current_highest_bid">Puja más alta actual:</string>
+    <string name="details_your_bid">Su oferta:</string>
+    <string name="details_min">Min.</string>
+    <string name="detils_bid_history">Historial de las pujas</string>
+    <string name="details_photo">Foto</string>
+    <string name="details_photo_plural">Fotos</string>
+    <string name="details_video">Video</string>
+    <string name="details_video_plural">Videos</string>
+    <string name="details_disclosures">Información a revelar</string>
+    <string name="details_options">Opciones</string>
+    <string name="details_vehicle_history">Historia del vehículo</string>
+    <string name="details_vehicle_condition">Estado del vehículo</string>
+    <string name="details_vehicle_declaration">Declaración de vehículo</string>
+    <string name="confirm_quick_bid">¿Está seguro de que desea a Quickbid % a?</string>
+    <string name="confirm_bid">¿Está seguro de que desea oferta % a?</string>
+    <string name="bid_list_title">Historial de las pujas</string>
+    <string name="media_view_title">Comercial Multimedia</string>
+    <string name="details_multimedia">Multimedia</string>   
+    <string name="damage_view_title">Daños de comercio</string>
+    <string name="details_damage_image">Daños y perjuicios</string>
+    
+    <string name="damage_image_type1">Vidrio</string>
+    <string name="damage_image_type2">Campana</string>
+    <string name="damage_image_type3">Techo</string>
+    <string name="damage_image_type4">Rueda</string>
+    <string name="damage_image_type5">Frente interior</string>
+    <string name="damage_image_type6">Interior trasero</string>
+    <string name="damage_image_type7">Frontal (capó, parachoques)</string>
+    <string name="damage_image_type8">Parte trasera (tapa de baúl, paragolpes)</string>
+    <string name="damage_image_type9">Puerta (delantera izquierda/derecha)</string>
+    <string name="damage_image_type10">Puerta (trasera izquierda)</string>
+    <string name="damage_image_type11">Fender (frontal izquierdo/derecho)</string>
+    <string name="damage_image_type12">Cuarto Panel (trasera izquierda)</string>
+    <string name="damage_image_type13">Luces (cabeza, cola, indicadores)</string>
+    <string name="damage_image_type14">ADVERTENCIA luces/racimo del tablero</string>
+    <string name="damage_image_type15">Otros (Rips, consola, etc.)</string>
+    
+    <string name="damage_image_t_type1">Vidrio</string>
+    <string name="damage_image_t_type2">Campana</string>
+    <string name="damage_image_t_type3">Techo</string>
+    <string name="damage_image_t_type4">Rueda</string>
+    <string name="damage_image_t_type5">Interior...</string>
+    <string name="damage_image_t_type6">Interior...</string>
+    <string name="damage_image_t_type7">Frente...</string>
+    <string name="damage_image_t_type8">Parte trasera...</string>
+    <string name="damage_image_t_type9">Puerta...</string>
+    <string name="damage_image_t_type10">Puerta...</string>
+    <string name="damage_image_t_type11">Fender...</string>
+    <string name="damage_image_t_type12">Cuarto...</string>
+    <string name="damage_image_t_type13">Luces...</string>
+    <string name="damage_image_t_type14">Tablero...</string>
+    <string name="damage_image_t_type15">Otros...</string>
+
+    <!-- Trade Fields -->
+    <string name="trade_model_year">Año modelo</string>
+    <string name="trade_make">Hacer</string>
+    <string name="trade_model">Modelo</string>
+    <string name="trade_vin">VIN</string>
+    <string name="trade_mileage">Kilometraje</string>
+    <string name="trade_passengers">Pasajeros</string>
+    <string name="trade_exterior_color">Color exterior</string>
+    <string name="trade_interior_color">Color interior</string>
+    <string name="trade_transmission">Transmisión</string>
+    <string name="trade_cylinders">Cilindros de</string>
+    <string name="trade_has_accident">Tiene accidente</string>
+    <string name="trade_repainted">Trabajos de pintura previa</string>
+    <string name="trade_dealer">Distribuidor</string>
+    <string name="trade_date_expected">Fecha de espera</string>
+    <string name="trade_carproof">Historial del vehículo</string>
+    <string name="trade_notes">Notas</string>
+    <string name="trade_sunroof">Techo corredizo</string>
+    <string name="trade_leather">Cuero</string>
+    <string name="trade_keyless_entry">Entrada sin llave</string>
+    <string name="trade_heated_seats">Asientos con calefacción</string>
+    <string name="trade_air_conditioning">Aire acondicionado</string>
+    <string name="trade_navigation">Navegación</string>
+    <string name="trade_two_keys">Dos juegos de llaves</string>
+    <string name="trade_has_book">Tiene libros</string>
+    <string name="trade_power_windows">Ventanas eléctricas</string>
+    <string name="trade_alloy_wheels">Llantas de aleación</string>
+    <string name="trade_dvd">DVD</string>
+    <string name="trade_snow_tires">Neumáticos de nieve</string>
+    <string name="trade_power_locks">Cerraduras de la energía</string>
+    <string name="trade_out_of_province_vehicle">De estado/Prov. Vehículo</string>
+    <string name="trade_us_vehicle">Vehículo de los Estados Unidos</string>
+    <string name="trade_daily_rental">Alquiler diario</string>
+    <string name="trade_fire_damaged">Incendio dañada</string>
+    <string name="trade_immersed_in_water">Sumergido en el agua</string>
+    <string name="trade_police_cruiser">Crucero policial</string>
+    <string name="trade_emerg_services">Vehículo de los servicios de emergencia</string>
+    <string name="trade_taxi">Taxi / limusina</string>
+    <string name="trade_airbag_missing">Bolsas de aire que falta / Inoperable</string>
+    <string name="trade_anti_lock_missing">Frenos antibloqueo Inoperable</string>
+    <string name="trade_odometer_replaced">Odómetro deshace / sustituido</string>
+    <string name="trade_theft_recovery">Recuperación de robo</string>
+    <string name="trade_total_loss">Pérdida total por la aseguradora</string>
+    <string name="trade_warranty_cancelled">Garantía de Manufacturer\ cancelada</string>
+    <string name="trade_damage_exceeding">Daño previo superior a $3000</string>
+    <string name="trade_decals_changed">Calcomanías de Manufacturer\ cambiadas</string>
+    <string name="trade_specs_changed">Especificaciones originales cambiadas</string>
+    <string name="trade_engine_needs_repair">Motor necesita reparación</string>
+    <string name="trade_suspension_needs_repair">Suspensión / bastidor necesita reparación</string>
+    <string name="trade_tanny_needs_repair">Transmisión necesita reparación</string>
+    <string name="trade_fuel_needs_repair">Sistema de combustible necesita reparación</string>
+    <string name="trade_power_train_needs_repair">Tren de potencia necesita reparación</string>
+    <string name="trade_computer_needs_repair">Equipo necesita reparación</string>
+    <string name="trade_electric_needs_repair">Sistema eléctrico necesita reparación</string>
+    <string name="trade_air_cond_needs_repair">Aire acondicionado necesita reparación</string>
+    <string name="trade_stuctural_damage">Piezas estructurales dañados/alterados/reparado</string>
+    <string name="trade_windshield_condition">Condición de parabrisas</string>
+    <string name="trade_windshield_chipped_drivers">Parabrisas: Astillado (de Driver\ lado)</string>
+    <string name="trade_windshield_chipped_passengers">Parabrisas: Astillado (lado de Passenger\)</string>
+    <string name="trade_windshield_cracked">Parabrisas: agrietado</string>
+    <string name="trade_windshield_normal">Normal de parabrisas</string>
+    <string name="trade_windshield_chipped_drivers_short">Astillas (de Driver\ lado)</string>
+    <string name="trade_windshield_chipped_passengers_short">Astillas (lado de Passenger\)</string>
+    <string name="trade_windshield_cracked_short">Agrietado</string>
+    <string name="trade_windshield_normal_short">Normal</string>
+    <string name="trade_tire_condition">Condición del neumático</string>
+    <string name="trade_tire_need_1">Necesita 1 neumático</string>
+    <string name="trade_tire_need_2">Necesita 2 neumáticos</string>
+    <string name="trade_tire_need_3">Tiene 3 llantas</string>
+    <string name="trade_tire_need_4">Tiene 4 neumáticos</string>
+    <string name="trade_tire_passed_safety">Llantas pasan seguridad</string>
+    <string name="trade_tire_good">Llantas buenas</string>
+    <string name="trade_original_owner">Propietario original</string>
+    <string name="trade_origin_vin">Placa de VIN de fabricante original</string>
+    <string name="trade_accident_brand">Marca de accidente</string>
+    <string name="trade_accident_brand_none">Accidente marca: ninguno</string>
+    <string name="trade_accident_brand_rebuild">Accidente marca: reconstruir</string>
+    <string name="trade_accident_brand_salvage">Accidente marca: salvamento</string>
+    <string name="trade_accident_brand_irreparable">Accidente marca: Irreparable</string>
+    <string name="trade_accident_brand_none_short">Ninguno</string>
+    <string name="trade_accident_brand_rebuild_short">Reconstrucción</string>
+    <string name="trade_accident_brand_salvage_short">Salvage</string>
+    <string name="trade_accident_brand_irreparable_short">Irreparables</string>
+    <string name="trade_vehicle_lien">Embargo de vehículo</string>
+    <string name="trade_salesperson">Vendedor</string>
+    <string name="trade_title_in_hand">Título en la mano</string>
+    <string name="trade_title_not_in_hand">Título no en mano</string>
+    <string name="trade_location">Ubicación</string>
+    <string name="trade_distance">Distancia</string>
+    <string name="trade_camvap_or_lemon">CAMVAP / Lemon Law</string>
+    <string name="trade_lemon">Ley de limón</string>
+
+    <!-- Transmission Types -->
+    <string name="automatic">Automático</string>
+    <string name="manual">Manual</string>
+    <string name="semi_automatic">Semi-automatica</string>
+
+    <!-- Carproof Types -->
+    <string name="carproof_none">Ninguno</string>
+    <string name="carproof_verified">CarProof verificado</string>
+    <string name="carproof_verified_price">CarProof verificado ($41,50)</string>
+    <string name="carproof_verified_price_bc">CarProof verificado ($69,95)</string>
+    <string name="carproof_claims">Reclamaciones de CarProof</string>
+    <string name="carproof_claims_price">Reclamaciones de CarProof ($26,50)</string>
+    <string name="carproof_claims_price_bc">Reclamaciones de CarProof ($54,95)</string>
+
+    <!-- Create -->
+    <string name="create_vin">Exploración de VIN</string>
+    <string name="create_details">Datos de</string>
+    <string name="create_options">Opciones</string>
+    <string name="create_disclosures">Información a revelar</string>
+    <string name="create_multimedia">Multimedia</string>
+    <string name="create_notes">Notas</string>
+    <string name="create_confirm">Confirmar</string>
+    <string name="title_activity_main_nav">MainNavActivity</string>
+    <string name="action_settings">Configuración</string>
+    <string name="in_app_browser">Explorador</string>
+
+    <!-- Error Messages -->
+    <string name="error_trade_load_failed">Error al cargar el comercio</string>
+    <string name="error_trades_load_failed">No se pudo cargar oficios</string>
+    <string name="please_try_again_later">Por favor Inténtalo más tarde.</string>
+    <string name="bid_failed">Oferta no pudo</string>
+    <string name="min_bid">Mínimo de puja es %</string>
+    <string name="enter_valid_bid">Por favor introduzca una oferta válida</string>
+    <string name="action_failed">Acción no se pudo</string>
+    <string name="mark_arrived_valid_price">Introduce un precio válido</string>
+    <string name="mark_arrived_valid_mileage">Por favor introduzca kilometraje válido</string>
+    <string name="mark_arrived_valid_fees">Introduce cuotas válidas</string>
+    <string name="mark_delivered_valid_price">Introduce un precio de venta vigente</string>
+    <string name="mark_delivered_valid_rating">Indique al comprador.</string>
+    <string name="mark_closing_valid_acv">Introduce un ACV válido</string>
+    <string name="fetch_bid_list_error">Error al cargar el historial de las pujas</string>
+    <string name="multimedia_load_failed">No se pudo cargar Multimedia</string>
+    <string name="carproof_load_failed">Error al cargar el informe</string>
+    <string name="search_failed">No se encontraron resultados búsqueda</string>
+    <string name="failed_camera_access">No acceso a cámara</string>
+    <string name="vin_ex_failed">Explotar VIN</string>
+    <string name="invalid_vin">VIN no válido</string>
+    <string name="general_create_failed">Por favor verificar su entrada e inténtalo de nuevo más tarde.</string>
+    <string name="launch_failed">Error al iniciar el comercio.</string>
+    <string name="park_failed">No Parque comercio</string>
+    <string name="edit_failed">No se pudo editar comercio</string>
+    <string name="image_capture_failed">No se pudo procesar imagen</string>
+    <string name="failed_loading_video_camera">Puede no acceso a cámara de vídeo</string>
+    <string name="media_upload_failed">No se pudo subir Multimedia</string>
+    <string name="damage_image_load_failed">No se pudo cargar daños</string>
+    
+    <!-- Confirmation Dialogs -->
+    <string name="confirm_action">Confirmar acción</string>
+    <string name="confirm_mark_lost">¿Está seguro que desea marcar este comercio perdidos?</string>
+    <string name="confirm_relaunch">¿Está seguro que desea relanzar este comercio?</string>
+    <string name="mark_arrived">Mark llegó</string>
+    <string name="mark_arrived_price">Precio:</string>
+    <string name="mark_arrived_mileage">Kilometraje:</string>
+    <string name="mark_arrived_fees">Honorarios:</string>
+    <string name="mark_delivered">Entrega de marca</string>
+    <string name="mark_delivered_price">Precio de venta:</string>
+    <string name="close_trade">Cerca de comercio</string>
+    <string name="close_trade_acv">ACV:</string>
+    <string name="confirm_impound">¿Está seguro que desea confiscados este comercio?</string>
+    <string name="confirm_trade_launch">¿Está seguro que desea ejecutar este comercio?</string>
+    <string name="confirm_trade_park">¿Está seguro que desea aparcar este comercio?</string>
+    <string name="confirm_edit">¿Está seguro que desea editar este comercio?</string>
+    <string name="confirm_edit_with_negotiation">¿Está seguro que desea editar este comercio? \n\n allí es una pendiente necesita más negociación. Edición podría restablecer esto.</string>
+    <string name="rate_buyer">Tasa al comprador:</string>
+    <string name="comments">Comentario:</string>
+    <string name="confirm_retry">¿Te gustaría intentarlo? Si no, se perderá todos multimedia.</string>
+    <string name="retry">Vuelva a intentarlo</string>
+
+    <!-- Validation -->
+    <string name="validation_failed">Error de validación</string>
+    <string name="validation_vin">VIN debe ser exactamente 17 caracteres alfanuméricos.</string>
+    <string name="validation_model_year">Introduce un año modelo válido.</string>
+    <string name="validation_make">Por favor seleccione un fabricante.</string>
+    <string name="validation_model">Introduce el modelo del vehículo.</string>
+    <string name="validation_mileage">Escriba una cuenta válida de kilometraje.</string>
+    <string name="validation_passengers">Por favor seleccione el número de pasajeros.</string>
+    <string name="validation_ext_color">Por favor seleccione el color exterior del vehículo.</string>
+    <string name="validation_int_color">Por favor seleccione el color interior del vehículo.</string>
+    <string name="validation_cylinders">Por favor seleccione el número de cilindros.</string>
+    <string name="validation_salesperson">Por favor seleccione el vendedor valorar.</string>
+    <string name="validation_windshield">Por favor seleccione el estado del parabrisas.</string>
+    <string name="validation_tire">Por favor seleccione el estado del neumático.</string>
+    <string name="validation_accident_brand">Por favor seleccione la marca de accidente.</string>
+    <string name="validation_date_expected">Por favor escriba la fecha esperada.</string>
+    <string name="validation_date_expected_min">Fecha esperada debe ser al menos 7 días a partir de ahora.</string>
+    <string name="validation_image_count">Por favor captura al menos una imagen.</string>
+
+    <!-- Trade Create -->
+    <string name="duplicate_vin">Duplicar VIN</string>
+    <string name="edit_mode_enabled">Edición se ha habilitado el modo.</string>
+    <string name="step_2">Paso 2 de 7</string>
+    <string name="step_3">Paso 3 de 7</string>
+    <string name="step_4">Paso 4 de 7</string>
+    <string name="step_5">Paso 5 de 7</string>
+    <string name="step_6">Paso 6 de 7</string>
+    <string name="step_7">Paso 7 de 7</string>
+   	<string name="step_2_of_8">Paso 2 de 8</string>
+    <string name="step_3_of_8">Paso 3 de 8</string>
+    <string name="step_4_of_8">Paso 4 de 8</string>
+    <string name="step_5_of_8">Paso 5 de 8</string>
+    <string name="step_6_of_8">Paso 6 de 8</string>
+    <string name="step_7_of_8">Paso 7 de 8</string>
+    <string name="step_8_of_8">Paso 8 de 8</string>
+    <string name="details_caps">DATOS DE</string>
+    <string name="options_caps">Opciones</string>
+    <string name="disclosures_caps">INFORMACIÓN A REVELAR</string>
+    <string name="multimedia_caps">MULTIMEDIA</string>
+    <string name="notes_caps">NOTAS</string>
+    <string name="confirm_caps">CONFIRMAR</string>
+    <string name="tap_select">&lt; tap para seleccionar &amp;gt;</string>
+    <string name="vehicle_history">Historia del vehículo</string>
+    <string name="vehicle_condition">Estado del vehículo</string>
+    <string name="photos">Fotos</string>
+    <string name="generalPhotos">Fotos de general</string>
+    <string name="damagePhotos">Fotos de daños</string>
+    <string name="videos">Videos</string>
+
+    <!-- Notifications -->
+    <string name="notif_trade_created">Nuevo comercio</string>
+    <string name="notif_bid_placed">Oferta nuevo</string>
+    <string name="notif_trade_acquired">Comercio adquirido</string>
+    <string name="notif_trade_arrived">Comercio llegó</string>
+    <string name="notif_trade_edited">Información de comercio cambiado</string>
+    <string name="notif_trade_lost">Comercio perdido</string>
+    <string name="notif_outbid">Sobrepujado en comercio</string>
+    <string name="notif_trade_outbid">Sobrepuja y perdido</string>
+    <string name="notif_trade_won">Comercio ganó</string>
+    <string name="notif_auction_expire">Subasta caducado</string>
+    <string name="notif_trade_relaunch">Comercio relanzado</string>
+    <string name="notif_trade_closing">Comercio de cierre</string>
+    <string name="notif_trade_is_closing">Subasta es en cierre</string>
+    <string name="notif_trade_closing_ending">Período de cierre de la subasta se termina pronto</string>
+    <string name="notif_trade_bid_closing">Nueva oferta en cierre</string>
+    <string name="notif_vin_duplicate">Duplicar el comercio puso en marcha</string>
+    <string name="notif_rating">Nueva clasificación de</string>
+    <string name="notif_perfect_rating">Calificación perfecta!</string>
+    <string name="notif_bid_bucket">Nuevas ofertas recibidas</string>
+
+    <!-- Text input Hints -->
+    <string name="hint_mileage">kilometraje</string>
+    <string name="hint_model">modelo</string>
+    <string name="hint_model_year">año modelo</string>
+
+    <!-- Ratings -->
+    <string name="rate_view_title">Vendedor de tipo:</string>
+    <string name="rate_appraisal">El avalúo por la tarifa</string>
+    <string name="rate_transaction">La experiencia de la transacción con la tarifa</string>
+    <string name="rate_leave_comment">Deja un Comentario:</string>
+    <string name="rate_choose_stars">Por favor elija una calificación de estrellas. 5 estrellas siendo la experiencia más positiva.</string>
+    <string name="rating_complete_both">Por favor complete la transacción y la valoración de calificaciones.</string>
+    <string name="rate_failed">No se pudo a vendedor</string>
+
+    <!-- Chat -->
+    <string name="validation_carproof">Por favor seleccione un tipo de informe de historial de vehículo.</string>
+    <string name="loading_chat">Cargando Q&amp;A...</string>
+    <string name="error_loading_chat">Error al cargar Q&amp;A</string>
+    <string name="question">Pregunta</string>
+    <string name="ask">Preguntar</string>
+    <string name="chat">Q&amp;A</string>
+    <string name="chat_hisotry">Historia de Q&amp;A</string>
+    <string name="ask_question">Pregunta</string>
+    <string name="posting_question">Publicar pregunta...</string>
+    <string name="posting_response">Publicar respuesta...</string>
+    <string name="rejecting_question">Rechazar la pregunta...</string>
+    <string name="question_failed">No se pudo publicar la pregunta</string>
+    <string name="response_failed">No se pudo enviar respuesta</string>
+    <string name="response_hint">Respuesta</string>
+    <string name="answer">Respuesta</string>
+    <string name="respond_public">Público</string>
+    <string name="reject_question">Rechazar</string>
+    <string name="X">X</string>
+    <string name="respond_private">Privado</string>
+    <string name="pending_questions_title">Preguntas pendientes</string>
+    <string name="broadcast">Difusión</string>
+    <string name="buyer">Comprador</string>
+    <string name="notif_chat_activity">Nueva actividad de Q&amp;A</string>
+    <string name="question_is_rejected">Esta cuestión ha sido rechazada por el vendedor.</string>
+    <string name="click_to_answer">HAGA CLIC AQUÍ PARA RESPUESTA</string>
+    <string name="confirm_response">¿Está seguro que desea enviar esta respuesta?</string>
+    <string name="confirm_reject">¿Está seguro de que desea rechazar esta pregunta?</string>
+    <string name="confirm_broadcast">¿Realmente que desea registrar esta emisión?</string>
+    <string name="confirm_question">¿Está seguro que desea hacer esta pregunta?</string>
+    <string name="chat_disclaimer">Debates de Q&amp;A no aparece en la factura de venta - ver política de arbitraje de TradeRev\</string>
+
+    <!-- Time -->
+    <string name="just_now">Ahora</string>
+    <string name="ago">hace</string>
+    <string name="second">segundo</string>
+    <string name="minute">minutos</string>
+    <string name="hour">hora</string>
+    <string name="day">día</string>
+    <string name="week">semana</string>
+    <string name="month">mes</string>
+    <string name="year">año</string>
+    <string name="decade">década</string>
+
+    <!-- Proxy Bidding -->
+    <string name="proxy_bid">Oferta proxy</string>
+    <string name="create_proxy_bid">Crear su oferta de Proxy</string>
+    <string name="enter_your_bid">Ingrese su oferta</string>
+    <string name="enter_your_proxy">Ingrese el monto de su proxy</string>
+    <string name="proxy_disclaimer">Éste es el máximo que está dispuesto a pujar. Su poder es definitiva y vinculante y no se puede deshacer, pero puede aumentar a su poder en cualquier momento.</string>
+    <string name="bid_and_proxy">Oferta y Proxy</string>
+    <string name="proxy_bidder_proxy_reached">El Proxy tiene cumplido</string>
+
+    <!-- Bidding -->
+    <string name="bid_err_no_auction">No se puede hacer una oferta. Subasta ha finalizado.</string>
+    <string name="bid_err_closing">El comercio es en cierre. Sólo oferentes de dos pueden hacer una oferta.</string>
+    <string name="bid_err_dealer_proxy">Esta subasta tiene un proxy activo. Distribuidores son incapaces de hacer una oferta.</string>
+    <string name="min_proxy">Mínimo Proxy es %</string>
+    <string name="your_proxy">Su Proxy</string>
+    <string name="confirm_proxy_bid">¿Está seguro que desea colocar esta oferta de @1 y proxy de @2?</string>
+    <string name="bid_err_equals_proxy">Alguien ha puesto ya una cantidad de proxy de % a.</string>
+    <string name="inspection_request_notif">Inspección solicitada</string>
+    <string name="inspection_complete_notif">Inspección completado</string>
+    <string name="shipping_request_notif">Envío solicitado</string>
+    <string name="shipping_pickup_notif">Envío recogido</string>
+    <string name="shipping_quote_returned_notif">Envío cotización volvió</string>
+    <string name="shipping_quote_request_notif">Envío cotización solicitada</string>
+    <string name="shipping_quote_decision_notif">Envío cotización decisión</string>
+    <string name="shipping_ready_notif">Lista de envío para el transporte</string>
+    <string name="shipping_complete_notif">Transporte de envío completado</string>
+    <string name="youve_been_outbid">Vivido ha sobrepujado.</string>
+
+    <string name="bid_err_arrived_limit">Has superado el número máximo de transacciones permitidas en llegado, licitación ha sido deshabilitada.</string>
+    <string name="payment_initiated_notif">Pago iniciado</string>
+    <string name="payment_deposited_notif">Pago depositado</string>
+    <string name="payment_received_notif">Pago recibido</string>
+    <string name="payment_failed_notif">Pago error</string>
+    <string name="whats_new">What\ de nuevo</string>
+    <string name="loading_whats_new">Carga de what\ nuevo</string>
+    <string name="close">Cerrar</string>
+    
+    <string name="payment_error">Error de pago</string>
+    <string name="stripe_error_message">Por favor, compruebe su configuración de pago e inténtelo de nuevo.</string>
+    
+    <string name="confirm_proxy_increase">¿Está seguro que desea aumentar a su poder a @1?</string>
+    <string name="confirm_proxy_include">¿Está seguro que desea incluir a un proxy de @1?</string>
+    <string name="edit_proxy_bid">Modificar su oferta Proxy</string>
+    <string name="current_proxy">servidor proxy actual es %</string>
+    
+    <string name="accept_button">Aceptar</string>
+	<string name="counter_button">Contador</string>
+	<string name="comment_need_more">Comentario</string>
+	<string name="amount_need_more">Cantidad</string>
+	<string name="need_more">Necesita más</string>
+	<string name="req_how_much_msg">Preguntar el vendedor, ¿cuánto necesita vender el comercio?...</string>
+	<string name="accept_alert_title">¿Aceptar la oferta actual?</string>
+	<string name="reject_alert_title">¿Rechazar la oferta?</string>
+	<string name="reject_alert_msg">¿Está seguro de que desea rechazar esta oferta?</string>
+	<string name="processing_proposal">Propuesta de elaboración...</string>
+	<string name="missing_info">Falta de información</string>
+	<string name="missing_info_msg">La cantidad debe ser mayor que </string>
+	<string name="amount_entered_title">Cantidad está vacía</string>
+	<string name="amount_entered_msg">Por favor introduzca y cantidad.</string>
+	<string name="confirm_more_title">¿Confirmar la necesidad de más?</string>
+	<string name="confirm_more_msg">¿Está seguro que desea pedir más? (Se le cobrará un cargo por servicio)</string>
+	<string name="accepting_proposal">Aceptando la propuesta...</string>
+	<string name="rejecting_proposal">Rechaza propuesta...</string>
+	<string name="how_much_text">¿Cuánto necesita hacer su negocio?</string>
+	<string name="dealer_need_more_notif">Distribuidor necesita más para vender comercio</string>
+	<string name="buyer_how_much_notif">Licitador superior quiere ofrecer más</string>
+	<string name="need_more_accepted_notif">La oferta de propuestas ha sido aceptada</string>
+	<string name="need_more_rejected_notif">La oferta de propuestas ha sido rechazada</string>
+	<string name="need_more_countered_notif">Contraoferta a la propuesta</string>
+	<string name="rejected_text">OFERTA RECHAZADA:</string>
+	<string name="need_more_reject_dealer_msg">Al rechazar esta oferta, todas las negociaciones se detendrá y usted perderá su oferta superior.  Debe relanzar para vender este comercio.  ¿Está seguro de que desea rechazar esta oferta?</string>
+	<string name="need_more_reject_buyer_buyer_msg">Si rechazas esta oferta, usted no será capaz de ganar esta subasta sin pasar por cierre. ¿Está seguro de que desea rechazar esta oferta?</string>
+	<string name="need_more_wrong_increment_over">Cantidades sobre $3000 deben ser en incrementos de $250</string>
+	<string name="need_more_wrong_increment_under">Cantidades deberán ser en incrementos de $50</string>
+    
+    <string name="reports_performance_window">Rendimiento: 45-días</string>
+	<string name="reports_trade_totals_window">Comercio total: 45 días</string>
+	<string name="reports_performance_all_time">Funcionamiento: Todos los tiempos</string>
+	<string name="reports_trade_totals_all_time">Estadísticas totales de comercio: Todos los tiempos</string>
+	<string name="reports_all_time">Media: Todos los tiempos</string>
+	<string name="reports_window">Promedio: 45 días</string>
+    
+	<!-- Multiple Selling Network -->
+    <string name="trade_selling_network">Venta de red</string>
+	<string name="trade_selling_network_default">Por defecto</string>
+	<string name="trade_list_sell_to">Red</string>
+	<string name="network_no_buyers_title">RED DE VACÍO</string>
+	<string name="network_no_buyers_msg">Hay no hay compradores en la red seleccionada</string>
+    
+    <!-- floor plan financing -->
+    <string name="floor_plan_approved_notif">Financiamiento aprobado</string>
+	<string name="floor_plan_rejected_notif">Financiación rechazada</string>
+	<string name="floor_plan_docs_req_notif">Documentos requeridos para la financiación de</string>
+	<string name="floor_plan_docs_rejected_notif">Documentos de financiamiento rechazado</string>
+	<string name="floor_plan_funds_ready_notif">Fondos listos para la transferencia de</string>
+    
+	<string name="wizard.networks.history">Historia de lanzamiento</string>
+	<string name="need_more_dealer_confirm">ADVERTENCIA! \nBy presentar esta propuesta entiende que: \n\n1.  Usted perderá su capacidad para cerrar el comercio (incluso si no hay respuesta) \n2.  Si su propuesta es aceptada, el comercio se mueve directamente en el estado de ganado (sin período de cierre) y una cuota de $30,00 aparecerán en su próximo invoice\n3.  Si rechazas cualquier contraoferta, el comercio se mueve directamente en estado perdido sin posibilidad de un período de cierre.¿\n\nare que usted desea presentar esta propuesta?</string>
+	<string name="need_more_reject_msg">Si usted rechaza esta propuesta no será capaz de empezar otro. ¿Está seguro de que desea rechazarlo?</string>
+	<string name="need_more_close_reject">Hay una negociación pendiente para esta subasta. Debe rechazar la oferta para cerrar esta subasta.</string>
+	<string name="need_more_close_alert">Hay una negociación pendiente para esta subasta. Está seguro que desea cerrar esta subasta.</string>
+	<string name="need_more_incorrect_amount">Cantidad incorrecta</string>
+	
+	<string name="create_network">Red</string>
+	<string name="network_caps">RED DE VENTA</string>
+	<string name="launch_history_caps">HISTORIA DE LANZAMIENTO</string>
+	<string name="validation_select_network">Por favor, seleccione la red desea lanzar este comercio.</string>
+	<string name="notifiable_deviceTestNotif_alert_body">Notificación de Traderev</string>
+	
+	<string name="transactional_rating_comment">Para las transacciones nominales menos de 4 estrellas, proporcione por favor un comentario.</string>
+	<string name="appraisal_rating_comment">Para calificaciones de evaluación menos de 4 estrellas, proporcione por favor un comentario.</string>
+	<string name="need_more_reject_dealer_buyer_msg">Al rechazar esta oferta usted perderá su oferta superior y el comercio se marcará LOST.</string>
+	
+	<string name="need_more_stay">Firma de alojarte</string>
+	<string name="need_more_stay_comment">No puedo ir más que mi parte superior original oferta.</string>
+	
+	<!-- New Aug 15 - Nagger-->
+	<string name="attention">ATENCIÓN</string>
+	
+	<string name="support">Apoyo</string>
+	<string name="loading_support">Soporte de carga</string>
+	
+	<!-- New Sept 16 -->
+	<string name="transactionservices_required">EFT activa a los compradores sólo</string>
+	<string name="transactionservices_click_here">Haga clic aquí para activar esta característica!</string>
+	
+	<string name="tsach_approved_notif">Financiamiento aprobado</string>
+	<string name="tsach_rejected_notif">Financiación rechazada</string>
+	<string name="tsach_docs_req_notif">Documentos requeridos para la financiación de</string>
+	<string name="tsach_docs_rejected_notif">Documentos de financiamiento rechazado</string>
+	<string name="tsach_funds_ready_notif">Fondos listos para la transferencia de</string>
+	
+	<string name="mark_lost_from_won">¿Realmente que desea marcar este comercio perdido? Se le cobrará $250. (Si no han llegado en la posesión del vehículo, póngase en contacto con su representante de venta)</string>
+	<string name="relaunch_from_won">¿Está seguro que desea salvar y relanzar este comercio? Se le cobrará $250.</string>
+	<string name="save_from_won">¿Está seguro que desea ahorrar? Si lo hace un relanzamiento se le cobrará $250.</string>
+	
+	<!-- New Oct 14 -->
+	<string name="windshield_na">Parabrisas: N/A</string>
+	<string name="tire_condition_na">Neumático condiciones: n / a</string>
+	<string name="accident_brand_na">Accidente marca: n / a</string>
+	<string name="as_is">AS-ES</string>
+	
+	<!-- New Oct 21 -->
+    <string name="trade_drivetrain">Transmisión</string>
+    <string name="trade_engine_displacement">Desplazamiento</string>
+    <string name="trade_fuel_type">Tipo de combustible</string>
+    <string name="trade_power_seats">Asientos eléctricos</string>
+    <string name="hint_drivetrain">transmisión, por ejemplo. RWD</string>
+    <string name="hint_engine_displacement">desplazamiento, por ejemplo. 4.6 L</string>
+    <string name="hint_fuel_type">tipo de combustible, por ejemplo. Gasolina</string>
+    <string name="validation_drivetrain">Introduce la transmisión.</string>
+    <string name="validation_engine_displacement">Introduce el desplazamiento.</string>
+    <string name="validation_fueltype">Por favor, introduzca el tipo de combustible.</string>
+	<string name="confirm_payment_account">Confirmar cuenta de pago</string>
+	<string name="loading">Cargando...</string>
+	<string name="confirm_payment_account_failed">No se pudo confirmar la cuenta de pago</string>
+	<string name="dismiss">Despedir</string>
+	
+	<!-- New Oct 22 -->
+	<string name="trade_engine_type">Tipo de motor</string>
+	<string name="wizard.prompt.as_is_on_year">Este comercio se ha definido como un \"AS-IS\" el comercio es de más de 10 años. Esto puede ser desactivado en la sección de detalles del vehículo</string>
+	<string name="wizard.prompt.as_is_on_mileage">Este comercio se ha definido como un \"AS-IS\" el comercio como el vehículo más de 200, 000KM/124, 000MI. Esto puede ser desactivado en la sección de detalles del vehículo</string>
+	<string name="wizard.prompt.as_is_off">Este comercio no es un \"AS-IS\" comercio.</string>
+	<string name="wizard.prompt.as_is_switched_off">Este comercio se ha actualizado para no \"AS-IS\" sabiendo que el vehículo es mayor de 10 años o más de 200, 000KM/124, 000MI. Esto puede ser encendido en la sección de detalles del vehículo</string>
+	<string name="wizard.prompt.as_is_switched_on">Este comercio se ha actualizado para \"AS-IS\". Esto puede ser desactivado en la sección de detalles del vehículo.</string>
+	<string name="wizard.prompt.title">ADVERTENCIA</string>
+	<string name="filter">Filtro</string>
+	
+	<!-- New Oct 23 -->
+	<string name="enable_payments_subject">Gustaría habilitar ePayments</string>
+	<string name="enable_payments_heading">Activar ePayments (EFT):</string>
+	<string name="enable_payments_details">Contactar con el soporte de TradeRev para configurar ePayments.</string>
+	<string name="deposit_confirmation_heading">Confirmación de depósito:</string>
+	<string name="deposit_confirmation_details">Recientemente te enviamos un depósito de 1 centavo en tu cuenta bancaria. Por favor haga clic en confirmar si han recibido este depósito para permitir ePayments (EFT).</string>	
+	<string name="payment_email_chooser_heading">Enviar correo electrónico para EFT</string>
+	<string name="deposit_processing_message">¡ Gracias por registrarse en ePagado! Actualmente estamos procesando su petición. Compruebe por favor detrás más adelante para confirmar tu cuenta.</string>	
+	<string name="deposit_not_found">Te don\ ' t ver el depósito</string>	
+	<string name="payment_account_confirm_success">Gracias por confirmar el depósito directo.</string>	
+	
+	<!-- New Oct 27 -->
+	<string-array name="fuel_types">
+	 	<item>Gasolina</item>
+        <item>Diesel</item>
+        <item>Combustible de la flexión</item>
+        <item>Híbrido</item>
+        <item>Eléctrica</item>
+        <item>Alternativa</item>
+    </string-array>
+    
+	<!-- new Oct 31 -->
+	<string name="damage_view_images_absent_text">No hay fotos de daños</string>
+	<string name="validation_damage_image_count_launch">¿Está seguro que desea lanzar este comercio ahora sin daños fotos?</string>
+	<string name="validation_damage_image_count_park">¿Está seguro que desea aparcar este comercio ahora sin daños fotos?</string>
+	<string name="validation_damage_image_count_edit">¿Está seguro que desea seguir editando el comercio sin incluir daños fotos?</string>
+		
+	<!-- New Nov 7th -->
+	<string name="error">Error</string>
+	<string name="privacy_policy_load_failed">Error al cargar la política de privacidad. Por favor Inténtalo más tarde.</string>
+	<string name="privacy_policy_accept_failed">No se pudo confirmar la aceptación de la política de privacidad. Por favor Inténtalo más tarde.</string>
+	
+	<!-- new Nov 24 -->
+	<string name="title_activity_client_support">ClientSupportActivity</string>
+	<string name="client_support_cancel">Cancelar</string>
+	<string name="client_support_switch_user">Uso del conmutador de</string>
+	<string name="client_support_user_search_hint">Buscar por nombre u organización</string>
+	<string name="client_support_user_current_user">Usuario actual:</string>
+	<string name="client_support_user_text">Cliente soporte usuario:</string>
+	<string name="client_support_confirm_switch_user">Confirmar usuario del conmutador</string>
+	<string name="client_support_confirm_switch_user_message">¿Está seguro que desea cambiar de usuario?</string>
+	<string name="client_support_confirm_switch_user_message_n">¿Son los seguro te don\ ' t desea cambiar de usuario?</string>
+
+	<!-- New Nov 13th -->
+	<string name="error_mark_trade_delivered_vin_mismatch">El VIN analizado no coincide con el vehículo que está intentando marcar entregado. Por favor, asegúrese de que va a escanear el vehículo correcto.</string>
+	<string name="error_mark_delivered_error_buyer_proximity">Vehículo no fuera de dealer\ venta y no se marcará como entregado. Póngase en contacto con TradeRev.</string>
+	<string name="error_mark_delivered_location_service_diabled">Parece que han cambiado los "servicios de ubicación" y no permite aplicaciones conseguir su ubicación aproximada. Para marcar el comercio entregado por favor habilitarlo por el momento.</string>
+	<string name="error_mark_delivered_location_service_not_accurate_kitkat">Parece que usted no deje aplicaciones para usar el wifi o red para obtener su ubicación aproximada. Para marcar el comercio entregado por favor elige el modo de "Alta precisión" por el momento.</string>
+	<string name="error_mark_delivered_location_service_not_accurate_old">Parece que usted no deje aplicaciones para usar el wifi o red para obtener su ubicación aproximada. Para marcar el comercio entregado encienda el "Servicio de ubicación de Google" por el momento.</string>
+	<string name="error_mark_delivered_open_settings">No se ha podido comprobar si "Location Service" está encendido o no. Consulte la "configuración" antes de proceder. Vaya a "Configuración"-&gt; "Ubicación" y permitir que las aplicaciones utilizar "Ubicación de red móvil de Wi-Fi &amp;".</string>
+	<string name="error_internet_connectivity">No se puede conectar a internet. Por favor, compruebe su conexión y vuelva a intentarlo.</string>
+	<string name="loader_marking_delivered">Intentar marcar el vehículo entregado...</string>
+	
+	<string name="notif_buyer_req_mark_delivered">Confirmar o discutir la entrega del vehículo</string>
+	<string name="notif_trade_delivered">Comercio entregado</string>
+	<string name="notif_trade_delivery_disputed">Entrega del vehículo se disputa</string>
+	
+	<!-- new Nov 26 -->
+	<string name="dealer_group_switch_dealer">Distribuidor de interruptor</string>
+	<string name="dealer_group_search_hint">Búsqueda por organización</string>
+	<string name="dealer_group_current_user">Usuario actual:</string>
+	<string name="dealer_group_user_text">Distribuidor grupo usuario:</string>
+	<string name="dealer_group_confirm_switch_dealer">Confirmar distribuidor de interruptor</string>
+	<string name="dealer_group_confirm_switch_dealer_message">¿Está seguro que desea cambiar de concesionario?</string>
+	<string name="dealer_group_confirm_switch_dealer_message_n">¿Son los seguro te don\ ' t desea cambiar de concesionario?</string>
+	
+	<string name="confirm_delivery">Confirmar entrega</string>
+	<string name="dispute">Controversia</string>
+	<string name="loader_dispute">Marca la entrega según lo disputado...</string>
+	<string name="error_mark_dispute">No se puede marcar la entrega según lo disputado. Por favor Inténtalo más tarde.</string>
+	<string name="msg_confirm_dispute_vehicle_delivery">El comprador ha marcado este vehículo entregado. Por favor confirmar o disputa. Si no se toman medidas del vehículo se marcará como entregado en 24 horas.</string>
+	<string name="error_confirm_delivery">Error al intentar confirmar la entrega del vehículo. Por favor Inténtalo más tarde.</string>
+
+	<!-- new Dec 3 -->
+	<string name="bbg_expired">Caducado</string>
+	<string name="bbg_order_exp">Exp. </string>
+	<string name="bbg_available">Disponible</string>
+	<string name="bbg_pending">Reclamación pendiente</string>
+	<string name="bbg_pending_payment">Pago pendiente</string>
+	<string name="bbg_approved">Reclamo aprobado</string>
+	<string name="bbg_denied">Reclamación denegada</string>	
+	
+	<string name="notif_bbg_accepted">Comprar nuevo aceptado</string>
+	<string name="notif_bbg_rejected">Comprar nuevamente rechazada</string>
+	
+	<!-- new December 10 -->
+	<!-- Error messages returned for REST call for sendTradeToState -->
+	<string name="error_trade_change_state_authentication_failure">No se pudo cambiar el estado del comercio debido a la falta de autenticación.</string>
+	<string name="error_trade_change_state_internal_error">No se pudo cambiar el estado del comercio debido a un error interno. Por favor Inténtalo más tarde.</string>
+	<string name="error_trade_change_state">No se pudo cambiar el estado del comercio. Por favor Inténtalo más tarde.</string>
+	<string name="error_trade_change_state_pending_inspection">El comercio tiene una inspección pendiente y no se puede mover al nuevo estado.</string>
+	<string name="error_trade_change_state_wrong_network_dealer">No se pudo cambiar el estado del comercio como la red de venta no pertenece al vendedor.</string>
+	<string name="error_trade_change_state_wrong_init_state">No se puede mover el comercio al nuevo estado de este estado.</string>
+	<string name="error_trade_change_state_incomplete_params">No se pudo cambiar el estado del comercio como algunos parámetros requeridos no pasaron.</string>
+	<string name="error_trade_change_state_not_allowed">No se pudo cambiar el estado del comercio como su no permitidos.</string>	
+	<string name="error_trade_change_state_trade_not_exits">No se pudo cambiar el estado del comercio como el comercio no existe.</string>	
+	
+	<!-- new Dec 29, 2014 -->
+	<string name="push_to_auction_send_to_adesa">Enviar a ADESA</string>
+	<string name="consigned">Consignado</string>
+	<string name="to_adesa">A ADESA</string>
+	<string name="push_to_auction_default">Por defecto</string>
+	<string name="push_to_auction_free">Gratis</string>
+	<string name="push_to_auction_confirm_action">Confirmar acción</string>
+	<string name="push_to_auction_comfirm_dialog">Está seguro que desea enviar este vehículo a</string>
+	<string name="push_to_auction_details">Oficios en ADESA</string>
+	
+	<string name="push_to_auction_details_pickup_date">Est. Fecha de recogida</string>
+	<string name="push_to_auction_details_location">Ubicación de ADESA</string>
+	<string name="push_to_auction_details_status">Estado en ADESA</string>
+	<string name="push_to_auction_details_results">Resultados ADESA</string>
+	
+	<string name="push_to_auction_status_request">Envío a la espera</string>
+	<string name="push_to_auction_status_pending">Envío a la espera</string>
+	<string name="push_to_auction_status_pickup">Esperar para correr</string>
+	<string name="push_to_auction_status_auctioned">Subasta</string>
+	<string name="push_to_auction_status_sold">Vendido</string>
+	<string name="push_to_auction_status_not_sold">No se vende</string>
+	<string name="push_to_auction_pending_string">Pendiente</string>
+	<string name="error_confirm_push_to_adesa">Error al enviar el tráfico a ADESA. Por favor Inténtalo más tarde.</string>	
+	
+	<string name="push_to_auction_enroll">Inscribirse</string>
+	<string name="push_to_auction_enroll_message">Que no ha inscrito todavía en enviar al programa de ADESA. Haga clic en Inscríbase a continuación a solicitud de la matrícula para esta función.</string>
+	<string name="push_to_auction_enroll_send">Enviar solicitud</string>
+	<string name="push_to_auction_enroll_send_message">Con éxito se envía solicitud para inscribirse. Por favor, comuníquese con su representante de venta para verificar el estado de su inscripción.</string>
+	<string name="push_to_auction_enroll_send_error">Petición no se pudo</string>
+	<string name="push_to_auction_enroll_send_error_message">Solicitud para inscribirse falló. ¿Te gustaría intentarlo?</string>
+	<string name="push_to_auction_enroll_retry">Vuelva a intentarlo</string>
+	<string name="loader_adesa_enrollment">Tratando de solicitar la inscripción...</string>
+	<string name="push_to_auction_no_location">Su distancia a un lugar de ADESA no es dentro de gama. Por favor, póngase en contacto con su agente de ventas o support@traderev.com para solicitar el apoyo para esta función.</string>
+	<string name="push_to_auction_disclaimer">* (Gastos de subasta ADESA estándar son aplicables)</string>
+	<string name="push_to_auction_choose_location">Seleccione ubicación de ADESA</string>
+
+	<string name="delete">Eliminar</string>
+	<string name="retake">Retomar</string>
+
+	<!-- User Activities -->
+    <string name="userActivity_alert_message_ClosingPeriodEndingNotif">Terminando pronto</string>
+    <string name="userActivity_alert_message_RelaunchNotif">Comercio relanzado</string>
+    <string name="userActivity_alert_message_UserNotBidDuringClosingNotif">No haber una oferta!</string>
+    <string name="userActivity_alert_message_AcquireTradeNotif">Comercio adquirido</string>
+    <string name="userActivity_alert_message_ArriveTradeNotif">Comercio llegó</string>
+    <string name="userActivity_alert_message_BidTradeNotif">Oferta nuevo</string>
+    <string name="userActivity_alert_message_ClosingLoserNotif">Sobrepuja y perdido</string>
+    <string name="userActivity_alert_message_ClosingTradeNotif">Comercio de cierre</string>
+    <string name="userActivity_alert_message_CreateTradeNotif">Nueva subasta</string>
+    <string name="userActivity_alert_message_EditTradeNotif">Comercial actualizado</string>
+    <string name="userActivity_alert_message_LostTradeNotif">Comercio perdido</string>
+    <string name="userActivity_alert_message_TradeOutbidNotif">Nueva puja superior</string>
+    <string name="userActivity_alert_message_WonTradeNotif">Has ganado!</string>
+    <string name="userActivity_alert_message_ReacquireTradeNotif">Comercio adquirido</string>
+    <string name="userActivity_alert_message_BidDuringClosingNotif_TYPE_OUTBID">Sobrepujado en cierre</string>
+    <string name="userActivity_alert_message_BidDuringClosingNotif_TYPE_DEALER_USER">Oferta cierre</string>
+    <string name="userActivity_alert_message_BidDuringClosingNotif_ExtendsAuction_TYPE_BIDDER">Cierre extendido</string>
+    <string name="userActivity_alert_message_BidDuringClosingNotif_ExtendsAuction_TYPE_OUTBID">Cierre extendido</string>
+    <string name="userActivity_alert_message_BidDuringClosingNotif_ExtendsAuction_TYPE_DEALER_USER">Cierre extendido</string>
+    <string name="userActivity_alert_message_RatingNotif">Nueva clasificación de recibido</string>
+    <string name="userActivity_alert_message_RatingPerfectNotif">Calificación perfecta!</string>
+    <string name="userActivity_alert_message_ChatNotif">Nueva actividad de Chat</string>
+    <string name="userActivity_alert_message_ProxyBidderOutbidNotif">Proxy de sobrepuja</string>
+    <string name="userActivity_alert_message_ProxyBidderProxyReachedNotif">Proxy alcanzada</string>
+    <string name="userActivity_alert_message_InspectionRequestNotif">Inspección ordenada</string>
+    <string name="userActivity_alert_message_InspectionCompleteNotif">Inspección completado</string>
+    <string name="userActivity_alert_message_ShipmentQuoteRequestNotif">Envío cotización solicitada</string>
+    <string name="userActivity_alert_message_ShipmentQuoteReturnedNotif">Envío cotización volvió</string>
+    <string name="userActivity_alert_message_ShipmentQuoteDecisionNotif">Envío cotización decisión</string>
+    <string name="userActivity_alert_message_ShipmentPickupNotif">Envío recogido</string>
+    <string name="userActivity_alert_message_ShipmentCompleteNotif">Envío completado</string>
+    <string name="userActivity_alert_message_floorPlan_docsRejected">Documentos rechazados</string>
+    <string name="userActivity_alert_message_floorPlan_docsReq">Documentos solicitados</string>
+    <string name="userActivity_alert_message_floorPlan_fundingReady">Fondos listos</string>
+    <string name="notifiable_paymentInitiated_alert_body">Pago Iniciado por el ganador</string>
+    <string name="notifiable_paymentReceived_alert_body">Pago recibido</string>
+    <string name="notifiable_paymentDeposited_alert_body">Pago depositado</string>
+    <string name="notifiable_paymentFailed_alert_body">Pago fallido</string>
+    <string name="notifiable_needMoreTopBidderStart_alert_body">Licitador superior quiere ofrecer más</string>
+    <string name="notifiable_needMoreDealerStart_alert_body">Distribuidor necesita más para vender comercio</string>
+    <string name="notifiable_needMoreProposalCounter_alert_body">Contraoferta a la propuesta</string>
+    
+    <string name="reachability_no_internet">Parece que no está conectado a internet. Conéctese para proceder.</string>
+    <string name="reachability_traderev_maintenance">We\ está ocupado actualizando TradeRev para usted y regresará pronto. Gracias por su paciencia.</string>
+
+    <!-- pta drop off -->
+    <string name="push_to_auction_choose_location_m">Por favor seleccione la opción de precio que desea elegir.</string>
+    <string name="pta_ship_to_adesa">Enviar a ADESA estimación</string>
+    <string name="pta_drop_off_at_adesa">Entrega en ADESA</string>
+    <string name="pta_adesa_100">$100</string>
+    <string name="pta_adesa_credit">Crédito ADESA</string>
+    <string name="push_to_auction_disclaimer_1">* (Gastos de envío reales se confirmará por ADESA en el momento de la reserva)</string>
+    
+    <!-- pta update -->
+    <string name="push_to_auction_details_com">Enlace ADESA</string>
+    <string name="push_to_auction_details_view_in_adesa">Haga clic aquí</string>
+    <string name="push_to_auction_details_cost">Estimación de envío</string>
+    <string name="push_to_auction_details_run_date">Subasta fecha de ejecución</string>
+    
+    <!-- April 2, 2015 - Date Landed -->
+    <string name="trade_date_landed">Fecha aterrizada</string>
+    
+    <!-- May 6,2015 - Video Timer -->
+    <string name="video_time">30</string>
+
+    <!-- May 7, 2015 - Need More Update -->
+    <string name="need_more_stay_msg">Está seguro de que desea permanecer firme en el</string>
+    <string name="need_more_stay_msg_2">Si el vendedor se niega, el comercio se perderá.</string>
+    <string name="accept_alert_msg">Al aceptar esta propuesta, este comercio se mueve directamente en el estado de ganado y se aplicará una tarifa de $30,00 a cuenta de Seller\.\n\nAre seguro de que desea aceptar la oferta de</string>
+	<string name="accept_alert_msg_buyer">Al aceptar esta propuesta, este comercio se mueve directamente en el estado de ganado.\n\nAre seguro de que desea aceptar la oferta de</string>
+	<string name="need_more_proposal_confirm">Está seguro que desea contrarrestar con</string>
+	<string name="need_more_accept_confirm">Al aceptar esta propuesta, este comercio se mueve directamente en el estado de ganado y se aplicará una tarifa de $30,00 a cuenta de Seller\.\n\nAre seguro de que desea aceptar la oferta de</string>
+    
+    <!-- May 19, 2015 - Loading CSU user list -->
+    <string name="loading_csu_list">Cargando lista de usuarios</string>
+
+    <!-- May 22 Signature -->
+    <string name="signature_text_profile">Firma</string>
+    <string name="title_activity_signature_capture">Captura de firma</string>
+	<string name="clear_signature">Claro</string>
+	<string name="save_signature">Guardar</string>
+	<string name="draw_signatue">Dibujar su firma a continuación</string>
+	<string name="signature_agreement">Al prestar su firma a TradeRev en la siguiente pantalla usted acepta: \n\n1. Autorizar TradeRev para almacenar la firma electrónica como parte de su perfil de usuario o el perfil de su dealership\.\n\n2. Autorizar el TradeRev aplicar su firma electrónica en archivo, o la firma firma de la autoridad en el archivo de su concesionario, a facturas de venta de su dealership\. Que, al aceptar para utilizar su firma electrónica o firma firma de autoridad de su dealership\, en una transacción factura, usted acepta que la firma electrónica aplicada es el equivalente legal de una firma manual. Para cumplir con los términos y condiciones y política de arbitraje de TradeRev\.</string>
+	<string name="mark_arrived_confirmation">¿Está seguro que desea marcar este comercio llegó y firmar la factura?</string>
+	<string name="message_mark_delivered_buyer_confirm">¿Realmente que desea marcar este comercio entregado y firmar la factura?</string>
+	<string name="message_alert_signature_capture_title">Captura de firma</string>
+	<string name="agree">Estoy de acuerdo</string>
+	<string name="success">Éxito</string>
+	<string name="error_signature_update_login">Lo sentimos, hemos podido actualizar su firma. Por favor, inténtelo de nuevo. Puede ir a Dash-&gt; perfil y agregar o editar tu firma.</string>
+	<string name="error_signature_update">Lo sentimos, hemos podido actualizar su firma. Por favor, inténtelo de nuevo.</string>
+	<string name="success_signature_capture">Su firma fue capturada con éxito. Usted puede editar su firma de los Dash-&gt; perfil.</string>
+	<string name="progress_signature_capture">Ahorro de firma...</string>
+	<string name="bid_err_no_signature">No se puede hacer una oferta. Ya sea don\ ' t tener una firma o la empresa no tiene una firma designada a la cuenta. Por favor captura la firma de la persona autorizada que puede firmar para una factura en la aplicación de TradeRev. Esto puede hacerse entrando en el tablero-&gt; perfil en la aplicación.</string>
+	<string name="error_mark_arrived_signature">Llegó el error de la marca. O don\ ' t tener una firma o el distribuidor no tiene una firma designada a la cuenta. Por favor captura la firma de la persona autorizada que puede firmar para una factura en la aplicación de TradeRev. Esto puede hacerse entrando en el tablero-&gt; perfil en la aplicación.</string>
+	<string name="error_buyer_mark_delivered_signature">Error de la marca entregados. Ya sea don\ ' t tener una firma o la empresa no tiene una firma designada a la cuenta. Por favor captura la firma de la persona autorizada, que puede firmar para una factura en la aplicación de TradeRev. Esto puede hacerse entrando en el tablero-&gt; perfil en la aplicación</string>
+	<string name="error_saving_empty_signature">Lo sentimos, hemos podido salvar la firma. Por favor, dibujar su firma e inténtelo de nuevo.</string>
+    <string name="edit_signature"><u>Editar firma</u></string>
+
+    <!-- July 15, 2015 Deactivated login message -->
+    <string name="deactivated_account">Cuenta desactivada</string>
+    <string name="deactivated_invoice">Se ha podido iniciar sesión ya que esta cuenta tiene facturas vencidas. Para volver a activar, entra en la web y pagar las facturas pendientes.</string>
+    <string name="deactivated_subscription">Se ha podido iniciar sesión ya que esta cuenta fue cancelada a petición. Para volver a activar, entra en la web y activar esta cuenta.</string>
+
+    <!-- July 17, 2015 Multiple Dealer Addresses-->
+    <string name="validation_dealer_address">Por favor, seleccione una dirección.</string>
+    <string name="bad_provision_phone_message">Actualmente está intentando añadir un teléfono en forma de tabletas - utilice el tipo de dispositivo y número de teléfono correcto al agregar dispositivos.</string>
+    <string name="bad_provision_tablet_message">Actualmente se está intentando añadir una tableta como teléfono-utilice el tipo correcto de dispositivo al agregar dispositivos.</string>
+    <string name="unregistered_device_message">Debe agregar un dispositivo a su cuenta antes de iniciar sesión.  Visite su \'My Account\' Página para agregar un dispositivo.</string>
+
+</resources>

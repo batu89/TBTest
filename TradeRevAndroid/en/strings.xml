@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TradeRev</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="blank"></string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="pending">Pending</string>
+    <string name="kms">kms</string>
+    <string name="mi">mi</string>
+    <string name="search">Search</string>
+    <string name="alerts">Alerts</string>
+    <string name="go_to_activity">Go To All Activity</string>
+    <string name="search_header">Search Results For:</string>
+    <string name="capture">Capture</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop</string>
+    <string name="new_activity">New Activity</string>
+    <string name="update_required">Update Required</string>
+    <string name="explain_update">An application update is required to continue using TradeRev.</string>
+    <string name="update">Update</string>
+    <string name="unknown">Unknown</string>
+    <string name="away_in">away in</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="settings_username">Username</string>
+    <string name="settings_password">Password</string>
+    <string name="settings_server_url">Server URL</string>
+    <string name="settings_reset_data">Reset Data</string>
+    <string name="settings_device_id">Device Identifier</string>
+    <string name="settings_version_id">App Version</string>
+    <string name="provision_me">Request Provisioning</string>
+    <string name="provision_me_full">Request TradeRev Device Provisioning</string>
+
+    <!-- Activities -->
+    <string name="new_bids_received">new bids received</string>
+    <string name="activity_list_empty">There has been no activity to display</string>
+
+    <!-- Trade States -->
+    <string name="active">Active</string>
+    <string name="parked">Parked</string>
+    <string name="closing">Closing</string>
+    <string name="won">Won</string>
+    <string name="arrived">Arrived</string>
+    <string name="delivered">Delivered</string>
+    <string name="lost">Lost</string>
+    
+    <!-- BrowserActivity -->
+    <string name="refresh">Refresh</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+
+    <!-- SplashActivity -->
+    <string name="login_success">Login Success</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="login_failed_message">Please review your username and password.</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Tabs -->
+    <string name="dash">Dash</string>
+    <string name="sell">Sell</string>
+    <string name="buy">Buy</string>
+    <string name="trades">Trades</string>
+    <string name="create">Create</string>
+
+    <!-- Dash -->
+    <string name="dash_activity">Activity</string>
+    <string name="dash_closing">Closing</string>
+    <string name="dash_profile">Profile</string>
+    <string name="dash_reports">Reports</string>
+    <string name="dash_tutorial">Tutorial</string>
+
+    <!-- Profile -->
+    <string name="profile_rin">RIN:</string>
+    <string name="profile_dealer_number">Dealer Number:</string>
+    <string name="profile_tax_number">Tax Number:</string>
+    <string name="profile_email">Email:</string>
+    <string name="profile_notes">Notes:</string>
+    <string name="profile_address">Address:</string>
+
+    <!-- Reports -->
+    <string name="reports_performance">Performance</string>
+    <string name="reports_closing_ratio">Closing Ratio</string>
+    <string name="reports_closing_rank">Closing Rank</string>
+    <string name="reports_buyer_rank">Buyer Rank</string>
+    <string name="reports_average_selling_price">Average Selling Price</string>
+    <string name="reports_average_acv">Average ACV</string>
+    <string name="reports_trade_totals_to_date">Trade Totals-To-Date</string>
+    <string name="reports_won">Won</string>
+    <string name="reports_arrived">Arrived</string>
+    <string name="reports_delivered">Delivered</string>
+    <string name="reports_total_won_dollars">Total Won\nDollars</string>
+    <string name="reports_total_arrived_dollars">Total Arrived\nDollars</string>
+    <string name="reports_total_delivered_dollars">Total Delivered\nDollars</string>
+    <string name="reports_average_trade_buying_price">Average Trade Buying Price</string>
+    <string name="reports_failed_title">Failed to Calculate Reports</string>
+
+    <!-- Loading Messages -->
+    <string name="loading_trades">Loading Trades&#8230;</string>
+    <string name="loading_trade">Loading Trade&#8230;</string>
+    <string name="performing_bid">Bidding&#8230;</string>
+    <string name="processing">Processing&#8230;</string>
+    <string name="loading_bid_list">Loading Bid History&#8230;</string>
+    <string name="buffering">Buffering&#8230;</string>
+    <string name="loading_carproof">Loading Report&#8230;</string>
+    <string name="searching">Searching&#8230;</string>
+    <string name="exploding_vin">Exploding VIN&#8230;</string>
+    <string name="creating_trade">Creating Trade&#8230;</string>
+    <string name="editing_trade">Editing Trade&#8230;</string>
+    <string name="updating">Updating&#8230;</string>
+    <string name="processing_media">Processing Multimedia&#8230;</string>
+    <string name="rating">Rating&#8230;</string>
+
+    <!-- Trade Details -->
+    <string name="bid">Bid</string>
+    <string name="details">Details</string>
+    <string name="details_title">Trade Details</string>
+    <string name="details_current_highest_bid">Current Highest Bid:</string>
+    <string name="details_your_bid">Your Bid:</string>
+    <string name="details_min">Min.</string>
+    <string name="detils_bid_history">bid history</string>
+    <string name="details_photo">Photo</string>
+    <string name="details_photo_plural">Photos</string>
+    <string name="details_video">Video</string>
+    <string name="details_video_plural">Videos</string>
+    <string name="details_disclosures">Disclosures</string>
+    <string name="details_options">Options</string>
+    <string name="details_vehicle_history">Vehicle History</string>
+    <string name="details_vehicle_condition">Vehicle Condition</string>
+    <string name="details_vehicle_declaration">Vehicle Declaration</string>
+    <string name="confirm_quick_bid">Are you sure you want to Quickbid for %@?</string>
+    <string name="confirm_bid">Are you sure you want to Bid for %@?</string>
+    <string name="bid_list_title">Bid History</string>
+    <string name="media_view_title">Trade Multimedia</string>
+    <string name="details_multimedia">Multimedia</string>   
+    <string name="damage_view_title">Trade Damages</string>
+    <string name="details_damage_image">Damages</string>
+    
+    <string name="damage_image_type1">Glass</string>
+    <string name="damage_image_type2">Hood</string>
+    <string name="damage_image_type3">Roof</string>
+    <string name="damage_image_type4">Wheel</string>
+    <string name="damage_image_type5">Interior Front</string>
+    <string name="damage_image_type6">Interior Rear</string>
+    <string name="damage_image_type7">Front (Hood, Bumper)</string>
+    <string name="damage_image_type8">Rear (Trunk Lid/Bumper)</string>
+    <string name="damage_image_type9">Door (Front Left/Right)</string>
+    <string name="damage_image_type10">Door (Rear Left/Right)</string>
+    <string name="damage_image_type11">Fender (Front left/right)</string>
+    <string name="damage_image_type12">Quarter Panel (Rear Left/Right )</string>
+    <string name="damage_image_type13">Lights (Head, Tail, Indictors)</string>
+    <string name="damage_image_type14">Dash Warning Lights/Cluster</string>
+    <string name="damage_image_type15">Others (Rips, Console, etc)</string>
+    
+    <string name="damage_image_t_type1">Glass</string>
+    <string name="damage_image_t_type2">Hood</string>
+    <string name="damage_image_t_type3">Roof</string>
+    <string name="damage_image_t_type4">Wheel</string>
+    <string name="damage_image_t_type5">Interior..</string>
+    <string name="damage_image_t_type6">Interior..</string>
+    <string name="damage_image_t_type7">Front..</string>
+    <string name="damage_image_t_type8">Rear..</string>
+    <string name="damage_image_t_type9">Door..</string>
+    <string name="damage_image_t_type10">Door..</string>
+    <string name="damage_image_t_type11">Fender..</string>
+    <string name="damage_image_t_type12">Quarter..</string>
+    <string name="damage_image_t_type13">Lights..</string>
+    <string name="damage_image_t_type14">Dash..</string>
+    <string name="damage_image_t_type15">Others..</string>
+
+    <!-- Trade Fields -->
+    <string name="trade_model_year">Model Year</string>
+    <string name="trade_make">Make</string>
+    <string name="trade_model">Model</string>
+    <string name="trade_vin">VIN</string>
+    <string name="trade_mileage">Mileage</string>
+    <string name="trade_passengers">Passengers</string>
+    <string name="trade_exterior_color">Exterior Color</string>
+    <string name="trade_interior_color">Interior Color</string>
+    <string name="trade_transmission">Transmission</string>
+    <string name="trade_cylinders">Cylinders</string>
+    <string name="trade_has_accident">Has Accident</string>
+    <string name="trade_repainted">Prior Paint Work</string>
+    <string name="trade_dealer">Dealer</string>
+    <string name="trade_date_expected">Date Expected</string>
+    <string name="trade_carproof">Vehicle History Report</string>
+    <string name="trade_notes">Notes</string>
+    <string name="trade_sunroof">Sunroof</string>
+    <string name="trade_leather">Leather</string>
+    <string name="trade_keyless_entry">Keyless Entry</string>
+    <string name="trade_heated_seats">Heated Seats</string>
+    <string name="trade_air_conditioning">Air Conditioning</string>
+    <string name="trade_navigation">Navigation</string>
+    <string name="trade_two_keys">Two Sets of Keys</string>
+    <string name="trade_has_book">Has Books</string>
+    <string name="trade_power_windows">Power Windows</string>
+    <string name="trade_alloy_wheels">Alloy Wheels</string>
+    <string name="trade_dvd">DVD</string>
+    <string name="trade_snow_tires">Snow Tires</string>
+    <string name="trade_power_locks">Power Locks</string>
+    <string name="trade_out_of_province_vehicle">Out of State/Prov. Vehicle</string>
+    <string name="trade_us_vehicle">US Vehicle</string>
+    <string name="trade_daily_rental">Daily Rental</string>
+    <string name="trade_fire_damaged">Fire Damaged</string>
+    <string name="trade_immersed_in_water">Immersed in Water</string>
+    <string name="trade_police_cruiser">Police Cruiser</string>
+    <string name="trade_emerg_services">Emergency Services Vehicle</string>
+    <string name="trade_taxi">Taxi or Limo</string>
+    <string name="trade_airbag_missing">Airbags Missing / Inoperable</string>
+    <string name="trade_anti_lock_missing">Anti-lock Brakes Inoperable</string>
+    <string name="trade_odometer_replaced">Odometer Rolled Back / Replaced</string>
+    <string name="trade_theft_recovery">Theft Recovery</string>
+    <string name="trade_total_loss">Total Loss by Insurer</string>
+    <string name="trade_warranty_cancelled">Manufacturer\'s Warranty Cancelled</string>
+    <string name="trade_damage_exceeding">Previous Damage Exceeding $3000</string>
+    <string name="trade_decals_changed">Manufacturer\'s Decals Changed</string>
+    <string name="trade_specs_changed">Original Specifications Changed</string>
+    <string name="trade_engine_needs_repair">Engine Needs Repair</string>
+    <string name="trade_suspension_needs_repair">Suspension / Subframe Needs Repair</string>
+    <string name="trade_tanny_needs_repair">Transmission Needs Repair</string>
+    <string name="trade_fuel_needs_repair">Fuel System Needs Repair</string>
+    <string name="trade_power_train_needs_repair">Power Train Needs Repair</string>
+    <string name="trade_computer_needs_repair">Computer Needs Repair</string>
+    <string name="trade_electric_needs_repair">Electrical System Needs Repair</string>
+    <string name="trade_air_cond_needs_repair">Air Conditioning Needs Repair</string>
+    <string name="trade_stuctural_damage">Structural Parts Damaged/Altered/Repaired</string>
+    <string name="trade_windshield_condition">Windshield Condition</string>
+    <string name="trade_windshield_chipped_drivers">Windshield: Chipped (Driver\'s Side)</string>
+    <string name="trade_windshield_chipped_passengers">Windshield: Chipped (Passenger\'s Side)</string>
+    <string name="trade_windshield_cracked">Windshield: Cracked</string>
+    <string name="trade_windshield_normal">Windshield Normal</string>
+    <string name="trade_windshield_chipped_drivers_short">Chipped (Driver\'s Side)</string>
+    <string name="trade_windshield_chipped_passengers_short">Chipped (Passenger\'s Side)</string>
+    <string name="trade_windshield_cracked_short">Cracked</string>
+    <string name="trade_windshield_normal_short">Normal</string>
+    <string name="trade_tire_condition">Tire Condition</string>
+    <string name="trade_tire_need_1">Needs 1 Tire</string>
+    <string name="trade_tire_need_2">Needs 2 Tires</string>
+    <string name="trade_tire_need_3">Needs 3 Tires</string>
+    <string name="trade_tire_need_4">Needs 4 Tires</string>
+    <string name="trade_tire_passed_safety">Tires Passed Safety</string>
+    <string name="trade_tire_good">Tires Good</string>
+    <string name="trade_original_owner">Original Owner</string>
+    <string name="trade_origin_vin">Original Manufacturer VIN Plate</string>
+    <string name="trade_accident_brand">Accident Brand</string>
+    <string name="trade_accident_brand_none">Accident Brand: None</string>
+    <string name="trade_accident_brand_rebuild">Accident Brand: Rebuild</string>
+    <string name="trade_accident_brand_salvage">Accident Brand: Salvage</string>
+    <string name="trade_accident_brand_irreparable">Accident Brand: Irreparable</string>
+    <string name="trade_accident_brand_none_short">None</string>
+    <string name="trade_accident_brand_rebuild_short">Rebuild</string>
+    <string name="trade_accident_brand_salvage_short">Salvage</string>
+    <string name="trade_accident_brand_irreparable_short">Irreparable</string>
+    <string name="trade_vehicle_lien">Vehicle Lien</string>
+    <string name="trade_salesperson">Salesperson</string>
+    <string name="trade_title_in_hand">Title in Hand</string>
+    <string name="trade_title_not_in_hand">Title Not in Hand</string>
+    <string name="trade_location">Location</string>
+    <string name="trade_distance">Distance</string>
+    <string name="trade_camvap_or_lemon">CAMVAP / Lemon Law</string>
+    <string name="trade_lemon">Lemon Law</string>
+
+    <!-- Transmission Types -->
+    <string name="automatic">Automatic</string>
+    <string name="manual">Manual</string>
+    <string name="semi_automatic">Semi-Automatic</string>
+
+    <!-- Carproof Types -->
+    <string name="carproof_none">None</string>
+    <string name="carproof_verified">CarProof Verified</string>
+    <string name="carproof_verified_price">CarProof Verified ($41.50)</string>
+    <string name="carproof_verified_price_bc">CarProof Verified ($69.95)</string>
+    <string name="carproof_claims">CarProof Claims</string>
+    <string name="carproof_claims_price">CarProof Claims ($26.50)</string>
+    <string name="carproof_claims_price_bc">CarProof Claims ($54.95)</string>
+
+    <!-- Create -->
+    <string name="create_vin">VIN Scan</string>
+    <string name="create_details">Details</string>
+    <string name="create_options">Options</string>
+    <string name="create_disclosures">Disclosures</string>
+    <string name="create_multimedia">Multimedia</string>
+    <string name="create_notes">Notes</string>
+    <string name="create_confirm">Confirm</string>
+    <string name="title_activity_main_nav">MainNavActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="in_app_browser">Browser</string>
+
+    <!-- Error Messages -->
+    <string name="error_trade_load_failed">Failed to Load Trade</string>
+    <string name="error_trades_load_failed">Failed to Load Trades</string>
+    <string name="please_try_again_later">Please try again later.</string>
+    <string name="bid_failed">Bid Failed</string>
+    <string name="min_bid">Minimum Bid is %@</string>
+    <string name="enter_valid_bid">Please enter a valid bid</string>
+    <string name="action_failed">Action Failed</string>
+    <string name="mark_arrived_valid_price">Please enter a valid price</string>
+    <string name="mark_arrived_valid_mileage">Please enter valid mileage</string>
+    <string name="mark_arrived_valid_fees">Please enter valid fees</string>
+    <string name="mark_delivered_valid_price">Please enter a valid sell price</string>
+    <string name="mark_delivered_valid_rating">Please rate the buyer.</string>
+    <string name="mark_closing_valid_acv">Please enter a valid ACV</string>
+    <string name="fetch_bid_list_error">Failed to load Bid History</string>
+    <string name="multimedia_load_failed">Failed to load Multimedia</string>
+    <string name="carproof_load_failed">Failed to load Report</string>
+    <string name="search_failed">No Search Results Found</string>
+    <string name="failed_camera_access">Failed to Access Camera</string>
+    <string name="vin_ex_failed">VIN Explode Failed</string>
+    <string name="invalid_vin">Invalid VIN</string>
+    <string name="general_create_failed">Please verify your input and try again later.</string>
+    <string name="launch_failed">Failed to Launch Trade.</string>
+    <string name="park_failed">Failed to Park Trade</string>
+    <string name="edit_failed">Failed to Edit Trade</string>
+    <string name="image_capture_failed">Failed to Process Image</string>
+    <string name="failed_loading_video_camera">Could not Access Video Camera</string>
+    <string name="media_upload_failed">Failed to Upload Multimedia</string>
+    <string name="damage_image_load_failed">Failed to load Damages</string>
+    
+    <!-- Confirmation Dialogs -->
+    <string name="confirm_action">Confirm Action</string>
+    <string name="confirm_mark_lost">Are you sure you want to mark this trade Lost?</string>
+    <string name="confirm_relaunch">Are you sure you want to relaunch this trade?</string>
+    <string name="mark_arrived">Mark Arrived</string>
+    <string name="mark_arrived_price">Price:</string>
+    <string name="mark_arrived_mileage">Mileage:</string>
+    <string name="mark_arrived_fees">Fees:</string>
+    <string name="mark_delivered">Mark Delivered</string>
+    <string name="mark_delivered_price">Sell Price:</string>
+    <string name="close_trade">Close Trade</string>
+    <string name="close_trade_acv">ACV:</string>
+    <string name="confirm_impound">Are you sure you want to impound this trade?</string>
+    <string name="confirm_trade_launch">Are you sure you want to launch this trade?</string>
+    <string name="confirm_trade_park">Are you sure you want to park this trade?</string>
+    <string name="confirm_edit">Are you sure you want to edit this trade?</string>
+    <string name="confirm_edit_with_negotiation">Are you sure you want to edit this trade? \n\n There is a pending Need More Negotiation. Editing might reset this.</string>
+    <string name="rate_buyer">Rate the Buyer:</string>
+    <string name="comments">Comments:</string>
+    <string name="confirm_retry">Would you like to retry? If not, all multimedia will be lost.</string>
+    <string name="retry">Retry</string>
+
+    <!-- Validation -->
+    <string name="validation_failed">Validation Failed</string>
+    <string name="validation_vin">VIN must be exactly 17 alphanumeric characters.</string>
+    <string name="validation_model_year">Please enter a valid model year.</string>
+    <string name="validation_make">Please select a manufacturer.</string>
+    <string name="validation_model">Please enter the vehicle model.</string>
+    <string name="validation_mileage">Please enter a valid mileage count.</string>
+    <string name="validation_passengers">Please select the number of passengers.</string>
+    <string name="validation_ext_color">Please select the exterior color of the vehicle.</string>
+    <string name="validation_int_color">Please select the interior color of the vehicle.</string>
+    <string name="validation_cylinders">Please select the number of cylinders.</string>
+    <string name="validation_salesperson">Please select the appraising salesperson.</string>
+    <string name="validation_windshield">Please select the windshield condition.</string>
+    <string name="validation_tire">Please select the tire condition.</string>
+    <string name="validation_accident_brand">Please select the accident brand.</string>
+    <string name="validation_date_expected">Please enter the date expected.</string>
+    <string name="validation_date_expected_min">Date expected must be at least 7 days from now.</string>
+    <string name="validation_image_count">Please capture at least one image.</string>
+
+    <!-- Trade Create -->
+    <string name="duplicate_vin">Duplicate VIN</string>
+    <string name="edit_mode_enabled">Edit mode has been enabled.</string>
+    <string name="step_2">Step 2 of 7</string>
+    <string name="step_3">Step 3 of 7</string>
+    <string name="step_4">Step 4 of 7</string>
+    <string name="step_5">Step 5 of 7</string>
+    <string name="step_6">Step 6 of 7</string>
+    <string name="step_7">Step 7 of 7</string>
+   	<string name="step_2_of_8">Step 2 of 8</string>
+    <string name="step_3_of_8">Step 3 of 8</string>
+    <string name="step_4_of_8">Step 4 of 8</string>
+    <string name="step_5_of_8">Step 5 of 8</string>
+    <string name="step_6_of_8">Step 6 of 8</string>
+    <string name="step_7_of_8">Step 7 of 8</string>
+    <string name="step_8_of_8">Step 8 of 8</string>
+    <string name="details_caps">DETAILS</string>
+    <string name="options_caps">OPTIONS</string>
+    <string name="disclosures_caps">DISCLOSURES</string>
+    <string name="multimedia_caps">MULTIMEDIA</string>
+    <string name="notes_caps">NOTES</string>
+    <string name="confirm_caps">CONFIRM</string>
+    <string name="tap_select">&lt;tap to select&gt;</string>
+    <string name="vehicle_history">Vehicle History</string>
+    <string name="vehicle_condition">Vehicle Condition</string>
+    <string name="photos">Photos</string>
+    <string name="generalPhotos">General Photos</string>
+    <string name="damagePhotos">Damage Photos</string>
+    <string name="videos">Videos</string>
+
+    <!-- Notifications -->
+    <string name="notif_trade_created">New Trade</string>
+    <string name="notif_bid_placed">New Bid</string>
+    <string name="notif_trade_acquired">Trade Acquired</string>
+    <string name="notif_trade_arrived">Trade Arrived</string>
+    <string name="notif_trade_edited">Trade Info Changed</string>
+    <string name="notif_trade_lost">Trade Lost</string>
+    <string name="notif_outbid">Outbid on Trade</string>
+    <string name="notif_trade_outbid">Outbid and Lost</string>
+    <string name="notif_trade_won">Trade Won</string>
+    <string name="notif_auction_expire">Auction Expired</string>
+    <string name="notif_trade_relaunch">Trade Relaunched</string>
+    <string name="notif_trade_closing">Trade Closing</string>
+    <string name="notif_trade_is_closing">Auction is in Closing</string>
+    <string name="notif_trade_closing_ending">Auction closing period will be ending soon</string>
+    <string name="notif_trade_bid_closing">New bid received in closing</string>
+    <string name="notif_vin_duplicate">Duplicate Trade Launched</string>
+    <string name="notif_rating">New Rating</string>
+    <string name="notif_perfect_rating">Perfect Rating!</string>
+    <string name="notif_bid_bucket">New Bids Received</string>
+
+    <!-- Text input Hints -->
+    <string name="hint_mileage">mileage</string>
+    <string name="hint_model">model</string>
+    <string name="hint_model_year">model year</string>
+
+    <!-- Ratings -->
+    <string name="rate_view_title">Rate Seller:</string>
+    <string name="rate_appraisal">Rate the appraisal completed by</string>
+    <string name="rate_transaction">Rate the transaction experience with</string>
+    <string name="rate_leave_comment">Leave a comment:</string>
+    <string name="rate_choose_stars">Please choose a star rating. 5-star being the most positive experience.</string>
+    <string name="rating_complete_both">Please complete both the transaction and appraisal ratings.</string>
+    <string name="rate_failed">Failed to Rate Seller</string>
+
+    <!-- Chat -->
+    <string name="validation_carproof">Please select a Vehicle History report type.</string>
+    <string name="loading_chat">Loading Q&amp;A&#8230;</string>
+    <string name="error_loading_chat">Failed to Load Q&amp;A</string>
+    <string name="question">Question</string>
+    <string name="ask">Ask</string>
+    <string name="chat">Q&amp;A</string>
+    <string name="chat_hisotry">Q&amp;A History</string>
+    <string name="ask_question">Ask Question</string>
+    <string name="posting_question">Posting Question&#8230;</string>
+    <string name="posting_response">Posting Response&#8230;</string>
+    <string name="rejecting_question">Rejecting Question&#8230;</string>
+    <string name="question_failed">Failed to Post Question</string>
+    <string name="response_failed">Failed to Post Response</string>
+    <string name="response_hint">Response</string>
+    <string name="answer">Answer</string>
+    <string name="respond_public">Public</string>
+    <string name="reject_question">Reject</string>
+    <string name="X">X</string>
+    <string name="respond_private">Private</string>
+    <string name="pending_questions_title">Pending Questions</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="buyer">Buyer</string>
+    <string name="notif_chat_activity">New Q&amp;A Activity</string>
+    <string name="question_is_rejected">This question has been rejected by the seller.</string>
+    <string name="click_to_answer">CLICK HERE TO ANSWER</string>
+    <string name="confirm_response">Are you sure you want to submit this response?</string>
+    <string name="confirm_reject">Are you sure you want to reject this question?</string>
+    <string name="confirm_broadcast">Are you sure you want to post this broadcast?</string>
+    <string name="confirm_question">Are you sure you want to ask this question?</string>
+    <string name="chat_disclaimer">Q&amp;A discussions will not appear on the Bill of Sale - see TradeRev\'s Arbitration Policy</string>
+
+    <!-- Time -->
+    <string name="just_now">Just now</string>
+    <string name="ago">ago</string>
+    <string name="second">second</string>
+    <string name="minute">minute</string>
+    <string name="hour">hour</string>
+    <string name="day">day</string>
+    <string name="week">week</string>
+    <string name="month">month</string>
+    <string name="year">year</string>
+    <string name="decade">decade</string>
+
+    <!-- Proxy Bidding -->
+    <string name="proxy_bid">Proxy Bid</string>
+    <string name="create_proxy_bid">Create your Proxy Bid</string>
+    <string name="enter_your_bid">Enter your bid</string>
+    <string name="enter_your_proxy">Enter your proxy amount</string>
+    <string name="proxy_disclaimer">This is the maximum you are willing to bid. Your proxy is final and binding and cannot be undone, but you may raise your proxy at any time.</string>
+    <string name="bid_and_proxy">Bid &amp; Proxy</string>
+    <string name="proxy_bidder_proxy_reached">Your Proxy has Been Met</string>
+
+    <!-- Bidding -->
+    <string name="bid_err_no_auction">Unable to bid. Auction has ended.</string>
+    <string name="bid_err_closing">Trade is in CLOSING. Only top two bidders are allowed to bid.</string>
+    <string name="bid_err_dealer_proxy">This auction has an active proxy amount. Dealers are unable to bid.</string>
+    <string name="min_proxy">Minimum Proxy is %@</string>
+    <string name="your_proxy">Your Proxy</string>
+    <string name="confirm_proxy_bid">Are you sure you want to place this bid of @1 and proxy of @2?</string>
+    <string name="bid_err_equals_proxy">Someone has already placed a proxy amount of %@.</string>
+    <string name="inspection_request_notif">Inspection Requested</string>
+    <string name="inspection_complete_notif">Inspection Completed</string>
+    <string name="shipping_request_notif">Shipping Requested</string>
+    <string name="shipping_pickup_notif">Shipment Picked Up</string>
+    <string name="shipping_quote_returned_notif">Shipment Quote Returned</string>
+    <string name="shipping_quote_request_notif">Shipment Quote Requested</string>
+    <string name="shipping_quote_decision_notif">Shipment Quote Decision</string>
+    <string name="shipping_ready_notif">Shipment Ready for Transport</string>
+    <string name="shipping_complete_notif">Shipment Transport Completed</string>
+    <string name="youve_been_outbid">You\'ve been outbid.</string>
+
+    <string name="bid_err_arrived_limit">You have exceeded the maximum number of trades allowed in Arrived, bidding has been disabled.</string>
+    <string name="payment_initiated_notif">Payment Initiated</string>
+    <string name="payment_deposited_notif">Payment Deposited</string>
+    <string name="payment_received_notif">Payment Received</string>
+    <string name="payment_failed_notif">Payment Failed</string>
+    <string name="whats_new">What\'s New</string>
+    <string name="loading_whats_new">Loading what\'s new</string>
+    <string name="close">Close</string>
+    
+    <string name="payment_error">Payment Error</string>
+    <string name="stripe_error_message">Please check your payment settings and try again.</string>
+    
+    <string name="confirm_proxy_increase">Are you sure you want to increase your proxy to @1?</string>
+    <string name="confirm_proxy_include">Are you sure you want to include a proxy of @1?</string>
+    <string name="edit_proxy_bid">Edit your Proxy Bid</string>
+    <string name="current_proxy">current proxy is %@</string>
+    
+    <string name="accept_button">Accept</string>
+	<string name="counter_button">Counter</string>
+	<string name="comment_need_more">Comment</string>
+	<string name="amount_need_more">Amount</string>
+	<string name="need_more">Need More</string>
+	<string name="req_how_much_msg">Asking Seller, How much do you need to sell the trade?...</string>
+	<string name="accept_alert_title">Accept Current Offer?</string>
+	<string name="reject_alert_title">Reject Offer?</string>
+	<string name="reject_alert_msg">Are you sure you want to reject this Offer?</string>
+	<string name="processing_proposal">Processing proposal...</string>
+	<string name="missing_info">Missing Info</string>
+	<string name="missing_info_msg">The Amount must be greater than </string>
+	<string name="amount_entered_title">Amount is empty</string>
+	<string name="amount_entered_msg">Please enter and Offer Amount.</string>
+	<string name="confirm_more_title">Confirm Need More?</string>
+	<string name="confirm_more_msg">Are you sure you want to ask for more? (You will be charged a service fee)</string>
+	<string name="accepting_proposal">Accepting proposal...</string>
+	<string name="rejecting_proposal">Rejecting proposal...</string>
+	<string name="how_much_text">How much do you need to make your deal?</string>
+	<string name="dealer_need_more_notif">Dealer needs more to sell trade</string>
+	<string name="buyer_how_much_notif">Top Bidder wants to offer more</string>
+	<string name="need_more_accepted_notif">The Proposed Offer has been Accepted</string>
+	<string name="need_more_rejected_notif">The Proposed Offer has been Rejected</string>
+	<string name="need_more_countered_notif">Counter Offer Proposed</string>
+	<string name="rejected_text">OFFER REJECTED:</string>
+	<string name="need_more_reject_dealer_msg">By rejecting this offer, all negotiations will be halted and you will forfeit your top bid.  You must relaunch to sell this trade.  Are you sure you want to reject this offer?</string>
+	<string name="need_more_reject_buyer_buyer_msg">If you reject this offer, you will no longer be able to win this auction without going through Closing. Are you sure you want to reject this offer?</string>
+	<string name="need_more_wrong_increment_over">Amounts over $3000 must be in increments of $250</string>
+	<string name="need_more_wrong_increment_under">Amounts must be in increments of $50</string>
+    
+    <string name="reports_performance_window">Performance: 45-Days</string>
+	<string name="reports_trade_totals_window">Trade Totals: 45-Days</string>
+	<string name="reports_performance_all_time">Performance: All Time</string>
+	<string name="reports_trade_totals_all_time">Trade Totals: All Time</string>
+	<string name="reports_all_time">Average: All Time</string>
+	<string name="reports_window">Average: 45-days</string>
+    
+	<!-- Multiple Selling Network -->
+    <string name="trade_selling_network">Selling Network</string>
+	<string name="trade_selling_network_default">Default</string>
+	<string name="trade_list_sell_to">Network</string>
+	<string name="network_no_buyers_title">NETWORK EMPTY</string>
+	<string name="network_no_buyers_msg">There are no buyers defined in the selected network</string>
+    
+    <!-- floor plan financing -->
+    <string name="floor_plan_approved_notif">Financing Approved</string>
+	<string name="floor_plan_rejected_notif">Financing Rejected</string>
+	<string name="floor_plan_docs_req_notif">Documents Required For Financing</string>
+	<string name="floor_plan_docs_rejected_notif">Documents for Financing Rejected</string>
+	<string name="floor_plan_funds_ready_notif">Funds Ready for Transfer</string>
+    
+	<string name="wizard.networks.history">Launch History</string>
+	<string name="need_more_dealer_confirm">WARNING!\nBy submitting this proposal you understand that:\n\n1.  You will lose your ability to Close the Trade (even if there is no response)\n2.  If your proposal is accepted, the trade will move directly into WON status (without a Closing Period) and a $30.00 fee will appear on your next invoice\n3.  If you reject any counter offer, the Trade will move directly into LOST status with no chance of a Closing Period.\n\nAre you sure you wish to submit this proposal?</string>
+	<string name="need_more_reject_msg">If you reject this proposal you will not be able to start another. Are you sure you want to reject it?</string>
+	<string name="need_more_close_reject">There is a pending negotiation for this auction. You must reject the offer to close this auction.</string>
+	<string name="need_more_close_alert">There is a pending negotiation for this auction. Are you sure you still want to close this auction.</string>
+	<string name="need_more_incorrect_amount">Incorrect Amount</string>
+	
+	<string name="create_network">Network</string>
+	<string name="network_caps">SELLING NETWORK</string>
+	<string name="launch_history_caps">LAUNCH HISTORY</string>
+	<string name="validation_select_network">Please select the Network you would like to launch this trade in.</string>
+	<string name="notifiable_deviceTestNotif_alert_body">Traderev Notification</string>
+	
+	<string name="transactional_rating_comment">For transactional ratings less than 4 stars, please provide a comment.</string>
+	<string name="appraisal_rating_comment">For appraisal ratings less than 4 stars, please provide a comment.</string>
+	<string name="need_more_reject_dealer_buyer_msg">By rejecting this offer you will forfeit your top bid and the trade will be marked LOST.</string>
+	
+	<string name="need_more_stay">Stay Firm</string>
+	<string name="need_more_stay_comment">I cannot go any higher than my original top bid.</string>
+	
+	<!-- New Aug 15 - Nagger-->
+	<string name="attention">ATTENTION</string>
+	
+	<string name="support">Support</string>
+	<string name="loading_support">Loading support</string>
+	
+	<!-- New Sept 16 -->
+	<string name="transactionservices_required">EFT Enabled Buyers Only</string>
+	<string name="transactionservices_click_here">Click here to enable this feature!</string>
+	
+	<string name="tsach_approved_notif">Financing Approved</string>
+	<string name="tsach_rejected_notif">Financing Rejected</string>
+	<string name="tsach_docs_req_notif">Documents Required For Financing</string>
+	<string name="tsach_docs_rejected_notif">Documents for Financing Rejected</string>
+	<string name="tsach_funds_ready_notif">Funds Ready for Transfer</string>
+	
+	<string name="mark_lost_from_won">Are you sure you would like to mark this trade lost? You will be charged $250. (If you have not come in possession of this Vehicle, please contact your sale rep)</string>
+	<string name="relaunch_from_won">Are you sure you would like to save and relaunch this trade? You will be charged $250.</string>
+	<string name="save_from_won">Are you sure you wish to save? If it causes a relaunch you will be charged $250.</string>
+	
+	<!-- New Oct 14 -->
+	<string name="windshield_na">Windshield: N/A</string>
+	<string name="tire_condition_na">Tire Condition: N/A</string>
+	<string name="accident_brand_na">Accident Brand: N/A</string>
+	<string name="as_is">AS-IS</string>
+	
+	<!-- New Oct 21 -->
+    <string name="trade_drivetrain">Drivetrain</string>
+    <string name="trade_engine_displacement">Displacement</string>
+    <string name="trade_fuel_type">Fuel Type</string>
+    <string name="trade_power_seats">Power Seats</string>
+    <string name="hint_drivetrain">drivetrain, eg. RWD</string>
+    <string name="hint_engine_displacement">displacement, eg. 4.6L</string>
+    <string name="hint_fuel_type">fuel type, eg. Gasoline</string>
+    <string name="validation_drivetrain">Please enter the Drivetrain.</string>
+    <string name="validation_engine_displacement">Please enter the Displacement.</string>
+    <string name="validation_fueltype">Please enter the Fuel Type.</string>
+	<string name="confirm_payment_account">Confirm Payment Account</string>
+	<string name="loading">Loading&#8230;</string>
+	<string name="confirm_payment_account_failed">Failed to Confirm Payment Account</string>
+	<string name="dismiss">Dismiss</string>
+	
+	<!-- New Oct 22 -->
+	<string name="trade_engine_type">Engine Type</string>
+	<string name="wizard.prompt.as_is_on_year">This trade has been set as an \"AS-IS\" trade as it\'s older than 10 years. This can be turned off in the Vehicle Details Section</string>
+	<string name="wizard.prompt.as_is_on_mileage">This trade has been set as an \"AS-IS\" trade as the vehicle is over 200,000KM/124,000MI. This can be turned off in the Vehicle Details Section</string>
+	<string name="wizard.prompt.as_is_off">This trade is no longer an \"AS-IS\" trade.</string>
+	<string name="wizard.prompt.as_is_switched_off">This trade has been updated to not \"AS-IS\" knowing the vehicle is older than 10 years and/or over 200,000KM/124,000MI. This can be turned on in the Vehicle Details Section</string>
+	<string name="wizard.prompt.as_is_switched_on">This trade has been updated to \"AS-IS\". This can be turned off in the Vehicle Details Section.</string>
+	<string name="wizard.prompt.title">Warning</string>
+	<string name="filter">Filter</string>
+	
+	<!-- New Oct 23 -->
+	<string name="enable_payments_subject">I would like to Enable ePayments</string>
+	<string name="enable_payments_heading">Enable ePayments (EFT):</string>
+	<string name="enable_payments_details">Contact TradeRev Support to set up ePayments.</string>
+	<string name="deposit_confirmation_heading">Deposit Confirmation:</string>
+	<string name="deposit_confirmation_details">We recently sent you a 1 cent deposit to your bank account. Please click confirm if you have received this deposit to enable ePayments (EFT).</string>	
+	<string name="payment_email_chooser_heading">Send email to enable EFT</string>
+	<string name="deposit_processing_message">Thanks for signing up for ePayment! We are currently processing your request. Please check back later to confirm your account.</string>	
+	<string name="deposit_not_found">I don\'t see the deposit</string>	
+	<string name="payment_account_confirm_success">Thank you for confirming our direct deposit.</string>	
+	
+	<!-- New Oct 27 -->
+	<string-array name="fuel_types">
+	 	<item>Gasoline</item>
+        <item>Diesel</item>
+        <item>Flex Fuel</item>
+        <item>Hybrid</item>
+        <item>Electric</item>
+        <item>Alternate</item>
+    </string-array>
+    
+	<!-- new Oct 31 -->
+	<string name="damage_view_images_absent_text">No Damage Photos</string>
+	<string name="validation_damage_image_count_launch">Are you sure you want to launch this trade now without Damage Photos?</string>
+	<string name="validation_damage_image_count_park">Are you sure you want to park this trade now without Damage Photos?</string>
+	<string name="validation_damage_image_count_edit">Are you sure you want to continue editing the trade without including Damage Photos?</string>
+		
+	<!-- New Nov 7th -->
+	<string name="error">Error</string>
+	<string name="privacy_policy_load_failed">Failed to load the Privacy Policy. Please try again later.</string>
+	<string name="privacy_policy_accept_failed">Failed to confirm the Privacy Policy acceptance. Please try again later.</string>
+	
+	<!-- new Nov 24 -->
+	<string name="title_activity_client_support">ClientSupportActivity</string>
+	<string name="client_support_cancel">Cancel</string>
+	<string name="client_support_switch_user">Switch User</string>
+	<string name="client_support_user_search_hint">Search by name or organization</string>
+	<string name="client_support_user_current_user">Current User:</string>
+	<string name="client_support_user_text">Client Support User:</string>
+	<string name="client_support_confirm_switch_user">Confirm Switch User</string>
+	<string name="client_support_confirm_switch_user_message">Are you sure you want to switch user?</string>
+	<string name="client_support_confirm_switch_user_message_n">Are you sure you don\'t want to switch user?</string>
+
+	<!-- New Nov 13th -->
+	<string name="error_mark_trade_delivered_vin_mismatch">The VIN scanned does not match the vehicle you are trying to mark Delivered. Please be sure that you are scanning the correct vehicle.</string>
+	<string name="error_mark_delivered_error_buyer_proximity">Vehicle is not outside the selling dealer\'s location and will not be marked Delivered. Please contact TradeRev Support.</string>
+	<string name="error_mark_delivered_location_service_diabled">It seems that you have switched off the &quot;Location Services&quot; and do not allow apps to get your approximate location. For marking the trade delivered please enable it for the time being.</string>
+	<string name="error_mark_delivered_location_service_not_accurate_kitkat">It seems that you do not let apps to use your wifi or network to get your approximate location. For marking the trade delivered please choose the &quot;High Accuracy&quot; mode for the time being.</string>
+	<string name="error_mark_delivered_location_service_not_accurate_old">It seems that you do not let apps to use your wifi or network to get your approximate location. For marking the trade delivered please switch ON &quot;Google's Location Service&quot; for the time being.</string>
+	<string name="error_mark_delivered_open_settings">Unable to check if &quot;Location Service&quot; is ON or not. Please check from the &quot;Settings&quot; before proceeding. Go to &quot;Settings&quot; -> &quot;Location&quot; and allow the apps to use &quot;Wi-Fi &amp; Mobile Network Location&quot;.</string>
+	<string name="error_internet_connectivity">Unable to connect to the internet. Please check your connectivity and try again.</string>
+	<string name="loader_marking_delivered">Attempting to mark the vehicle delivered&#8230;</string>
+	
+	<string name="notif_buyer_req_mark_delivered">Confirm or Dispute Vehicle Delivery</string>
+	<string name="notif_trade_delivered">Trade Delivered</string>
+	<string name="notif_trade_delivery_disputed">Vehicle Delivery Disputed</string>
+	
+	<!-- new Nov 26 -->
+	<string name="dealer_group_switch_dealer">Switch Dealer</string>
+	<string name="dealer_group_search_hint">Search by organization</string>
+	<string name="dealer_group_current_user">Current User:</string>
+	<string name="dealer_group_user_text">Dealer Group User:</string>
+	<string name="dealer_group_confirm_switch_dealer">Confirm Switch Dealer</string>
+	<string name="dealer_group_confirm_switch_dealer_message">Are you sure you want to switch dealer?</string>
+	<string name="dealer_group_confirm_switch_dealer_message_n">Are you sure you don\'t want to switch dealer?</string>
+	
+	<string name="confirm_delivery">Confirm Delivery</string>
+	<string name="dispute">Dispute</string>
+	<string name="loader_dispute">Marking the delivery as disputed&#8230;</string>
+	<string name="error_mark_dispute">Unable to mark the delivery as disputed. Please try again later.</string>
+	<string name="msg_confirm_dispute_vehicle_delivery">The buyer has marked this vehicle as delivered. Please confirm or dispute. If no action is taken the vehicle will be marked as Delivered in 24 hours.</string>
+	<string name="error_confirm_delivery">Error occurred while trying to confirm the vehicle delivery. Please try again later.</string>
+
+	<!-- new Dec 3 -->
+	<string name="bbg_expired">Expired</string>
+	<string name="bbg_order_exp">Exp. </string>
+	<string name="bbg_available">Available</string>
+	<string name="bbg_pending">Claim Pending</string>
+	<string name="bbg_pending_payment">Pending Payment</string>
+	<string name="bbg_approved">Claim Approved</string>
+	<string name="bbg_denied">Claim Denied</string>	
+	
+	<string name="notif_bbg_accepted">Buy Back Accepted</string>
+	<string name="notif_bbg_rejected">Buy Back Rejected</string>
+	
+	<!-- new December 10 -->
+	<!-- Error messages returned for REST call for sendTradeToState -->
+	<string name="error_trade_change_state_authentication_failure">Failed to change the trade state due to authentication failure.</string>
+	<string name="error_trade_change_state_internal_error">Failed to change the trade state due to internal error. Please try again later.</string>
+	<string name="error_trade_change_state">Failed to change the trade state. Please try again later.</string>
+	<string name="error_trade_change_state_pending_inspection">The trade has a pending Inspection and cannot be moved to the new state.</string>
+	<string name="error_trade_change_state_wrong_network_dealer">Failed to change the trade state as the selling network does not belong to the dealer.</string>
+	<string name="error_trade_change_state_wrong_init_state">Cannot move the trade to the new state from this state.</string>
+	<string name="error_trade_change_state_incomplete_params">Failed to change the trade state as some required parameters were not passed.</string>
+	<string name="error_trade_change_state_not_allowed">Failed to change the trade state as its not allowed.</string>	
+	<string name="error_trade_change_state_trade_not_exits">Failed to change the trade state as the trade does not exist.</string>	
+	
+	<!-- new Dec 29, 2014 -->
+	<string name="push_to_auction_send_to_adesa">Send To ADESA</string>
+	<string name="consigned">Consigned</string>
+	<string name="to_adesa">To ADESA</string>
+	<string name="push_to_auction_default">Default</string>
+	<string name="push_to_auction_free">Free</string>
+	<string name="push_to_auction_confirm_action">Confirm Action</string>
+	<string name="push_to_auction_comfirm_dialog">Are you sure you want to send this vehicle to</string>
+	<string name="push_to_auction_details">Trades at ADESA</string>
+	
+	<string name="push_to_auction_details_pickup_date">Est. Pick Up Date</string>
+	<string name="push_to_auction_details_location">ADESA Location</string>
+	<string name="push_to_auction_details_status">Status at ADESA</string>
+	<string name="push_to_auction_details_results">ADESA Results</string>
+	
+	<string name="push_to_auction_status_request">Waiting Shipping</string>
+	<string name="push_to_auction_status_pending">Waiting Shipping</string>
+	<string name="push_to_auction_status_pickup">Waiting to Run</string>
+	<string name="push_to_auction_status_auctioned">Auctioned</string>
+	<string name="push_to_auction_status_sold">Sold</string>
+	<string name="push_to_auction_status_not_sold">Not Sold</string>
+	<string name="push_to_auction_pending_string">Pending</string>
+	<string name="error_confirm_push_to_adesa">Error occurred while sending the trade to ADESA. Please try again later.</string>	
+	
+	<string name="push_to_auction_enroll">Enroll</string>
+	<string name="push_to_auction_enroll_message">You have not yet enrolled in the Send to ADESA program. Please click the ENROLL button below to request enrollment for this feature.</string>
+	<string name="push_to_auction_enroll_send">Request Send</string>
+	<string name="push_to_auction_enroll_send_message">Request to enroll is successfully sent. Please contact your sale representative to check the status of your enrollment.</string>
+	<string name="push_to_auction_enroll_send_error">Request Failed</string>
+	<string name="push_to_auction_enroll_send_error_message">Request to enroll has failed. Would you like to retry?</string>
+	<string name="push_to_auction_enroll_retry">Retry</string>
+	<string name="loader_adesa_enrollment">Attempting to request enrollment&#8230;</string>
+	<string name="push_to_auction_no_location">Your distance to an ADESA location is not within range. Please contact your sales agent or support@traderev.com to request support for this feature.</string>
+	<string name="push_to_auction_disclaimer">*(Standard ADESA auction fees are applicable)</string>
+	<string name="push_to_auction_choose_location">Select ADESA location</string>
+
+	<string name="delete">Delete</string>
+	<string name="retake">Retake</string>
+
+	<!-- User Activities -->
+    <string name="userActivity_alert_message_ClosingPeriodEndingNotif">Ending Soon</string>
+    <string name="userActivity_alert_message_RelaunchNotif">Trade Relaunched</string>
+    <string name="userActivity_alert_message_UserNotBidDuringClosingNotif">You Have Not Bid!</string>
+    <string name="userActivity_alert_message_AcquireTradeNotif">Trade Acquired</string>
+    <string name="userActivity_alert_message_ArriveTradeNotif">Trade Arrived</string>
+    <string name="userActivity_alert_message_BidTradeNotif">New Bid</string>
+    <string name="userActivity_alert_message_ClosingLoserNotif">Outbid &amp; Lost</string>
+    <string name="userActivity_alert_message_ClosingTradeNotif">Trade Closing</string>
+    <string name="userActivity_alert_message_CreateTradeNotif">New Auction</string>
+    <string name="userActivity_alert_message_EditTradeNotif">Trade Updated</string>
+    <string name="userActivity_alert_message_LostTradeNotif">Trade Lost</string>
+    <string name="userActivity_alert_message_TradeOutbidNotif">New Top Bid</string>
+    <string name="userActivity_alert_message_WonTradeNotif">You Won!</string>
+    <string name="userActivity_alert_message_ReacquireTradeNotif">Trade Acquired</string>
+    <string name="userActivity_alert_message_BidDuringClosingNotif_TYPE_OUTBID">Outbid in Closing</string>
+    <string name="userActivity_alert_message_BidDuringClosingNotif_TYPE_DEALER_USER">Bid in Closing</string>
+    <string name="userActivity_alert_message_BidDuringClosingNotif_ExtendsAuction_TYPE_BIDDER">Closing Extended</string>
+    <string name="userActivity_alert_message_BidDuringClosingNotif_ExtendsAuction_TYPE_OUTBID">Closing Extended</string>
+    <string name="userActivity_alert_message_BidDuringClosingNotif_ExtendsAuction_TYPE_DEALER_USER">Closing Extended</string>
+    <string name="userActivity_alert_message_RatingNotif">New Rating Received</string>
+    <string name="userActivity_alert_message_RatingPerfectNotif">Perfect Rating!</string>
+    <string name="userActivity_alert_message_ChatNotif">New Chat Activity</string>
+    <string name="userActivity_alert_message_ProxyBidderOutbidNotif">Proxy Outbid</string>
+    <string name="userActivity_alert_message_ProxyBidderProxyReachedNotif">Proxy Reached</string>
+    <string name="userActivity_alert_message_InspectionRequestNotif">Inspection Ordered</string>
+    <string name="userActivity_alert_message_InspectionCompleteNotif">Inspection Completed</string>
+    <string name="userActivity_alert_message_ShipmentQuoteRequestNotif">Shipment Quote Requested</string>
+    <string name="userActivity_alert_message_ShipmentQuoteReturnedNotif">Shipment Quote Returned</string>
+    <string name="userActivity_alert_message_ShipmentQuoteDecisionNotif">Shipment Quote Decision</string>
+    <string name="userActivity_alert_message_ShipmentPickupNotif">Shipment Picked Up</string>
+    <string name="userActivity_alert_message_ShipmentCompleteNotif">Shipment Completed</string>
+    <string name="userActivity_alert_message_floorPlan_docsRejected">Documents Rejected</string>
+    <string name="userActivity_alert_message_floorPlan_docsReq">Documents Requested</string>
+    <string name="userActivity_alert_message_floorPlan_fundingReady">Funding Ready</string>
+    <string name="notifiable_paymentInitiated_alert_body">Payment Initiated by Winner</string>
+    <string name="notifiable_paymentReceived_alert_body">Payment Received</string>
+    <string name="notifiable_paymentDeposited_alert_body">Payment Deposited</string>
+    <string name="notifiable_paymentFailed_alert_body">Payment Unsuccessful</string>
+    <string name="notifiable_needMoreTopBidderStart_alert_body">Top Bidder wants to offer more</string>
+    <string name="notifiable_needMoreDealerStart_alert_body">Dealer Needs More to Sell Trade</string>
+    <string name="notifiable_needMoreProposalCounter_alert_body">Counter Offer Proposed</string>
+    
+    <string name="reachability_no_internet">It appears you are not connected to the internet. Please connect to proceed.</string>
+    <string name="reachability_traderev_maintenance">We\'re busy updating TradeRev for you and will be back soon. Thank you for your patience.</string>
+
+    <!-- pta drop off -->
+    <string name="push_to_auction_choose_location_m">Please select the price option that you would like to choose.</string>
+    <string name="pta_ship_to_adesa">Ship to ADESA Estimate</string>
+    <string name="pta_drop_off_at_adesa">Drop off at ADESA</string>
+    <string name="pta_adesa_100">$100</string>
+    <string name="pta_adesa_credit">ADESA Credit</string>
+    <string name="push_to_auction_disclaimer_1">*(Actual shipping cost will be confirmed by ADESA at time of booking)</string>
+    
+    <!-- pta update -->
+    <string name="push_to_auction_details_com">ADESA Link</string>
+    <string name="push_to_auction_details_view_in_adesa">Click here</string>
+    <string name="push_to_auction_details_cost">Shipping Estimate</string>
+    <string name="push_to_auction_details_run_date">Auctioned Run Date</string>
+    
+    <!-- April 2, 2015 - Date Landed -->
+    <string name="trade_date_landed">Date Landed</string>
+    
+    <!-- May 6,2015 - Video Timer -->
+    <string name="video_time">30</string>
+
+    <!-- May 7, 2015 - Need More Update -->
+    <string name="need_more_stay_msg">Are you sure you want to stay firm at</string>
+    <string name="need_more_stay_msg_2">If the seller declines, the trade will be lost.</string>
+    <string name="accept_alert_msg">By accepting this proposal, this trade will move directly into WON status and a $30.00 fee will be applied to the Seller\'s account.\n\nAre you sure you want to accept the offer of</string>
+	<string name="accept_alert_msg_buyer">By accepting this proposal, this trade will move directly into WON status.\n\nAre you sure you want to accept the offer of</string>
+	<string name="need_more_proposal_confirm">Are you sure you want to counter with</string>
+	<string name="need_more_accept_confirm">By accepting this proposal, this trade will move directly into WON status and a $30.00 fee will be applied to the Seller\'s account.\n\nAre you sure you want to accept the offer of</string>
+    
+    <!-- May 19, 2015 - Loading CSU user list -->
+    <string name="loading_csu_list">Loading User List</string>
+
+    <!-- May 22 Signature -->
+    <string name="signature_text_profile">Signature</string>
+    <string name="title_activity_signature_capture">Capture Signature</string>
+	<string name="clear_signature">Clear</string>
+	<string name="save_signature">Save</string>
+	<string name="draw_signatue">Draw your signature below</string>
+	<string name="signature_agreement">By providing your signature to TradeRev on the next screen you agree:\n\n1. To authorize TradeRev to store your electronic signature as part of your user profile and/or your dealership\'s profile.\n\n2. To authorize TradeRev to apply your electronic signature on file, or the signing authority signature on file for your dealership, to your dealership\'s Bills of Sale. That, by accepting to use your electronic signature, or your dealership\'s signing authority signature, on a particular transaction bill of sale,  you agree that the electronic signature applied is the legal equivalent of a manual signature. To abide by TradeRev\'s Terms &amp; Conditions and Arbitration Policy.</string>
+	<string name="mark_arrived_confirmation">Are you sure you would like to mark this trade arrived and sign the Bill of Sale?</string>
+	<string name="message_mark_delivered_buyer_confirm">Are you sure you would like to mark this trade delivered and sign the Bill of Sale?</string>
+	<string name="message_alert_signature_capture_title">Signature Capture</string>
+	<string name="agree">Agree</string>
+	<string name="success">Success</string>
+	<string name="error_signature_update_login">Sorry, we were unable to update your signature. Please try again. You can go to Dash -> Profile and add/edit your signature.</string>
+	<string name="error_signature_update">Sorry, we were unable to update your signature. Please try again.</string>
+	<string name="success_signature_capture">Your signature was successfully captured. You may edit your signature from Dash -> Profile.</string>
+	<string name="progress_signature_capture">Saving signature&#8230;</string>
+	<string name="bid_err_no_signature">Unable to bid. You either don\'t have a signature or the company does not have a designated signature attached to the account. Please capture the signature for the authorized person who can sign for a bill of sale on the TradeRev app. This can be done by going into Dash -> Profile on the app.</string>
+	<string name="error_mark_arrived_signature">Error Marking Arrived. You either don\'t have a signature or the dealer does not have a designated signature attached to the account. Please capture the signature for the authorized person who can sign for a bill of sale on the TradeRev app. This can be done by going into Dash -> Profile on the app.</string>
+	<string name="error_buyer_mark_delivered_signature">Error Marking Delivered. You either don\'t have a signature or the company does not have a designated signature attached to the account. Please capture the signature for the authorized person, who can sign for a bill of sale on the TradeRev app. This can be done by going into Dash -> Profile on the app</string>
+	<string name="error_saving_empty_signature">Sorry, we were unable to save the signature. Please draw your signature and try again.</string>
+    <string name="edit_signature"><u>Edit Signature</u></string>
+
+    <!-- July 15, 2015 Deactivated login message -->
+    <string name="deactivated_account">Account Deactivated</string>
+    <string name="deactivated_invoice">Failed to login because this account has overdue invoices. To reactivate, please log into the web and pay the outstanding invoices.</string>
+    <string name="deactivated_subscription">Failed to login because this account was cancelled upon request. To reactivate, please log into the web and reactivate this account.</string>
+
+    <!-- July 17, 2015 Multiple Dealer Addresses-->
+    <string name="validation_dealer_address">Please select an address.</string>
+    <string name="bad_provision_phone_message">You are currently attempting to add a Phone as a Tablet - please use the correct type of device and phone number when adding devices.</string>
+    <string name="bad_provision_tablet_message">You are currently attempting to add a Tablet as a Phone - please use the correct type of device when adding devices.</string>
+    <string name="unregistered_device_message">You must add a device to your account prior to logging in.  Please visit your \'My Account\' page to add a device.</string>
+
+</resources>
