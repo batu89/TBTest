@@ -5,9 +5,9 @@
 
     <!-- General -->
     <string name="ok">Vale</string>
-    <string name="cancel">Cancelar</string>
+    <string name="cancel">Cancelar XXXXXX</string>
     <string name="blank">" "</string>
-    <string name="yes">Sí</string>
+    <string name="yes">Sí eaieaeia!</string>
     <string name="no">No</string>
     <string name="pending">Pendiente</string>
     <string name="kms">kms</string>
@@ -885,4 +885,5 @@
     <string name="bad_provision_tablet_message">Actualmente se está intentando añadir una tableta como teléfono-utilice el tipo correcto de dispositivo al agregar dispositivos.</string>
     <string name="unregistered_device_message">Debe agregar un dispositivo a su cuenta antes de iniciar sesión.  Visite su \'My Account\' Página para agregar un dispositivo.</string>
 
-</resources>
+<string name="yes_new">Sí mklmkml eaieaeia!</string>
+    </resources>
