@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
 
     <string name="app_name">TradeRev</string>
@@ -6,7 +6,7 @@
     <!-- General -->
     <string name="ok">Vale</string>
     <string name="cancel">Cancelar</string>
-    <string name="blank"></string>
+    <string name="blank">" "</string>
     <string name="yes">Sí</string>
     <string name="no">No</string>
     <string name="pending">Pendiente</string>
@@ -101,20 +101,20 @@
     <string name="reports_failed_title">No se pudo calcular informes</string>
 
     <!-- Loading Messages -->
-    <string name="loading_trades">Operaciones de carga...</string>
-    <string name="loading_trade">Carga del comercio...</string>
-    <string name="performing_bid">Haciendo una oferta...</string>
-    <string name="processing">Procesamiento de...</string>
-    <string name="loading_bid_list">Historial de pujas de carga...</string>
-    <string name="buffering">Almacenamiento en búfer...</string>
-    <string name="loading_carproof">Informe de carga...</string>
-    <string name="searching">Buscando...</string>
-    <string name="exploding_vin">Explosión de VIN...</string>
-    <string name="creating_trade">Creación de comercio...</string>
-    <string name="editing_trade">Edición de comercio...</string>
-    <string name="updating">Actualizando...</string>
-    <string name="processing_media">Procesamiento de Multimedia...</string>
-    <string name="rating">Valorar...</string>
+    <string name="loading_trades">Operaciones de carga…</string>
+    <string name="loading_trade">Carga del comercio…</string>
+    <string name="performing_bid">Haciendo una oferta…</string>
+    <string name="processing">Procesamiento de…</string>
+    <string name="loading_bid_list">Historial de pujas de carga…</string>
+    <string name="buffering">Almacenamiento en búfer…</string>
+    <string name="loading_carproof">Informe de carga…</string>
+    <string name="searching">Buscando…</string>
+    <string name="exploding_vin">Explosión de VIN…</string>
+    <string name="creating_trade">Creación de comercio…</string>
+    <string name="editing_trade">Edición de comercio…</string>
+    <string name="updating">Actualizando…</string>
+    <string name="processing_media">Procesamiento de Multimedia…</string>
+    <string name="rating">Valorar…</string>
 
     <!-- Trade Details -->
     <string name="bid">Oferta</string>
@@ -429,16 +429,16 @@
 
     <!-- Chat -->
     <string name="validation_carproof">Por favor seleccione un tipo de informe de historial de vehículo.</string>
-    <string name="loading_chat">Cargando Q&amp;A...</string>
+    <string name="loading_chat">Cargando Q&amp;A…</string>
     <string name="error_loading_chat">Error al cargar Q&amp;A</string>
     <string name="question">Pregunta</string>
     <string name="ask">Preguntar</string>
     <string name="chat">Q&amp;A</string>
     <string name="chat_hisotry">Historia de Q&amp;A</string>
     <string name="ask_question">Pregunta</string>
-    <string name="posting_question">Publicar pregunta...</string>
-    <string name="posting_response">Publicar respuesta...</string>
-    <string name="rejecting_question">Rechazar la pregunta...</string>
+    <string name="posting_question">Publicar pregunta…</string>
+    <string name="posting_response">Publicar respuesta…</string>
+    <string name="rejecting_question">Rechazar la pregunta…</string>
     <string name="question_failed">No se pudo publicar la pregunta</string>
     <string name="response_failed">No se pudo enviar respuesta</string>
     <string name="response_hint">Respuesta</string>
@@ -625,7 +625,7 @@
     <string name="validation_engine_displacement">Introduce el desplazamiento.</string>
     <string name="validation_fueltype">Por favor, introduzca el tipo de combustible.</string>
 	<string name="confirm_payment_account">Confirmar cuenta de pago</string>
-	<string name="loading">Cargando...</string>
+	<string name="loading">Cargando…</string>
 	<string name="confirm_payment_account_failed">No se pudo confirmar la cuenta de pago</string>
 	<string name="dismiss">Despedir</string>
 	
@@ -690,7 +690,7 @@
 	<string name="error_mark_delivered_location_service_not_accurate_old">Parece que usted no deje aplicaciones para usar el wifi o red para obtener su ubicación aproximada. Para marcar el comercio entregado encienda el "Servicio de ubicación de Google" por el momento.</string>
 	<string name="error_mark_delivered_open_settings">No se ha podido comprobar si "Location Service" está encendido o no. Consulte la "configuración" antes de proceder. Vaya a "Configuración"-&gt; "Ubicación" y permitir que las aplicaciones utilizar "Ubicación de red móvil de Wi-Fi &amp;".</string>
 	<string name="error_internet_connectivity">No se puede conectar a internet. Por favor, compruebe su conexión y vuelva a intentarlo.</string>
-	<string name="loader_marking_delivered">Intentar marcar el vehículo entregado...</string>
+	<string name="loader_marking_delivered">Intentar marcar el vehículo entregado…</string>
 	
 	<string name="notif_buyer_req_mark_delivered">Confirmar o discutir la entrega del vehículo</string>
 	<string name="notif_trade_delivered">Comercio entregado</string>
@@ -707,7 +707,7 @@
 	
 	<string name="confirm_delivery">Confirmar entrega</string>
 	<string name="dispute">Controversia</string>
-	<string name="loader_dispute">Marca la entrega según lo disputado...</string>
+	<string name="loader_dispute">Marca la entrega según lo disputado…</string>
 	<string name="error_mark_dispute">No se puede marcar la entrega según lo disputado. Por favor Inténtalo más tarde.</string>
 	<string name="msg_confirm_dispute_vehicle_delivery">El comprador ha marcado este vehículo entregado. Por favor confirmar o disputa. Si no se toman medidas del vehículo se marcará como entregado en 24 horas.</string>
 	<string name="error_confirm_delivery">Error al intentar confirmar la entrega del vehículo. Por favor Inténtalo más tarde.</string>
@@ -767,7 +767,7 @@
 	<string name="push_to_auction_enroll_send_error">Petición no se pudo</string>
 	<string name="push_to_auction_enroll_send_error_message">Solicitud para inscribirse falló. ¿Te gustaría intentarlo?</string>
 	<string name="push_to_auction_enroll_retry">Vuelva a intentarlo</string>
-	<string name="loader_adesa_enrollment">Tratando de solicitar la inscripción...</string>
+	<string name="loader_adesa_enrollment">Tratando de solicitar la inscripción…</string>
 	<string name="push_to_auction_no_location">Su distancia a un lugar de ADESA no es dentro de gama. Por favor, póngase en contacto con su agente de ventas o support@traderev.com para solicitar el apoyo para esta función.</string>
 	<string name="push_to_auction_disclaimer">* (Gastos de subasta ADESA estándar son aplicables)</string>
 	<string name="push_to_auction_choose_location">Seleccione ubicación de ADESA</string>
@@ -867,7 +867,7 @@
 	<string name="error_signature_update_login">Lo sentimos, hemos podido actualizar su firma. Por favor, inténtelo de nuevo. Puede ir a Dash-&gt; perfil y agregar o editar tu firma.</string>
 	<string name="error_signature_update">Lo sentimos, hemos podido actualizar su firma. Por favor, inténtelo de nuevo.</string>
 	<string name="success_signature_capture">Su firma fue capturada con éxito. Usted puede editar su firma de los Dash-&gt; perfil.</string>
-	<string name="progress_signature_capture">Ahorro de firma...</string>
+	<string name="progress_signature_capture">Ahorro de firma…</string>
 	<string name="bid_err_no_signature">No se puede hacer una oferta. Ya sea don\ ' t tener una firma o la empresa no tiene una firma designada a la cuenta. Por favor captura la firma de la persona autorizada que puede firmar para una factura en la aplicación de TradeRev. Esto puede hacerse entrando en el tablero-&gt; perfil en la aplicación.</string>
 	<string name="error_mark_arrived_signature">Llegó el error de la marca. O don\ ' t tener una firma o el distribuidor no tiene una firma designada a la cuenta. Por favor captura la firma de la persona autorizada que puede firmar para una factura en la aplicación de TradeRev. Esto puede hacerse entrando en el tablero-&gt; perfil en la aplicación.</string>
 	<string name="error_buyer_mark_delivered_signature">Error de la marca entregados. Ya sea don\ ' t tener una firma o la empresa no tiene una firma designada a la cuenta. Por favor captura la firma de la persona autorizada, que puede firmar para una factura en la aplicación de TradeRev. Esto puede hacerse entrando en el tablero-&gt; perfil en la aplicación</string>
