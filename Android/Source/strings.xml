@@ -29,8 +29,9 @@
     <string name="login">Log In UPDATED</string>
     <string name="login_new">Log In NEW</string>
     <string name="submit">Submit what?</string>
-    <string name="submit_then">Submit no, I am not submitting</string>
-    <string name="connecting">Connecting...</string>
+    <string name="submit_then">Submit no, I am not submitting updated for Bea!</string>
+    <string name="connecting">Connecting... this one is updated too</string>
+    <string name="connecting_new">Connecting... this one is updated too</string>
     <string name="connected">Connected to where?</string>
     <string name="connected_not">Maybe not?</string>
     <string name="disconnected">Disconnected</string>
