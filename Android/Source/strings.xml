@@ -36,8 +36,9 @@
     <string name="connected_not">Maybe not?</string>
     <string name="disconnected">Disconnected</string>
     <string name="first_name">First Name</string>
-    <string name="is_this_your_twitter_id">Is this your Twitter ID?</string>
-    <string name="twitter_id_prompt">Please enter your Twitter ID</string>
+    <string name="is_this_your_twitter_id">Is this your Twitter ID? Updated!</string>
+    <string name="twitter_id_prompt">Please enter your Twitter ID This one is updated too</string>
+    <string name="twitter_id_prompt_newlyadded">Please enter your Twitter ID This one is updated too</string>
     <string name="select_twitter_app">Select app to Tweet with</string>
     <string name="email_address">Email</string>
     <string name="unlimited">Unlimited</string>
