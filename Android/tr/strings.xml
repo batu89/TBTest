@@ -320,7 +320,7 @@
     <string name="remember_your_password_content_description">Şifrenizi hatırlıyor musunuz? Aşağıdaki düğmeye tıklayarak giriş yapın.</string>
     <string name="forgot_your_password">Şifrenizi mi unuttunuz?</string>
     <string name="connected_not">Belki bağlanmadı</string>
-    <string name="submit_then">Neyi Gönder? Neden? güncellendi</string>
+    <string name="submit_then">Neyi Gönder? Neden? güncellendi !</string>
     <string name="registration_error_new">İnternet bağlantısında hata XXXXXXXXX</string>
     <string name="server_connection_error_new">Merhaba</string>
     <string name="update_status_error_new">Tünel açmada hata Soo GÜNCELLENDİ !</string>
