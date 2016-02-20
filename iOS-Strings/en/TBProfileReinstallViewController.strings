@@ -1,0 +1,9 @@
+
+/* Class = "UINavigationItem"; title = "Choose a way to tunnel"; ObjectID = "3GF-DA-YqY"; */
+"3GF-DA-YqY.title" = "Choose a way to tunnel";
+
+/* Class = "UIButton"; normalTitle = "In-App"; ObjectID = "US9-2U-1JM"; */
+"US9-2U-1JM.normalTitle" = "In-App";
+
+/* Class = "UILabel"; text = "I want to control TunnelBear from within the app (recommended)"; ObjectID = "ZdH-hT-C3L"; */
+"ZdH-hT-C3L.text" = "I want to control TunnelBear from within the app (recommended)";

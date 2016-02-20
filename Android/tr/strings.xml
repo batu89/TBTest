@@ -21,14 +21,14 @@
     <string name="ok">Tamam</string>
     <string name="megabytes">MB</string>
     <string name="gigabytes">GB</string>
-    <string name="update_status_error">Tünel açmada hata Soo</string>
-    <string name="login">Giriş</string>
-    <string name="connecting">Bağlanıyor...</string>
+    <string name="update_status_error">"Tünel açmada hata Soo umieaklmkealki "</string>
+    <string name="login">Giriş XXXXXX</string>
+    <string name="connecting">Bağlanıyor... aieaeia</string>
     <string name="connected">Nereye bağlandı?</string>
     <string name="disconnected">Bağlantı kesildi</string>
     <string name="first_name">Ad</string>
-    <string name="is_this_your_twitter_id">Twitter kullanıcı adın bu mu?</string>
-    <string name="twitter_id_prompt">Lütfen Twitter kullanıcı adını gir</string>
+    <string name="is_this_your_twitter_id">Twitter kullanıcı adın bu mu? Güncellendi!</string>
+    <string name="twitter_id_prompt">Lütfen Twitter kullanıcı adını gir. buda güncellendi</string>
     <string name="select_twitter_app">Tweet atacağın uygulamayı seç</string>
     <string name="email_address">E-posta</string>
     <string name="unlimited">Sınırsız</string>
@@ -320,8 +320,12 @@
     <string name="remember_your_password_content_description">Şifrenizi hatırlıyor musunuz? Aşağıdaki düğmeye tıklayarak giriş yapın.</string>
     <string name="forgot_your_password">Şifrenizi mi unuttunuz?</string>
     <string name="connected_not">Belki bağlanmadı</string>
-    <string name="submit_then">Neyi Gönder? Neden?</string>
+    <string name="submit_then">Neyi Gönder? Neden? güncellendi !</string>
     <string name="registration_error_new">İnternet bağlantısında hata XXXXXXXXX</string>
     <string name="server_connection_error_new">Merhaba</string>
-    <string name="update_status_error_new">Tünel açmada hata Soo</string>
+    <string name="update_status_error_new">Tünel açmada hata Soo GÜNCELLENDİ !</string>
+    <string name="login_new">Giriş YYYYY</string>
+    <string name="update_status_error_new_addednewly">eai ieaeiaiea !</string>
+    <string name="connecting_new">Bağlanıyor... aieaeia</string>
+    <string name="twitter_id_prompt_newlyadded">Bağlanıyor... aieaeia</string>
     </resources>

@@ -1,0 +1,45 @@
+/* Class = "UIButton"; normalTitle = "Create a Free Account"; ObjectID = "13"; */
+"13.normalTitle" = "Ücretsiz hesap aç";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "21"; */
+"21.normalTitle" = "Giriş";
+
+/* Class = "UITextField"; accessibilityLabel = "Email"; ObjectID = "54"; */
+"54.accessibilityLabel" = "E-posta";
+
+/* Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "54"; */
+"54.placeholder" = "ornek@email.com";
+
+/* Class = "UILabel"; accessibilityLabel = "Email"; ObjectID = "55"; */
+"55.accessibilityLabel" = "E-posta";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "55"; */
+"55.text" = "E-posta";
+
+/* Class = "UITextField"; accessibilityLabel = "First name"; ObjectID = "57"; */
+"57.accessibilityLabel" = "Ad";
+
+/* Class = "UILabel"; accessibilityLabel = "First Name"; ObjectID = "58"; */
+"58.accessibilityLabel" = "Ad";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "58"; */
+"58.text" = "Ad";
+
+/* Class = "UILabel"; accessibilityLabel = "Password"; ObjectID = "63"; */
+"63.accessibilityLabel" = "Şifre";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "63"; */
+"63.text" = "Şifre";
+
+/* Class = "UITextField"; accessibilityHint = "Please choose a password you'd like to use with TunnelBear"; ObjectID = "64"; */
+"64.accessibilityHint" = "Lütfen TunnelBear için bir şifre seç";
+
+/* Class = "UITextField"; accessibilityLabel = "Password"; ObjectID = "64"; */
+"64.accessibilityLabel" = "Şifre";
+
+/* Class = "UITextField"; placeholder = "required"; ObjectID = "64"; */
+"64.placeholder" = "gerekli";
+
+/* Class = "UILabel"; text = "Have an account?"; ObjectID = "69"; */
+"69.text" = "Hesabın var mı?";
+

@@ -1,0 +1,15 @@
+/* Class = "UINavigationItem"; title = "Please enter your Twitter ID"; ObjectID = "3YB-rY-Wxe"; */
+"3YB-rY-Wxe.title" = "Lütfen Twitter kullanıcı adını gir";
+
+/* Class = "UILabel"; text = "We want to make sure we send the free GB to the right person."; ObjectID = "32A-vc-cSB"; */
+"32A-vc-cSB.text" = "Ücretsiz 1 GB'ı doğru kişiye yollamak istiyoruz da.";
+
+/* Class = "UITextField"; placeholder = "required"; ObjectID = "P75-hz-Z5H"; */
+"P75-hz-Z5H.placeholder" = "gerekli";
+
+/* Class = "UIButton"; normalTitle = "Tweet Now"; ObjectID = "bZr-OZ-SC7"; */
+"bZr-OZ-SC7.normalTitle" = "Şimdi tweet at";
+
+/* Class = "UILabel"; text = "Twitter ID"; ObjectID = "rtA-K4-wBL"; */
+"rtA-K4-wBL.text" = "Twitter kullanıcı adı";
+

@@ -1,0 +1,51 @@
+/* Class = "UILabel"; accessibilityLabel = "Current status"; ObjectID = "3Bl-5R-ae6"; */
+"3Bl-5R-ae6.accessibilityLabel" = "Güncel durum";
+
+/* Class = "UILabel"; text = "Disconnected"; ObjectID = "3Bl-5R-ae6"; */
+"3Bl-5R-ae6.text" = "Bağlantı kesildi";
+
+/* Class = "UIButton"; accessibilityHint = "Got it"; ObjectID = "AH2-0Z-KnF"; */
+"AH2-0Z-KnF.accessibilityHint" = "Tamamdır";
+
+/* Class = "UIButton"; accessibilityLabel = "Got it"; ObjectID = "AH2-0Z-KnF"; */
+"AH2-0Z-KnF.accessibilityLabel" = "Tamamdır";
+
+/* Class = "UIButton"; normalTitle = "Got it"; ObjectID = "AH2-0Z-KnF"; */
+"AH2-0Z-KnF.normalTitle" = "Tamamdır";
+
+/* Class = "UILabel"; text = "Change countries here."; ObjectID = "G8d-yD-fXp"; */
+"G8d-yD-fXp.text" = "Buradan ülke değiştir.";
+
+/* Class = "UIButton"; accessibilityHint = "Change connection countries"; ObjectID = "IN1-Dq-51U"; */
+"IN1-Dq-51U.accessibilityHint" = "Bağlantı ülkesi değiştir";
+
+/* Class = "UIButton"; accessibilityLabel = "Change countries"; ObjectID = "IN1-Dq-51U"; */
+"IN1-Dq-51U.accessibilityLabel" = "Ülke değiştir";
+
+/* Class = "UIButton"; normalTitle = " Germany"; ObjectID = "IN1-Dq-51U"; */
+"IN1-Dq-51U.normalTitle" = " Almanya";
+
+/* Class = "UILabel"; text = "Turn TunnelBear ON here."; ObjectID = "WN0-Nv-lk5"; */
+"WN0-Nv-lk5.text" = "Buradan TunnelBear'i aç.";
+
+/* Class = "UIButton"; accessibilityHint = "Open menu"; ObjectID = "nH8-qR-TXv"; */
+"nH8-qR-TXv.accessibilityHint" = "Menüyü aç";
+
+/* Class = "UIButton"; accessibilityLabel = "Menu"; ObjectID = "nH8-qR-TXv"; */
+"nH8-qR-TXv.accessibilityLabel" = "Menü";
+
+/* Class = "UIButton"; accessibilityHint = "Upgrade your bear"; ObjectID = "s6f-ak-6To"; */
+"s6f-ak-6To.accessibilityHint" = "Ayını üst sürüme geçir";
+
+/* Class = "UIButton"; accessibilityLabel = "Upgrade"; ObjectID = "s6f-ak-6To"; */
+"s6f-ak-6To.accessibilityLabel" = "Üst sürüme geç";
+
+/* Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "s6f-ak-6To"; */
+"s6f-ak-6To.normalTitle" = "Üst sürüme geç";
+
+/* Class = "UIView"; accessibilityHint = "Connect to TunnelBear"; ObjectID = "x71-gq-8Bu"; */
+"x71-gq-8Bu.accessibilityHint" = "TunnelBear'e bağlan";
+
+/* Class = "UIView"; accessibilityLabel = "Toggle Connection"; ObjectID = "x71-gq-8Bu"; */
+"x71-gq-8Bu.accessibilityLabel" = "Bağlantı Değiştir";
+

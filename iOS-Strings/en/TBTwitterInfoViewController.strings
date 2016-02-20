@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "The always vigilant TunnelBear team will see you've tweeted."; ObjectID = "LQF-yZ-SMv"; */
+"LQF-yZ-SMv.text" = "The always vigilant TunnelBear team will see you've tweeted.";
+
+/* Class = "UILabel"; text = "Within the hour, your TunnelBear account will have a bonus GB of free data for the month."; ObjectID = "j0W-si-tZI"; */
+"j0W-si-tZI.text" = "Within the hour, your TunnelBear account will have a bonus GB of free data for the month.";
+
+/* Class = "UILabel"; text = "Tweet @theTunnelBear asking for 1 free GB of data."; ObjectID = "mxl-i6-1Fu"; */
+"mxl-i6-1Fu.text" = "Tweet @theTunnelBear asking for 1 free GB of data.";
+
+/* Class = "UINavigationItem"; title = "Tweet for a FREE GB!"; ObjectID = "nmI-Ks-9gO"; */
+"nmI-Ks-9gO.title" = "Tweet for a FREE GB!";
+
+/* Class = "UIButton"; accessibilityHint = "Let's do this!"; ObjectID = "uFq-Oi-QlX"; */
+"uFq-Oi-QlX.accessibilityHint" = "Let's do this!";
+
+/* Class = "UIButton"; accessibilityLabel = "Let's do this!"; ObjectID = "uFq-Oi-QlX"; */
+"uFq-Oi-QlX.accessibilityLabel" = "Let's do this!";
+
+/* Class = "UIButton"; normalTitle = "Let's do this!"; ObjectID = "uFq-Oi-QlX"; */
+"uFq-Oi-QlX.normalTitle" = "Let's do this!";

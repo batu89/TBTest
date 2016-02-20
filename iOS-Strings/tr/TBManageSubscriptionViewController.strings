@@ -1,0 +1,12 @@
+/* Class = "UIButton"; normalTitle = "Manage Subscription Settings"; ObjectID = "FS5-2o-nej"; */
+"FS5-2o-nej.normalTitle" = "Üyelik Ayarlarını Yönet";
+
+/* Class = "UITextView"; text = "Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours."; ObjectID = "d5Q-6h-6Nb"; */
+"d5Q-6h-6Nb.text" = "Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.";
+
+/* Class = "UIButton"; normalTitle = "Need Instructions?"; ObjectID = "gDF-Lc-s5O"; */
+"gDF-Lc-s5O.normalTitle" = "Yardım lazım mı?";
+
+/* Class = "UINavigationItem"; title = "Manage Subscription"; ObjectID = "ucj-Mr-yLq"; */
+"ucj-Mr-yLq.title" = "Üyeliği Yönet";
+

@@ -1,0 +1,9 @@
+/* Class = "UIButton"; normalTitle = "I'm Ready"; ObjectID = "Bui-2t-tC6"; */
+"Bui-2t-tC6.normalTitle" = "Hazırım";
+
+/* Class = "UILabel"; text = "TunnelBear needs to install “VPN” settings on your iPhone. Tap Install when you're prompted."; ObjectID = "VB8-wO-0Di"; */
+"VB8-wO-0Di.text" = "TunnelBear'in iPhone'una “VPN” ayarları yüklemesi gerekiyor. Sorulduğunda “yükle”ye bas.";
+
+/* Class = "UILabel"; text = "Install iOS Settings"; ObjectID = "egT-Xs-w6P"; */
+"egT-Xs-w6P.text" = "iOS Ayarlarını Yükle";
+

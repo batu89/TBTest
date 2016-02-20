@@ -1,0 +1,421 @@
+/* No comment provided by engineer. */
+" Double check your connection?" = "Bağlantını tekrar kontrol eder misin?";
+
+/* No comment provided by engineer. */
+"%lldMB" = "%lld MB";
+
+/* No comment provided by engineer. */
+"%lldMB Data remaining" = "%lld MB veri kaldı";
+
+/* No comment provided by engineer. */
+"%lldMB Remaining this month" = "Bu aylık %lldMB kaldı";
+
+/* No comment provided by engineer. */
+"(recommended)" = "(tavsiye edilen)";
+
+/* No comment provided by engineer. */
+"1 FREE GB" = "ÜCRETSİZ 1 GB";
+
+/* No comment provided by engineer. */
+"692566" = "692566";
+
+/* No comment provided by engineer. */
+"Another purchase is in progress" = "Bir başka satın alım sürüyor";
+
+/* No comment provided by engineer. */
+"BUY" = "SATIN AL";
+
+/* No comment provided by engineer. */
+"Bear Sounds" = "Ayı Sesleri";
+
+/* No comment provided by engineer. */
+"Bearmuda Triangle" = "Bearmuda Üçgeni";
+
+/* No comment provided by engineer. */
+"By confirming you will send TunnelBear a report that might help us further diagnose your bear." = "Bunu onaylayarak ayına daha iyi teşhis koyabilmemiz için TunnelBear'e rapor göndermeyi kabul ediyorsun.";
+
+/* No comment provided by engineer. */
+"Can't connect while disconnecting" = "Bağlantı kesilirken bağlanılamaz";
+
+/* No comment provided by engineer. */
+"Cancel" = "İptal";
+
+/* No comment provided by engineer. */
+"Cannot Purchase Upgrade" = "Üst Sürüm Satın Alınamıyor";
+
+/* No comment provided by engineer. */
+"Cannot Tunnel" = "Tünel Açılamıyor";
+
+/* No comment provided by engineer. */
+"Change Location" = "Konum Değiştir";
+
+/* No comment provided by engineer. */
+"Changing countries…" = "Ülke değiştiriliyor…";
+
+/* No comment provided by engineer. */
+"Checking email…" = "E-posta kontrol ediliyor…";
+
+/* No comment provided by engineer. */
+"Choose Location" = "Konum Seç";
+
+/* No comment provided by engineer. */
+"Closest Tunnel" = "En Yakın Tünel";
+
+/* No comment provided by engineer. */
+"Connect" = "Bağlan";
+
+/* No comment provided by engineer. */
+"Connect to %@" = "Bağlanılacak ülke: %@";
+
+/* No comment provided by engineer. */
+"Connect to TunnelBear" = "TunnelBear'e bağlan";
+
+/* No comment provided by engineer. */
+"Connecting…" = "Bağlanıyor...";
+
+/* No comment provided by engineer. */
+"Connection Secure!" = "Bağlantı Güvenli!";
+
+/* No comment provided by engineer. */
+"Connection Secure!
+ While connected, you can use other apps as if you're in %@!" = "Bağlantı Güvenli!
+ Bağlantı varken diğer uygulamaları şu ülkedeymiş gibi kullanabilirsin: %@.";
+
+/* No comment provided by engineer. */
+"Continue" = "Devam";
+
+/* No comment provided by engineer. */
+"Could not complete purchase" = "Satın alma tamamlanamadı";
+
+/* No comment provided by engineer. */
+"Could not create an account" = "Hesap açılamadı";
+
+/* No comment provided by engineer. */
+"Could not log in" = "Giriş yapılamadı";
+
+/* No comment provided by engineer. */
+"Couldn't connect, please try again later" = "Bağlanılamadı, lütfen daha sonra tekrar dene";
+
+/* No comment provided by engineer. */
+"Creating account…" = "Hesap açılıyor…";
+
+/* No comment provided by engineer. */
+"DONE" = "TAMAM";
+
+/* No comment provided by engineer. */
+"Did you mean %@?" = "Şunu mu kastettin: %@?";
+
+/* No comment provided by engineer. */
+"Disconnect" = "Bağlantıyı kes";
+
+/* No comment provided by engineer. */
+"Disconnect from TunnelBear" = "TunnelBear bağlantısını kes";
+
+/* No comment provided by engineer. */
+"Disconnected" = "Bağlantı kesildi";
+
+/* No comment provided by engineer. */
+"Disconnecting…" = "Bağlantı kesiliyor…";
+
+/* No comment provided by engineer. */
+"Encrypted Tunnel" = "Şifreli Tünel";
+
+/* No comment provided by engineer. */
+"For iPhones and iPads only" = "Sadece iPhone ve iPad için";
+
+/* No comment provided by engineer. */
+"For up to 5 computers, phones or tablets" = "5 tane bilgisayar, telefon, tablet için";
+
+/* No comment provided by engineer. */
+"Free TunnelBear" = "Ücretsiz TunnelBear";
+
+/* No comment provided by engineer. */
+"Free data!" = "Ücretsiz veri!";
+
+/* No comment provided by engineer. */
+"Giant TunnelBear" = "Dev TunnelBear";
+
+/* No comment provided by engineer. */
+"Go Tunneling!" = "Hadi Tünel Aç!";
+
+/* No comment provided by engineer. */
+"Got it" = "Tamamdır";
+
+/* No comment provided by engineer. */
+"Grizzly TunnelBear" = "Gri TunnelBear";
+
+/* No comment provided by engineer. */
+"Grr! TunnelBear couldn't reach the internet! Please try again." = "Gırr! TunnelBear internete erişemedi! Lütfen tekrar dene.";
+
+/* No comment provided by engineer. */
+"Grr! TunnelBear device settings not  installed. Please try again." = "Gırr! TunnelBear cihaz ayarları yüklenmedi. Lütfen tekrar dene.";
+
+/* No comment provided by engineer. */
+"Grr! TunnelBear device settings not installed. Please try again." = "Gırr! TunnelBear cihaz ayarları yüklenmedi. Lütfen tekrar dene.";
+
+/* No comment provided by engineer. */
+"Grr! TunnelBear needs to install additional device settings. Tap “install” when you are prompted." = "Gırr! TunnelBear'in ek cihaz ayarları yüklemesi gerek. Sorulduğunda “yükle”ye bas.";
+
+/* No comment provided by engineer. */
+"Grrr… Out of data for the month. Upgrade your Bear for unlimited data!" = "Gırrr… Bu aylık veri bitti. Sınırsız veri için ayını üst sürüme geçir!";
+
+/* No comment provided by engineer. */
+"Help" = "Yardım";
+
+/* No comment provided by engineer. */
+"How about a quick rating on the App Store, then?" = "App Store'da çabucak puan vermeye ne dersin?";
+
+/* No comment provided by engineer. */
+"I Agree" = "Kabul ediyorum";
+
+/* No comment provided by engineer. */
+"I really like doing things the hard way. I want to tunnel with manual settings." = "İşleri zor yoldan yapmayı çok seviyorum. Manuel ayarlarla tünel açmak istiyorum.";
+
+/* No comment provided by engineer. */
+"Initiating connection…" = "Bağlantı başlatılıyor…";
+
+/* No comment provided by engineer. */
+"Is this your Twitter ID?" = "Twitter kullanıcı adın bu mu?";
+
+/* No comment provided by engineer. */
+"Log In" = "Giriş";
+
+/* No comment provided by engineer. */
+"Log Out" = "Çıkış";
+
+/* No comment provided by engineer. */
+"Logging in…" = "Giriş yapılıyor…";
+
+/* No comment provided by engineer. */
+"Logging out…" = "Çıkış yapılıyor…";
+
+/* No comment provided by engineer. */
+"Make Another Purchase?" = "Bir satın alım daha yapılsın mı?";
+
+/* No comment provided by engineer. */
+"Manage Subscription" = "Üyeliği Yönet";
+
+/* No comment provided by engineer. */
+"Mobile Giant TunnelBear" = "Mobil Dev TunnelBear";
+
+/* No comment provided by engineer. */
+"Mobile Grizzly TunnelBear" = "Mobil Gri TunnelBear";
+
+/* No comment provided by engineer. */
+"Must be logged in to process purchase." = "Satın alım için giriş yapılması gerekir.";
+
+/* No comment provided by engineer. */
+"No" = "Hayır";
+
+/* No comment provided by engineer. */
+"Not connected" = "Bağlı değil";
+
+/* No comment provided by engineer. */
+"OK" = "Tamam";
+
+/* No comment provided by engineer. */
+"Oi mate! %@ is only available for upgraded bears." = "Selam dostum! %@ sadece üst sürümdeki ayılara açıktır.";
+
+/* No comment provided by engineer. */
+"Out of Data for the month" = "Bu aylık Veri bitti";
+
+/* No comment provided by engineer. */
+"Please enter a valid Twitter ID." = "Lütfen geçerli bir Twitter kullanıcı adı gir.";
+
+/* No comment provided by engineer. */
+"Please enter your Twitter ID" = "Lütfen Twitter kullanıcı adını gir";
+
+/* No comment provided by engineer. */
+"Please log in." = "Lütfen giriş yap.";
+
+/* No comment provided by engineer. */
+"Processing Purchase…" = "Satın Alınıyor…";
+
+/* No comment provided by engineer. */
+"Purchase Cancelled" = "Satın Alım İptal Edildi";
+
+/* No comment provided by engineer. */
+"Purchase Completed" = "Satın Alım Tamamlandı";
+
+/* No comment provided by engineer. */
+"Purchase pending user action" = "Satın alma için kullanıcı bekleniyor";
+
+/* No comment provided by engineer. */
+"Rawr! Enjoying your TunnelBear?" = "Rorr! TunnelBear'den memnun musun?";
+
+/* No comment provided by engineer. */
+"Rawr! It seems that your %@ is not connected to the Internet." = "Rorr! Görünüşe göre %@ cihazın internete bağlı değil.";
+
+/* No comment provided by engineer. */
+"Rawr! Looks like Twitter is either having issues or is blocked by your service provider." = "Rorr! Görünüşe göre Twitter sorun yaşıyor ya da servis sağlayıcın tarafından engellenmiş.";
+
+/* No comment provided by engineer. */
+"Rawr! TunnelBear is having trouble fetching product information. Try again later?" = "Rorr! TunnelBear ürün bilgisini alamıyor. Daha sonra tekrar dener misin?";
+
+/* No comment provided by engineer. */
+"Rawr! Your TunnelBear is having trouble fetching products from the App Store. Try again later?" = "Rorr! TunnelBear, App Store'dan ürün alamıyor. Daha sonra tekrar dener misin?";
+
+/* No comment provided by engineer. */
+"Rawr! Your TunnelBear is having trouble reaching the App Store. Try again later?" = "Rorr! TunnelBear, App Store'a ulaşamıyor. Daha sonra tekrar dener misin?";
+
+/* No comment provided by engineer. */
+"Rawrr! Problem confirming Twitter ID" = "Roorrr! Twitter kullanıcı adı doğrulanamıyor";
+
+/* No comment provided by engineer. */
+"Rawrr! Problems with your TunnelBear? Please contact support for a response within 24 hours." = "Roorrr! TunnelBear sorun mu çıkarıyor? Lütfen 24 saat içinde cevap almak için destek ekibine ulaş.";
+
+/* No comment provided by engineer. */
+"Rawrrr! Your bear has been upgraded." = "Rorrrr! Ayın üst sürüme geçti.";
+
+/* No comment provided by engineer. */
+"Reinstall Profile" = "Profili Yeniden Yükle";
+
+/* No comment provided by engineer. */
+"Restoring Purchases…" = "Satın Alımlar Geri Yükleniyor…";
+
+/* No comment provided by engineer. */
+"Review on iTunes" = "iTunes'da değerlendir";
+
+/* No comment provided by engineer. */
+"Save %d%%" = "%%%d kâr et";
+
+/* No comment provided by engineer. */
+"Send Bug report?" = "Hata raporu göndermek ister misin?";
+
+/* No comment provided by engineer. */
+"Sending Logs…" = "Günlük gönderiliyor…";
+
+/* No comment provided by engineer. */
+"Still changing countries…" = "Hâlâ ülke değiştiriliyor…";
+
+/* No comment provided by engineer. */
+"Still connected" = "Hâlâ bağlı";
+
+/* No comment provided by engineer. */
+"Tap Install when you’re prompted." = "Sorulduğunda “yükle”ye bas.";
+
+/* No comment provided by engineer. */
+"Terms of Service" = "Hizmet Şartları";
+
+/* No comment provided by engineer. */
+"To use a TunnelBear, you'll need to accept the TunnelBear Terms of Service." = "TunnelBear'i kullanabilmek için TunnelBear Hizmet Şartları'nı kabul etmen gerek.";
+
+/* No comment provided by engineer. */
+"Tunnel to %@?" = "Şu ülkeye tünel açılsın mı: %@?";
+
+/* No comment provided by engineer. */
+"TunnelBear" = "TunnelBear";
+
+/* Notify notifications title */
+"TunnelBear Notifications" = "TunnelBear Bildirimleri";
+
+/* Notifying users why we use notifications. */
+"TunnelBear can send you notifications when you are low on data. Tap “OK” when prompted to receive them." = "TunnelBear verin azaldığında bildirim gönderebilir. Bildirimleri almak için sorulduğunda “Tamam”a bas.";
+
+/* No comment provided by engineer. */
+"TunnelBear needs to install “VPN” settings on your %@. Tap Install when you’re prompted." = "TunnelBear'in %@ cihazına “VPN” ayarları yüklemesi gerekiyor. Sorulduğunda “yükle”ye bas.";
+
+/* No comment provided by engineer. */
+"Turn TunnelBear ON to make your location and data private!
+
+" = "Konumunu ve verini gizlemek için TunnelBear'i aç!
+";
+
+/* No comment provided by engineer. */
+"Tweet for 1 FREE GB?" = "ÜCRETSİZ 1 GB için tweet atar mısın?";
+
+/* No comment provided by engineer. */
+"Twitter Not Reachable" = "Twitter'a Ulaşılamıyor";
+
+/* No comment provided by engineer. */
+"Unable to install VPN profile" = "VPN profili yüklenemiyor";
+
+/* No comment provided by engineer. */
+"Updating Account…" = "Hesap güncelleniyor…";
+
+/* No comment provided by engineer. */
+"Upgrade" = "Üst sürüme geç";
+
+/* No comment provided by engineer. */
+"VPN Profile Not Found" = "VPN Profili Bulunamadı";
+
+/* No comment provided by engineer. */
+"VPN connection timed out" = "VPN bağlantı süresi doldu";
+
+/* No comment provided by engineer. */
+"Verifying connection…" = "Bağlantı doğrulanıyor…";
+
+/* No comment provided by engineer. */
+"View Terms" = "Şartları Görüntüle";
+
+/* No comment provided by engineer. */
+"We’ve sent you a bear!" = "Sana bir ayı gönderdik!";
+
+/* No comment provided by engineer. */
+"Yes" = "Evet";
+
+/* No comment provided by engineer. */
+"Yes!" = "Evet!";
+
+/* No comment provided by engineer. */
+"Yikes! Well would you mind telling us what you don’t like about your Bear?" = "Amanın!Ayından neden memnun olmadığını söyler misin peki?";
+
+/* No comment provided by engineer. */
+"You already have a pending purchase that TunnelBear hasn't processed yet. Make another purchase anyway?" = "TunnelBear'in henüz tamamlamadığı bir satın alım işlemin var.  Bir satın alım daha yapacak mısın?";
+
+/* No comment provided by engineer. */
+"You'll see a message when you upgrade. This is the default message shown for all app store subscriptions. Even if you tap “Allow” we don’t actually collect or store this information. You can see our privacy policy here." = "Üst sürüme geçtiğinde mesaj gelecek. Bu varsayılan mesaj bütün App Store aboneliklerinde gösterilir. “İzin ver”e bassan da aslında bu bilgiyi toplamayız, depolamayız. Gizlilik politikamızı buradan okuyabilirsin.";
+
+/* No comment provided by engineer. */
+"You're already connected to this tunnel." = "Zaten bu tünele bağlısın.";
+
+/* No comment provided by engineer. */
+"You're currently changing countries" = "Şu anda ülke değiştiriyorsun";
+
+/* No comment provided by engineer. */
+"You're currently connected to TunnelBear" = "Şu anda TunnelBear'e bağlısın";
+
+/* No comment provided by engineer. */
+"You're currently disconnected from TunnelBear" = "Şu anda TunnelBear bağlantın kesik";
+
+/* No comment provided by engineer. */
+"Your TunnelBear is out of food (data)!" = "TunnelBear'inin yiyeceği (verisi) bitti!";
+
+/* No comment provided by engineer. */
+"Your free 1GB has been delivered!" = "Ücretsiz 1 GB'ın aktarıldı!";
+
+/* No comment provided by engineer. */
+"Your location:" = "Konumun:";
+
+/* No comment provided by engineer. */
+"Your location:
+ %@, %@, %@" = "Konumun:
+ %1$@, %2$@, %3$@";
+
+/* No comment provided by engineer. */
+"Your location: %@" = "Konumun: %@";
+
+/* No comment provided by engineer. */
+"Your location: %@, %@" = "Konumun: %1$@, %2$@";
+
+/* No comment provided by engineer. */
+"contact support" = "destek ekibine ulaş";
+
+/* No comment provided by engineer. */
+"free 1GB" = "Ücretsiz 1 GB";
+
+/* No comment provided by engineer. */
+"here" = "buradan";
+
+/* No comment provided by engineer. */
+"manual settings" = "Manuel ayarlarla";
+
+/* No comment provided by engineer. */
+"onboard_install_profile" = "onboard_install_profile_tr";
+
+/* No comment provided by engineer. */
+"onboard_install_profile_ios8" = "onboard_install_profile_ios8_tr";
+
+/* No comment provided by engineer. */
+"other apps" = "diğer uygulamaları";
+

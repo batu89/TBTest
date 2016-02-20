@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "Pne-4F-Pbh"; */
+"Pne-4F-Pbh.text" = "Privacy";
+
+/* Class = "UISegmentedControl"; WE8-KB-Whr.segmentTitles[0] = "Full Plans"; ObjectID = "WE8-KB-Whr"; */
+"WE8-KB-Whr.segmentTitles[0]" = "Full Plans";
+
+/* Class = "UISegmentedControl"; WE8-KB-Whr.segmentTitles[1] = "For iOS Only"; ObjectID = "WE8-KB-Whr"; */
+"WE8-KB-Whr.segmentTitles[1]" = "For iOS Only";
+
+/* Class = "UILabel"; text = "Restore Purchases"; ObjectID = "jCX-eZ-T0E"; */
+"jCX-eZ-T0E.text" = "Restore Purchases";
+
+/* Class = "UINavigationItem"; title = "Get Unlimited Data"; ObjectID = "rtb-3h-X6l"; */
+"rtb-3h-X6l.title" = "Get Unlimited Data";

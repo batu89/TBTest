@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Your 1GB of free data should appear within the hour."; ObjectID = "Fd1-X4-kYs"; */
+"Fd1-X4-kYs.text" = "Your 1GB of free data should appear within the hour.";
+
+/* Class = "UINavigationItem"; title = "Rawr! Thanks!"; ObjectID = "Xas-B4-C4d"; */
+"Xas-B4-C4d.title" = "Rawr! Thanks!";
+
+/* Class = "UILabel"; text = "You can tweet again next month for another free GB!"; ObjectID = "mRJ-U1-Sc9"; */
+"mRJ-U1-Sc9.text" = "You can tweet again next month for another free GB!";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "mu4-iI-Tgy"; */
+"mu4-iI-Tgy.normalTitle" = "OK";

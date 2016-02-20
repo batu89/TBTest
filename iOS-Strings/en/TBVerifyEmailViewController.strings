@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "We've sent you a bear!"; ObjectID = "2JP-sf-gYi"; */
+"2JP-sf-gYi.text" = "We've sent you a bear!";
+
+/* Class = "UILabel"; text = "Please check your email to confirm we’ve sent your bear to the right address:"; ObjectID = "PXg-NA-y5J"; */
+"PXg-NA-y5J.text" = "Please check your email to confirm we’ve sent your bear to the right address:";
+
+/* Class = "UIButton"; normalTitle = "Change Email"; ObjectID = "TwT-VL-3Lv"; */
+"TwT-VL-3Lv.normalTitle" = "Change Email";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Xtg-k8-1fo"; */
+"Xtg-k8-1fo.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "ibear@tunnelbear.com"; ObjectID = "aBV-m1-R0q"; */
+"aBV-m1-R0q.text" = "ibear@tunnelbear.com";
+
+/* Class = "UIButton"; normalTitle = "Resend Email"; ObjectID = "vVd-jG-HCZ"; */
+"vVd-jG-HCZ.normalTitle" = "Resend Email";

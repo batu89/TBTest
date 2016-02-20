@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; accessibilityLabel = "You're currently not connected to TunnelBear"; ObjectID = "3Bl-5R-ae6"; */
+"3Bl-5R-ae6.accessibilityLabel" = "You're currently not connected to TunnelBear";
+
+/* Class = "UILabel"; text = "Disconnected"; ObjectID = "3Bl-5R-ae6"; */
+"3Bl-5R-ae6.text" = "Disconnected";
+
+/* Class = "UIButton"; accessibilityHint = "Got it"; ObjectID = "AH2-0Z-KnF"; */
+"AH2-0Z-KnF.accessibilityHint" = "Got it";
+
+/* Class = "UIButton"; accessibilityLabel = "Got it"; ObjectID = "AH2-0Z-KnF"; */
+"AH2-0Z-KnF.accessibilityLabel" = "Got it";
+
+/* Class = "UIButton"; normalTitle = "Got it"; ObjectID = "AH2-0Z-KnF"; */
+"AH2-0Z-KnF.normalTitle" = "Got it";
+
+/* Class = "UILabel"; text = "Change countries here."; ObjectID = "G8d-yD-fXp"; */
+"G8d-yD-fXp.text" = "Change countries here.";
+
+/* Class = "UIButton"; accessibilityHint = "Change connection countries"; ObjectID = "IN1-Dq-51U"; */
+"IN1-Dq-51U.accessibilityHint" = "Change connection countries";
+
+/* Class = "UIButton"; accessibilityLabel = "Change countries"; ObjectID = "IN1-Dq-51U"; */
+"IN1-Dq-51U.accessibilityLabel" = "Change countries";
+
+/* Class = "UIButton"; normalTitle = " Germany"; ObjectID = "IN1-Dq-51U"; */
+"IN1-Dq-51U.normalTitle" = " Germany";
+
+/* Class = "UILabel"; text = "Turn TunnelBear ON here."; ObjectID = "WN0-Nv-lk5"; */
+"WN0-Nv-lk5.text" = "Turn TunnelBear ON here.";
+
+/* Class = "UIButton"; accessibilityHint = "Open menu"; ObjectID = "nH8-qR-TXv"; */
+"nH8-qR-TXv.accessibilityHint" = "Open menu";
+
+/* Class = "UIButton"; accessibilityLabel = "Menu"; ObjectID = "nH8-qR-TXv"; */
+"nH8-qR-TXv.accessibilityLabel" = "Menu";
+
+/* Class = "UIButton"; accessibilityHint = "Upgrade your bear"; ObjectID = "s6f-ak-6To"; */
+"s6f-ak-6To.accessibilityHint" = "Upgrade your bear";
+
+/* Class = "UIButton"; accessibilityLabel = "Upgrade"; ObjectID = "s6f-ak-6To"; */
+"s6f-ak-6To.accessibilityLabel" = "Upgrade";
+
+/* Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "s6f-ak-6To"; */
+"s6f-ak-6To.normalTitle" = "Upgrade";
+
+/* Class = "UIView"; accessibilityLabel = "Connect to TunnelBear"; ObjectID = "x71-gq-8Bu"; */
+"x71-gq-8Bu.accessibilityLabel" = "Connect to TunnelBear";
