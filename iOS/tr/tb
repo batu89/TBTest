@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-16LE"?>
-<xliff version="1.2">
-<file original="TB xliff test_293762032"  source-language="en-US"  target-language="tr-TR"  datatype="x-multi-format">
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff its:version="2.0" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" xmlns:okp="okapi-framework:xliff-extensions">
+<file datatype="x-text/plain" original="description.txt" source-language="en-us" target-language="tr-TR">
 <header>
 <phase-group>
 <phase phase-name="Translation1" process-name="Translation"/>
