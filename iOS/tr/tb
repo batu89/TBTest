@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-16LE"?>
+<xliff version="1.2">
+<file original="TB xliff test_293762032"  source-language="en-US"  target-language="tr-TR"  datatype="x-multi-format">
+<header>
+<phase-group>
+<phase phase-name="Translation1" process-name="Translation"/>
+</phase-group>
+<note>
+# GlobalSight Download File
+# Activity Type:Translation1
+# User name:eakkas
+# Accept time:05/12/2016 16:56:49
+# Encoding:UTF-16LE
+# Document Format:multi-format
+# Placeholder Format:PTAG-COMPACT
+# Source Locale:en-US
+# Target Locale:tr-TR
+# Page ID:11452
+# Workflow ID:3310
+# Task ID:22748
+# Exact Match word count:118
+# Fuzzy Match word count:131
+# No Match word count:114
+# Populate 100% Target Segments: YES
+# GlobalSight Instance ID:http://emergo.localizationsmart.com/globalsight/
+# In-Context Match word count:0
+# Edit all:Incontext Match and Exact Match
+# GlobalSight TM Profile id:13
+# GlobalSight TM Profile name:TunnelBear
+# GlobalSight Termbase:
+# GlobalSight Offline Toolkit Format:Xliff
+</note>
+</header>
+<body>
+<trans-unit id="1182095" translate="yes">
+<source>Simple, private, free access to the open Internet you love.</source>
+<target state="new">Sevdiğin açık internete basit, gizli, ücretsiz erişim.</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>Simple, private, free access to the open Internet you love.</source>
+<target>Sevdiğin açık internete basit, gizli, ücretsiz erişim.</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182096" translate="yes">
+<source>Download TunnelBear VPN free for your iPhone / iPad to protect your online privacy, access your favourite websites, and browse securely on Wifi hotspots.</source>
+<target state="needs-review-translation">Download TunnelBear VPN free for your iPhone / iPad to protect your online privacy, access your favourite websites, and browse securely on Wifi hotspots.</target>
+<alt-trans match-quality="90.00" origin="TM">
+<source>Get TunnelBear VPN for your iPhone / iPad to protect your online privacy, access your favourite websites, and browse securely on Wifi hotspots.</source>
+<target>iPhone/iPad&apos;ine TunnelBear VPN&apos;i kur, internette gizliliğini koru, en sevdiğin sitelere gir ve Wi-Fi noktalarında güvenle internette dolaş.</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182097" translate="yes">
+<source>This beautiful app gives you 500MB of free data each and every month, with more free data when you tell your friends about TunnelBear.</source>
+<target state="translated">Bu harika uygulama sana her ay 500 MB ücretsiz veri kullanımı veriyor, hatta arkadaşlarına TunnelBear’den bahsedersen daha fazla veri kazanıyorsun.</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>This <bpt i="1" type="color" x="1"/>beautiful<ept i="1"/> app gives you 500MB of free data each and every month, with more free data when you tell your friends about TunnelBear.</source>
+<target>Bu <bpt i="1" type="color" x="1"/>harika<ept i="1"/> uygulama sana her ay 500 MB ücretsiz veri kullanımı veriyor, hatta arkadaşlarına TunnelBear’den bahsedersen daha fazla veri kazanıyorsun.</target>
+</alt-trans>
+<alt-trans match-quality="89.53" origin="TM">
+<source>This wonderfully simple app gives you 500MB of free data each and every month, with more free data when you tell your friends about TunnelBear.</source>
+<target>Bu inanılmaz basit uygulama sana her ay 500 MB ücretsiz veri kullanımı veriyor, hatta arkadaşlarına TunnelBear’den bahsedersen daha fazla veri kazanıyorsun.</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182098" translate="yes">
+<source>Features:</source>
+<target state="new">Özellikler:</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>Features:</source>
+<target>Özellikler:</target>
+</alt-trans>
+<alt-trans match-quality="82.35" origin="TM">
+<source>Features</source>
+<target>Özellikler</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182099" translate="yes">
+<source>* A beautifully simple app. </source>
+<target state="needs-review-translation">* A beautifully simple app. </target>
+<alt-trans match-quality="99.00" origin="TM">
+<source>* A beautifully simple app.</source>
+<target>* Basit mi basit bir uygulama.</target>
+</alt-trans>
+<alt-trans match-quality="75.00" origin="TM">
+<source>* A beautifully simple app that just works</source>
+<target>• İşe yarayan, basit mi basit bir uygulama</target>
+</alt-trans>
+<alt-trans match-quality="75.00" origin="TM">
+<source>A beautifully simple app that just works</source>
+<target>İşe yarayan, basit mi basit bir uygulama</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182100" translate="yes">
+<source>On, off. </source>
+<target state="new">On, off. </target>
+</trans-unit>
+<trans-unit id="1182101" translate="yes">
+<source>It's that easy.</source>
+<target state="translated">İşte o kadar.</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>It&apos;s that easy.<it i="1" pos="end" x="2"/></source>
+<target>İşte o kadar.<it i="1" pos="end" x="2"/></target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182102" translate="yes">
+<source>* Access to your favourite websites, anytime, anywhere.</source>
+<target state="translated">* Her zaman, her yerde en sevdiğin sitelere erişim.</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>* <bpt i="1" type="color" x="1"/>Access to your favourite websites, anytime, anywhere.<ept i="1"/></source>
+<target>* <bpt i="1" type="color" x="1"/>Her zaman, her yerde en sevdiğin sitelere erişim.<ept i="1"/></target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182103" translate="yes">
+<source>* Lightning fast connection speeds to 20+ countries in our ever expanding network.</source>
+<target state="translated">* Giderek büyüyen ağımızdaki 20'den fazla ülkede yıldırım hızında bağlantı.</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>* <bpt i="1" type="color" x="1"/>Lightning fast connection speeds to 20+ countries in our ever expanding network.<ept i="1"/></source>
+<target>* <bpt i="1" type="color" x="1"/>Giderek büyüyen ağımızdaki 20&apos;den fazla ülkede yıldırım hızında bağlantı.<ept i="1"/></target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182104" translate="yes">
+<source>* Browse the Internet with more privacy from hackers, ISPs and anyone monitoring your network.</source>
+<target state="translated">* Hacker'lara, internet servis sağlayıcılarına ve ağını izleyenlere karşı internette gizlice dolaşabilme.</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>* Browse the Internet with more privacy from <bpt i="1" type="color" x="1"/>hackers, ISPs and anyone monitoring your network.<ept i="1"/></source>
+<target>* <bpt i="1" type="color" x="1"/>Hacker&apos;lara, internet servis sağlayıcılarına ve ağını izleyenlere<ept i="1"/> karşı internette gizlice dolaşabilme.</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182105" translate="yes">
+<source>* Encrypt your data to browse with confidence while you’re connected to wifi hotspots.</source>
+<target state="translated">* Wi-Fi noktalarına bağlıyken güvenle internete girmek için verini şifreleme.</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>*<bpt i="1" type="color" x="1"/> Encrypt your data to browse with confidence while you’re connected to wifi hotspots.<ept i="1"/></source>
+<target>*<bpt i="1" type="color" x="1"/> Wi-Fi noktalarına bağlıyken güvenle internete girmek için verini şifreleme.<ept i="1"/></target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182106" translate="yes">
+<source>* Helpful support that always responds within 24 hours.</source>
+<target state="needs-review-translation">* Helpful support that always responds within 24 hours.</target>
+<alt-trans match-quality="97.24" origin="TM">
+<source>* Helpful support that always responds within 24 hours</source>
+<target>• Her zaman 24 saat içinde cevap veren yardımsever müşteri hizmetleri</target>
+</alt-trans>
+<alt-trans match-quality="97.24" origin="TM">
+<source>* Helpful support that always responds within 24 hours</source>
+<target>• Her zaman 24 saat içinde cevap veren yardımsever müşteri hizmetleri.</target>
+</alt-trans>
+<alt-trans match-quality="95.32" origin="TM">
+<source>Helpful support that always responds within 24 hours</source>
+<target>Her zaman 24 saat içinde cevap veren yardımsever müşteri hizmetleri</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182107" translate="yes">
+<source>What are the best tech sites on the Internet saying about TunnelBear?</source>
+<target state="translated">İnternetteki en iyi teknoloji siteleri TunnelBear için ne diyor?</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>What are the best tech sites on the Internet saying about TunnelBear<bpt i="1" type="color" x="1"/>?<ept i="1"/></source>
+<target>İnternetteki en iyi teknoloji siteleri TunnelBear için ne diyor<bpt i="1" type="color" x="1"/>?<ept i="1"/></target>
+</alt-trans>
+<alt-trans match-quality="92.00" origin="TM">
+<source>What are the best tech sites on the Internet saying about TunnelBear VPN?</source>
+<target>İnternetteki en iyi teknoloji siteleri TunnelBear VPN için ne diyor?</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182108" translate="yes">
+<source>“TunnelBear is an elegant, easy mobile VPN that keeps you safe.” - Lifehacker</source>
+<target state="needs-review-translation">“TunnelBear is an elegant, easy mobile VPN that keeps you safe.” - Lifehacker</target>
+<alt-trans match-quality="93.00" origin="TM">
+<source>“<bpt i="1" type="color" x="1"/>TunnelBear is an elegant, easy mobile VPN that keeps you safe.<ept i="1"/>”</source>
+<target>“<bpt i="1" type="color" x="1"/>TunnelBear güvenliğinizi sağlayan, zarif, basit bir mobil VPN uygulaması.<ept i="1"/>”</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182109" translate="yes">
+<source>“TunnelBear, the gorgeous VPN app that wants to bring online privacy to everyone.” - VentureBeat</source>
+<target state="needs-review-translation">“TunnelBear, the gorgeous VPN app that wants to bring online privacy to everyone.” - VentureBeat</target>
+<alt-trans match-quality="94.00" origin="TM">
+<source>“TunnelBear, the gorgeous VPN app that wants to bring online privacy to everyone.”</source>
+<target>&quot;TunnelBear, herkese internette gizlilik sağlamak isteyen muhteşem VPN uygulaması.&quot;</target>
+</alt-trans>
+<alt-trans match-quality="90.00" origin="TM">
+<source>&quot;Meet TunnelBear, the gorgeous VPN app that wants to bring online privacy to everyone.&quot;</source>
+<target>&quot;Herkese internette gizlilik sağlamak isteyen muhteşem VPN uygulaması TunnelBear&apos;le tanışın.&quot;</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182110" translate="yes">
+<source>“The most beautiful VPN app we’ve ever seen.” - TNW</source>
+<target state="needs-review-translation">“The most beautiful VPN app we’ve ever seen.” - TNW</target>
+<alt-trans match-quality="92.00" origin="TM">
+<source>“The most beautiful VPN app we’ve ever seen"</source>
+<target>“Gördüğümüz en güzel VPN programı...”</target>
+</alt-trans>
+<alt-trans match-quality="92.00" origin="TM">
+<source>“The most beautiful VPN app we’ve ever seen"</source>
+<target>“Gördüğümüz en güzel VPN uygulaması.”</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182111" translate="yes">
+<source>“All you have to do is turn the switch to “ON” and you are protected.” - WSJ</source>
+<target state="needs-review-translation">“All you have to do is turn the switch to “ON” and you are protected.” - WSJ</target>
+<alt-trans match-quality="85.00" origin="TM">
+<source>“All you have to do is turn the switch to “ON” and you are protected.”</source>
+<target>“Düğmeyi çevirdiğiniz anda korunuyor olacaksınız.”</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182112" translate="yes">
+<source>“A most useful mammal…” - Yahoo News</source>
+<target state="new">“A most useful mammal…” - Yahoo News</target>
+</trans-unit>
+<trans-unit id="1182113" translate="yes">
+<source>Privacy Policy:</source>
+<target state="new">Gizlilik Politikası:</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>Privacy Policy:</source>
+<target>Gizlilik Politikası:</target>
+</alt-trans>
+<alt-trans match-quality="80.00" origin="TM">
+<source> rated privacy policy</source>
+<target>gizlilik politikası</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182114" translate="yes">
+<source>Spoiler alert - no logging! </source>
+<target state="needs-review-translation">Spoiler alert - no logging! </target>
+<alt-trans match-quality="99.00" origin="TM">
+<source>Spoiler alert - no logging!</source>
+<target>Spoiler uyarısı - veri kaydetmiyoruz!</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182115" translate="yes">
+<source>Check out our straightforward, plain-english privacy policy here: https://www.tunnelbear.com/privacy-policy</source>
+<target state="needs-review-translation">Check out our straightforward, plain-english privacy policy here: https://www.tunnelbear.com/privacy-policy</target>
+<alt-trans match-quality="76.00" origin="TM">
+<source>Check out our straightforward, plain-english privacy policy here: <ph i="0" type="url" x="1"/></source>
+<target>Açık, sade bir dille yazdığımız gizlilik politikamızı şuradan oku: <ph i="0" type="url" x="1"/></target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182116" translate="yes">
+<source>Upgrade your bear:</source>
+<target state="needs-review-translation">Upgrade your bear:</target>
+<alt-trans match-quality="99.00" origin="TM">
+<source>Upgrade <bpt i="1" type="color" x="1"/>Your<ept i="1"/> Bear:</source>
+<target><bpt i="1" type="color" x="1"/>Ayının<ept i="1"/> Üst Sürümüne Geç:</target>
+</alt-trans>
+<alt-trans match-quality="91.42" origin="TM">
+<source>Upgrade your bear</source>
+<target>Ayını üst sürüme geçir</target>
+</alt-trans>
+<alt-trans match-quality="91.42" origin="TM">
+<source>Upgrade your Bear</source>
+<target>Ayının Üst Sürümüne Geç</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182117" translate="yes">
+<source>TunnelBear subscriptions provide unlimited data, access to all of our server locations, and can be used on up to five devices. </source>
+<target state="new">TunnelBear subscriptions provide unlimited data, access to all of our server locations, and can be used on up to five devices. </target>
+</trans-unit>
+<trans-unit id="1182118" translate="yes">
+<source>We offer two types of auto-renewing subscriptions: Full and iOS-only.</source>
+<target state="new">We offer two types of auto-renewing subscriptions: Full and iOS-only.</target>
+</trans-unit>
+<trans-unit id="1182119" translate="yes">
+<source>- A full plan can be purchased within the app for $6.99 monthly, or $49.99 yearly (saving a whopping 42%!).</source>
+<target state="new">- A full plan can be purchased within the app for $6.99 monthly, or $49.99 yearly (saving a whopping 42%!).</target>
+</trans-unit>
+<trans-unit id="1182120" translate="yes">
+<source>- An iOS-only plan can be purchased within the app for $3.99 monthly, or $29.99 yearly (saving 39%!). </source>
+<target state="new">- An iOS-only plan can be purchased within the app for $3.99 monthly, or $29.99 yearly (saving 39%!). </target>
+</trans-unit>
+<trans-unit id="1182121" translate="yes">
+<source>This plan is for iPhones and iPads only.</source>
+<target state="needs-review-translation">This plan is for iPhones and iPads only.</target>
+<alt-trans match-quality="80.00" origin="TM">
+<source>For iPhones and iPads only</source>
+<target>Sadece iPhone ve iPad için</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182122" translate="yes">
+<source>* Payments are charged to your iTunes account at confirmation of purchase</source>
+<target state="needs-review-translation">* Payments are charged to your iTunes account at confirmation of purchase</target>
+<alt-trans match-quality="80.00" origin="TM">
+<source>* Payments are charged to your iTunes account</source>
+<target>* Ödemeler iTunes hesabına yazılır</target>
+</alt-trans>
+<alt-trans match-quality="80.00" origin="TM">
+<source>Payments are charged to your iTunes account</source>
+<target>Ödemeler iTunes hesabına yazılır</target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182123" translate="yes">
+<source>* Your subscription will automatically renew 24 hours before the end of each current period (monthly or yearly depending on what you choose) unless auto-renewal is turned off.</source>
+<target state="new">* Your subscription will automatically renew 24 hours before the end of each current period (monthly or yearly depending on what you choose) unless auto-renewal is turned off.</target>
+</trans-unit>
+<trans-unit id="1182124" translate="yes">
+<source>* Auto-renewal can be turned off at any time within the user’s Apple ID Account Settings &gt; Manage Subscriptions</source>
+<target state="translated">* Otomatik yenileme, Apple Kimlik Hesabı Ayarları &gt; Abonelikleri Yönet'ten her zaman kapatılabilir</target>
+<alt-trans match-quality="100.00" origin="TM">
+<source>* <bpt i="1" type="color" x="1"/>Auto-renewal can be turned off at any time within the user’s Apple ID Account Settings &gt; Manage Subscriptions<ept i="1"/></source>
+<target>* <bpt i="1" type="color" x="1"/>Otomatik yenileme, Apple Kimlik Hesabı Ayarları &gt; Abonelikleri Yönet&apos;ten her zaman kapatılabilir<ept i="1"/></target>
+</alt-trans>
+</trans-unit>
+<trans-unit id="1182125" translate="yes">
+<source>Support:</source>
+<target state="new">Support:</target>
+</trans-unit>
+<trans-unit id="1182126" translate="yes">
+<source>Looking to learn a cool bear fact? </source>
+<target state="new">Looking to learn a cool bear fact? </target>
+</trans-unit>
+<trans-unit id="1182127" translate="yes">
+<source>Is your TunnelBear misbehaving? </source>
+<target state="new">Is your TunnelBear misbehaving? </target>
+</trans-unit>
+<trans-unit id="1182128" translate="yes">
+<source>Contact support at support@tunnelbear.com</source>
+<target state="needs-review-translation">Contact support at support@tunnelbear.com</target>
+<alt-trans match-quality="80.00" origin="TM">
+<source>contact support</source>
+<target>destek ekibine ulaş</target>
+</alt-trans>
+</trans-unit>
+</body>
+</file>
+</xliff>
