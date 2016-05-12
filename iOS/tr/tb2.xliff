@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff its:version="2.0" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" xmlns:okp="okapi-framework:xliff-extensions">
+<file datatype="x-text/plain" original="description.txt" source-language="en-us" target-language="tr-TR">
+<body>
+<trans-unit id="1" xml:space="preserve">
+<source xml:lang="en-us">Simple, private, free access to the open Internet you love.</source>
+<target xml:lang="tr-TR">Sevdiğin açık internete basit, gizli, ücretsiz erişim.</target>
+</trans-unit>
+<trans-unit id="2" xml:space="preserve">
+<source xml:lang="en-us">Download TunnelBear VPN free for your iPhone / iPad to protect your online privacy, access your favourite websites, and browse securely on Wifi hotspots.</source>
+<target xml:lang="tr-TR">Download TunnelBear VPN free for your iPhone / iPad to protect your online privacy, access your favourite websites, and browse securely on Wifi hotspots.</target>
+</trans-unit>
+<trans-unit id="3" xml:space="preserve">
+<source xml:lang="en-us">This beautiful app gives you 500MB of free data each and every month, with more free data when you tell your friends about TunnelBear.</source>
+<target xml:lang="tr-TR">Bu harika uygulama sana her ay 500 MB ücretsiz veri kullanımı veriyor, hatta arkadaşlarına TunnelBear’den bahsedersen daha fazla veri kazanıyorsun.</target>
+</trans-unit>
+<trans-unit id="4" xml:space="preserve">
+<source xml:lang="en-us">Features:</source>
+<target xml:lang="tr-TR">Özellikler:</target>
+</trans-unit>
+<trans-unit id="5" xml:space="preserve">
+<source xml:lang="en-us">* A beautifully simple app. On, off. It's that easy.</source>
+<target xml:lang="tr-TR">İşte o kadar.</target>
+</trans-unit>
+<trans-unit id="6" xml:space="preserve">
+<source xml:lang="en-us">* Access to your favourite websites, anytime, anywhere.</source>
+<target xml:lang="tr-TR">* Her zaman, her yerde en sevdiğin sitelere erişim.</target>
+</trans-unit>
+<trans-unit id="7" xml:space="preserve">
+<source xml:lang="en-us">* Lightning fast connection speeds to 20+ countries in our ever expanding network.</source>
+<target xml:lang="tr-TR">* Giderek büyüyen ağımızdaki 20'den fazla ülkede yıldırım hızında bağlantı.</target>
+</trans-unit>
+<trans-unit id="8" xml:space="preserve">
+<source xml:lang="en-us">* Browse the Internet with more privacy from hackers, ISPs and anyone monitoring your network.</source>
+<target xml:lang="tr-TR">* Hacker'lara, internet servis sağlayıcılarına ve ağını izleyenlere karşı internette gizlice dolaşabilme.</target>
+</trans-unit>
+<trans-unit id="9" xml:space="preserve">
+<source xml:lang="en-us">* Encrypt your data to browse with confidence while you’re connected to wifi hotspots.</source>
+<target xml:lang="tr-TR">* Wi-Fi noktalarına bağlıyken güvenle internete girmek için verini şifreleme.</target>
+</trans-unit>
+<trans-unit id="10" xml:space="preserve">
+<source xml:lang="en-us">* Helpful support that always responds within 24 hours.</source>
+<target xml:lang="tr-TR">* Helpful support that always responds within 24 hours.</target>
+</trans-unit>
+<trans-unit id="11" xml:space="preserve">
+<source xml:lang="en-us">What are the best tech sites on the Internet saying about TunnelBear?</source>
+<target xml:lang="tr-TR">İnternetteki en iyi teknoloji siteleri TunnelBear için ne diyor?</target>
+</trans-unit>
+<trans-unit id="12" xml:space="preserve">
+<source xml:lang="en-us">“TunnelBear is an elegant, easy mobile VPN that keeps you safe.” - Lifehacker</source>
+<target xml:lang="tr-TR">“TunnelBear is an elegant, easy mobile VPN that keeps you safe.” - Lifehacker</target>
+</trans-unit>
+<trans-unit id="13" xml:space="preserve">
+<source xml:lang="en-us">“TunnelBear, the gorgeous VPN app that wants to bring online privacy to everyone.” - VentureBeat</source>
+<target xml:lang="tr-TR">“TunnelBear, the gorgeous VPN app that wants to bring online privacy to everyone.” - VentureBeat</target>
+</trans-unit>
+<trans-unit id="14" xml:space="preserve">
+<source xml:lang="en-us">“The most beautiful VPN app we’ve ever seen.” - TNW</source>
+<target xml:lang="tr-TR">“The most beautiful VPN app we’ve ever seen.” - TNW</target>
+</trans-unit>
+<trans-unit id="15" xml:space="preserve">
+<source xml:lang="en-us">“All you have to do is turn the switch to “ON” and you are protected.” - WSJ</source>
+<target xml:lang="tr-TR">“All you have to do is turn the switch to “ON” and you are protected.” - WSJ</target>
+</trans-unit>
+<trans-unit id="16" xml:space="preserve">
+<source xml:lang="en-us">“A most useful mammal…” - Yahoo News</source>
+<target xml:lang="tr-TR">“A most useful mammal…” - Yahoo News</target>
+</trans-unit>
+<trans-unit id="17" xml:space="preserve">
+<source xml:lang="en-us">Privacy Policy:</source>
+<target xml:lang="tr-TR">Gizlilik Politikası:</target>
+</trans-unit>
+<trans-unit id="18" xml:space="preserve">
+<source xml:lang="en-us">Spoiler alert - no logging! Check out our straightforward, plain-english privacy policy here: https://www.tunnelbear.com/privacy-policy</source>
+<target xml:lang="tr-TR"></target>
+</trans-unit>
+<trans-unit id="19" xml:space="preserve">
+<source xml:lang="en-us">Upgrade your bear:</source>
+<target xml:lang="tr-TR">Upgrade your bear:</target>
+</trans-unit>
+<trans-unit id="20" xml:space="preserve">
+<source xml:lang="en-us">TunnelBear subscriptions provide unlimited data, access to all of our server locations, and can be used on up to five devices. We offer two types of auto-renewing subscriptions: Full and iOS-only.</source>
+<target xml:lang="tr-TR"></target>
+</trans-unit>
+<trans-unit id="21" xml:space="preserve">
+<source xml:lang="en-us">- A full plan can be purchased within the app for $6.99 monthly, or $49.99 yearly (saving a whopping 42%!).</source>
+<target xml:lang="tr-TR">- A full plan can be purchased within the app for $6.99 monthly, or $49.99 yearly (saving a whopping 42%!).</target>
+</trans-unit>
+<trans-unit id="22" xml:space="preserve">
+<source xml:lang="en-us">- An iOS-only plan can be purchased within the app for $3.99 monthly, or $29.99 yearly (saving 39%!). This plan is for iPhones and iPads only.</source>
+<target xml:lang="tr-TR"></target>
+</trans-unit>
+<trans-unit id="23" xml:space="preserve">
+<source xml:lang="en-us">* Payments are charged to your iTunes account at confirmation of purchase</source>
+<target xml:lang="tr-TR">* Payments are charged to your iTunes account at confirmation of purchase</target>
+</trans-unit>
+<trans-unit id="24" xml:space="preserve">
+<source xml:lang="en-us">* Your subscription will automatically renew 24 hours before the end of each current period (monthly or yearly depending on what you choose) unless auto-renewal is turned off.</source>
+<target xml:lang="tr-TR">* Your subscription will automatically renew 24 hours before the end of each current period (monthly or yearly depending on what you choose) unless auto-renewal is turned off.</target>
+</trans-unit>
+<trans-unit id="25" xml:space="preserve">
+<source xml:lang="en-us">* Auto-renewal can be turned off at any time within the user’s Apple ID Account Settings > Manage Subscriptions</source>
+<target xml:lang="tr-TR">* Otomatik yenileme, Apple Kimlik Hesabı Ayarları &gt; Abonelikleri Yönet'ten her zaman kapatılabilir</target>
+</trans-unit>
+<trans-unit id="26" xml:space="preserve">
+<source xml:lang="en-us">Support:</source>
+<target xml:lang="tr-TR">Support:</target>
+</trans-unit>
+<trans-unit id="27" xml:space="preserve">
+<source xml:lang="en-us">Looking to learn a cool bear fact? Is your TunnelBear misbehaving? Contact support at support@tunnelbear.com</source>
+<target xml:lang="tr-TR"></target>
+</trans-unit>
+</body>
+</file>
+</xliff>
