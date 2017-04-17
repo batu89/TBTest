@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file datatype="plaintext" original="TunnelBear/Code/Controllers/Base.lproj/TBPromoViewController.xib" source-language="en">
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="TunnelBear/Code/Controllers/Base.lproj/TBPromoViewController.xib" source-language="en" target-language="ar">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="03z-jr-kYk.normalTitle">
@@ -10,9 +10,9 @@
 				<target>نعم</target>
         <note>Class = "UIButton"; normalTitle = "Sure!"; ObjectID = "03z-jr-kYk";</note>
       </trans-unit>
-      <trans-unit id="58M-PZ-Xk3.normalTitle">
+      <trans-unit id="58M-PZ-Xk3.normalTitle" approved="yes">
         <source>Go Tunneling!</source>
-				<target>اذهب لحفر الأنفاق!</target>
+				<target state="translated">iueaieaeiaeiaeia</target>
         <note>Class = "UIButton"; normalTitle = "Go Tunneling!"; ObjectID = "58M-PZ-Xk3";</note>
       </trans-unit>
       <trans-unit id="ajY-lA-uqt.normalTitle">
@@ -23,7 +23,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBCountryViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="5c0-Hm-8NY.title">
@@ -34,7 +34,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBCreateAccountViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="13.normalTitle">
@@ -115,12 +115,12 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBLaunchViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
-    <body></body>
+    <body/>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBLoginViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="46.text">
@@ -186,7 +186,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBMainViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="3Bl-5R-ae6.accessibilityLabel">
@@ -277,7 +277,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBManageSubscriptionViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="FS5-2o-nej.normalTitle">
@@ -303,7 +303,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBManualVPNSettingsViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="0Gj-sl-JBI.text">
@@ -329,7 +329,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBMenuViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="3Pc-kZ-ZSJ.text">
@@ -355,7 +355,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPrivacyInfoViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="fpX-y1-jyN.normalTitle">
@@ -371,7 +371,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBProfileInstallViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="Bui-2t-tC6.normalTitle">
@@ -392,7 +392,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBProfileReinstallViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="3GF-DA-YqY.title">
@@ -413,7 +413,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPurchaseContainerViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="Pne-4F-Pbh.text">
@@ -444,7 +444,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBPurchaseViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="2XY-cC-bu3.text">
@@ -490,7 +490,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterConfirmViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="3YB-rY-Wxe.title">
@@ -521,7 +521,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterInfoViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="LQF-yZ-SMv.text">
@@ -562,7 +562,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBTwitterThanksViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="Fd1-X4-kYs.text">
@@ -588,7 +588,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBVerifyEmailViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="2JP-sf-gYi.text">
@@ -624,7 +624,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Resources/Views/Base.lproj/TBWebViewController.xib" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="17.title">
@@ -635,7 +635,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Support/Info.plist" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
@@ -653,7 +653,7 @@
     </body>
   </file><file datatype="plaintext" original="TunnelBear/Support/Localizable.strings" source-language="en">
     <header>
-      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"></tool>
+      <tool build-num="7A218" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0"/>
     </header>
     <body>
       <trans-unit id=" Double check your connection?">
