@@ -1,17 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">The Best Demo App Ever</string>
+    <string name="app_name">En güzel demo uygulaması</string>
 
     <!-- Landing Activity -->
-    <string name="title_home">Home</string>
-    <string name="title_events">Events</string>
-    <string name="title_medals">Medals</string>
-    <string name="title_schedules">Schedules</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_events">Karşılaşmalar</string>
+    <string name="title_medals">Medaller</string>
+    <string name="title_schedules">Takvim</string>
 
-    <string name="loading">Loading…</string>
+    <string name="loading">Yükleniyor…</string>
     
     <plurals name="plural_demo">
-        <item quantity="one">Day</item>
-        <item quantity="other">Days</item>
-    </plurals>
+	<item quantity="one">Gün</item>
+	<item quantity="other">Günler</item>
+</plurals>
 
 </resources>
