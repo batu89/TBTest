@@ -16,7 +16,7 @@
 -->
 <resources>
 
-    <string name="registration_error">İnternet bağlantısında hata YYYYYY ueaeüeaieaiaiaiaea</string>
+    <string name="registration_error">İnternet bağlantısında hata YYYYYY ueaeüeaieaiaiaiaea yeah</string>
     <string name="server_connection_error">Sunucu bağlantısında hata lmklmklmklklklmklk...</string>
     <string name="ok">Tamam</string>
     <string name="megabytes">MB</string>
@@ -322,7 +322,7 @@
     <string name="connected_not">Belki bağlanmadı</string>
     <string name="submit_then">Neyi Gönder? Neden? güncellendi !</string>
     <string name="registration_error_new">İnternet bağlantısında hata XXXXXXXXX</string>
-    <string name="server_connection_error_new">Merhaba</string>
+    <string name="server_connection_error_new">Merhaba Medallia test</string>
     <string name="update_status_error_new">Tünel açmada hata Soo GÜNCELLENDİ !</string>
     <string name="login_new">Giriş YYYYY</string>
     <string name="update_status_error_new_addednewly">eai ieaeiaiea !</string>
