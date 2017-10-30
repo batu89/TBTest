@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">The Best Demo App Ever</string>
+
+    <!-- Landing Activity -->
+    <string name="title_home">Home</string>
+    <string name="title_events">Events</string>
+    <string name="title_medals">Medals</string>
+    <string name="title_schedules">Schedules</string>
+
+    <string name="loading">Loading…</string>
+    
+    <plurals name="plural_demo">
+        <item quantity="one">Day</item>
+        <item quantity="other">Days</item>
+    </plurals>
+
+</resources>
