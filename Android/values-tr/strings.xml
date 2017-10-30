@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">En güzel demo uygulaması</string>
+    <string name="app_name">RESAAS için en güzel demo uygulaması</string>
 
     <!-- Landing Activity -->
-    <string name="title_home">Ana Sayfa</string>
+    <string name="title_home">Ana Sayfa 2</string>
     <string name="title_events">Karşılaşmalar</string>
     <string name="title_medals">Medaller</string>
     <string name="title_schedules">Takvim</string>
