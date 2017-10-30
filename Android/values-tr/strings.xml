@@ -3,7 +3,7 @@
     <string name="app_name">En güzel demo uygulaması</string>
 
     <!-- Landing Activity -->
-    <string name="title_home">Ana Sayfa değişiklikler</string>
+    <string name="title_home">Ana Sayfa</string>
     <string name="title_events">Karşılaşmalar</string>
     <string name="title_medals">Medaller</string>
     <string name="title_schedules">Takvim</string>
