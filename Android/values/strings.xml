@@ -1,9 +1,9 @@
 ﻿<resources>
-    <string name="app_name">The Best Demo App Ever for RESAAS</string>
+    <string name="app_name">The Best Demo App Ever for Anny and Arti</string>
 
     <!-- Landing Activity -->
     <string name="title_home">Home 2</string>
-    <string name="title_events">Events</string>
+    <string name="title_events">New Events</string>
     <string name="title_medals">Medals</string>
     <string name="title_schedules">Schedules</string>
 
