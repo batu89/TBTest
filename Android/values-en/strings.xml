@@ -1,5 +1,6 @@
-﻿<resources>
-    <string name="app_name">The Best Demo App Ever</string>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">English - The Best Demo App Ever</string>
 
     <!-- Landing Activity -->
     <string name="title_home">Home edits</string>
