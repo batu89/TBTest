@@ -1,17 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">The Best Demo App Ever</string>
+    <string name="app_name">German - The Best Demo App Ever test 2233445554433444</string>
 
     <!-- Landing Activity -->
-    <string name="title_home">Home</string>
-    <string name="title_events">Events</string>
-    <string name="title_medals">Medals</string>
-    <string name="title_schedules">Schedules</string>
+    <string name="title_home">German - Home</string>
+    <string name="title_events">German - Events</string>
+    <string name="title_medals">German - Medals</string>
+    <string name="title_schedules">German - Schedules</string>
 
-    <string name="loading">Loading…</string>
+    <string name="loading">German - Loading…</string>
     
     <plurals name="plural_demo">
-        <item quantity="one">Day</item>
-        <item quantity="other">Days</item>
-    </plurals>
+	<item quantity="one">German - Day</item>
+	<item quantity="other">German - Days</item>
+</plurals>
 
 </resources>
