@@ -1,2 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="mymedals">Medaillen</string>
+    <string name="too_short">kurze</string>
+
+    <string name="loading_too_long">Werden geladen…</string>
+    
+	<string name="hello">Hallo!</string>
+	<string name="vegas_nhl">Die Vegas Golden Knights, 2018 Stanley-Cup-Sieger?</string>
+    
+</resources>
