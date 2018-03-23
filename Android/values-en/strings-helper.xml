@@ -4,4 +4,7 @@
 
     <string name="loading_too_long">Loading…</string>
     
+	<string name="hello">Hello there!</string>
+	<string name="vegas_nhl">The Vegas Golden Knights, 2018 Stanley Cup champions?</string>
+    
 </resources>
