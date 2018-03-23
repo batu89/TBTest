@@ -6,5 +6,8 @@
     
 	<string name="hello">Hello there!</string>
 	<string name="vegas_nhl">The Vegas Golden Knights, 2018 Stanley Cup champions?</string>
-    
+	
+	<string name="seattle_nhl">Seattle needs a hockey team.</string>
+	<string name="example">This is an example string!</string>
+	
 </resources>
