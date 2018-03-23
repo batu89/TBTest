@@ -7,4 +7,7 @@
 	<string name="hello">Hallo!</string>
 	<string name="vegas_nhl">Die Vegas Golden Knights, 2018 Stanley-Cup-Sieger?</string>
     
+<string name="seattle_nhl">Seattle braucht ein Hockey-Team.</string>
+	<string name="example">Dies ist eine Beispiel-Zeichenfolge!</string>
+	
 </resources>
