@@ -7,3 +7,5 @@
 /* No comment provided by engineer. */
 "You are awesome" = "&quote;Awesome!&quote; Batu!";
 
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "17"; */
+"17.title" = "Done";
